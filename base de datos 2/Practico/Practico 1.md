@@ -83,3 +83,6 @@ D -> D
 $BD^+$ = {A, B, C, D}
 
 ###### DF1
+AB -> C
+B -> A
+![[tempFileForShare_20240822-202609.jpg]]
