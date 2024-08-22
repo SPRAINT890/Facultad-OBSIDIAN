@@ -11,11 +11,28 @@
             "id": "b71e8064592c0b0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "base de datos 2/Normalización.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "587e3984e7dc72e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prueba.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "prueba.md"
+              }
             }
           }
         ]
@@ -139,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b71e8064592c0b0e",
+  "active": "587e3984e7dc72e4",
   "lastOpenFiles": [
     "base de datos 2/Normalización.md",
+    "prueba.md",
     "base de datos 2/Imagen/Pasted image 20240820210702.png",
     "base de datos 2/Imagen/Pasted image 20240820205235.png",
     "base de datos 2/Imagen/Pasted image 20240820201845.png",
