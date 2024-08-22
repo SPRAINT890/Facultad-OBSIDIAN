@@ -39,7 +39,7 @@ $(ACG)^+$ = {A, C, E, G}
 $(CGD)^+$ = {C, G, D, A, E, B} $\surd$
 $(ACDG)^+$ = {A, C, D, G, B, E} $\surd$
 
-BG, CGD y ACDG son las claves
+BG, CGD y ACDG son las claves ya que no quedan atributos que no se repitan para formar una clave
 
 
 
