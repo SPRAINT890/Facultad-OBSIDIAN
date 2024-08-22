@@ -1,4 +1,7 @@
 [[Practico 1]]
+[[DF vs IR]]
+[[Laboratorio 1]]
+[[Tipo de Malware y Ataques]]
 ## Historia
 
 1976, Libro Crime by computer (Donn Parker)
