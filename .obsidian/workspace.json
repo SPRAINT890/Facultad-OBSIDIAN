@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "103c31b06c8dc44e",
+        "id": "6cc5ef0daf6056cf",
         "type": "tabs",
         "children": [
           {
-            "id": "b71e8064592c0b0e",
+            "id": "484b60d688451767",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base de datos 2/Diseño.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Diseño.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Diseño.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "base de datos 2/Diseño.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b71e8064592c0b0e",
+  "active": "484b60d688451767",
   "lastOpenFiles": [
-    "base de datos 2/Imagen/Pasted image 20240808200924.png",
     "base de datos 2/Diseño.md",
+    "base de datos 2/Imagen/Pasted image 20240808200924.png",
     "base de datos 2/Normalización.md",
     "Clei/Curso 3/Introduccion.md",
     "Clei/Curso 3/Mas Cosas.md",
@@ -180,7 +172,6 @@
     "Ing software/Recursos/Pasted image 20240820184142.png",
     "Clei/Curso 5/Practico 1.md",
     "Investigacion Operativa/Temas/Problema del viajero.md",
-    "Clei/Curso 3/Recurso/Pasted image 20240813091144.png",
     "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf",
     "Clei/Curso 3/Ej1/Ejercicio 1.md",
     "E.md",
