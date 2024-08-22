@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "587e3984e7dc72e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prueba.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "587e3984e7dc72e4",
+  "active": "9c8483d1ef244f85",
   "lastOpenFiles": [
     "base de datos 2/Normalización.md",
     "prueba.md",
