@@ -10,8 +10,15 @@ Los atributos B y H solo aparecen del lado izquierdo de la DF (Dependencia Funci
 
 Si $(BH)^+$ = $R_1$,  entonces BH es clave
 
-$BH^+$ {B, H, E, G}
+$BH^+$ {B, H, E, G} $\neq R_1$ -> BH  no es clave
 
+Como G solo aparece del lado derecho de las DF, sabemos que no va a formar parte de ninguna clave mínima
+
+##### ¿Cuales son las c?
+1. (BHA)
+2. (BHC)
+3. (BHD)
+4. (BHE)
 
 
 ## Ejercicio 1
