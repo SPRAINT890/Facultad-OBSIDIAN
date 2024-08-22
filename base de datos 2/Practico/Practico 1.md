@@ -63,3 +63,23 @@ $C^+$ = {C, D, G}
 
 Es verdadero ya que todas las clausulas de los atributos de la derecha llegan a los de la izquierda
 
+## Ejercicio 2
+Dado el esquema de relacion
+	R = (A, B, C, D, E, G)
+Y el conjunto de DF
+	F = {AE -> BD, AB -> CEG, EG -> BC, B -> A, G -> D}
+Determinar la forma normal de la siguiente descomposición
+	D = {R1(A, B, C, D) 
+		R2(B, C, D, E, G)}
+
+### Forma normal de R1
+
+##### F1
+AB -> C
+B -> A
+D -> D
+
+###### ¿Cuál es la clave de R1?
+$BD^+$ = {A, B, C, D}
+
+###### DF1
