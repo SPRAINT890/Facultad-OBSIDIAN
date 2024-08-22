@@ -1,0 +1,2 @@
+![[Pasted image 20240807203201.png]]
+Un vendedor viajero tiene que visitar una sola vez cada uno de los 7 destinos, saliendo del punto 1 y volviendo al mismo punto. Y quiere hacerlo recorriendo la distancia mínima.

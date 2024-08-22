@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "0dd9955d4ef7d3d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "103c31b06c8dc44e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b71e8064592c0b0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "759b9a355226b066",
+    "type": "split",
+    "children": [
+      {
+        "id": "41beaf8110f97b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c8483d1ef244f85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1b82d0759b93c0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70becb9705bd961b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "d4f4430b039e3f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "1777ca7da95617b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d0753043f8999b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e373d4ccd355f06d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "125248cdce331006",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "098434f4d28ea984",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b71e8064592c0b0e",
+  "lastOpenFiles": [
+    "base de datos 2/Normalización.md",
+    "base de datos 2/Imagen/Pasted image 20240820210702.png",
+    "base de datos 2/Imagen/Pasted image 20240820205235.png",
+    "base de datos 2/Imagen/Pasted image 20240820201845.png",
+    "base de datos 2/Diseño.md",
+    "Ing software/Requisitos.md",
+    "Ing software/Recursos/Pasted image 20240820191327.png",
+    "Ing software/Recursos/Pasted image 20240820190600.png",
+    "Ing software/Recursos/Pasted image 20240820190529.png",
+    "Ing software/Recursos/Pasted image 20240820185849.png",
+    "Ing software/Software.md",
+    "Clei/Curso 5/Introduccion.md",
+    "Ing software/Recursos/Pasted image 20240820185447.png",
+    "Ing software/Recursos",
+    "Ing software/Untitled.md",
+    "Ing software/Recursos/Pasted image 20240820184142.png",
+    "Clei/Curso 5/Laboratorio 1.md",
+    "Clei/Curso 5/DF vs IR.md",
+    "Clei/Curso 5/Practico 1.md",
+    "Clei/Curso 5/Tipo de Malware y Ataques.md",
+    "Clei/Curso 5/P2.md",
+    "Investigacion Operativa/Investigación Operativa.md",
+    "Investigacion Operativa/Bibiliografia.md",
+    "Investigacion Operativa/Temas/Problema del viajero.md",
+    "Clei/Curso 3/Mas Cosas.md",
+    "Clei/Curso 3/Introduccion.md",
+    "Clei/Curso 3/Inicio.md",
+    "Clei/Curso 3/Recurso/Pasted image 20240813091144.png",
+    "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf",
+    "Clei/Curso 3/Ej1/Ejercicio 1.md",
+    "E.md",
+    "Clei/Curso 3/Ej1",
+    "Clei/Curso 3/Bibliografia C3.md",
+    "Clei/Curso 5",
+    "Clei/Curso 3/Recurso",
+    "Clei/Curso 5.md",
+    "Clei/Curso 3",
+    "Clei",
+    "Ing software",
+    "Investigacion Operativa/Temas/Programación Entera.md",
+    "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
+    "Investigacion Operativa/Ejemplo/Ejemplo Programación Entera.md",
+    "Investigacion Operativa/Ejemplo/Ejercicio 2.md",
+    "Recursos/Untitled",
+    "base de datos 2/Imagen"
+  ]
+}
