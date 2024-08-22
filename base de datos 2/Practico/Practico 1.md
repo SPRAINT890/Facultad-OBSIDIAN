@@ -1,4 +1,4 @@
-## Ejercicio Profe
+## Ejercicio Profe 1
 $R_1$  (A, B, C, D, E, G, H)
 
 $F_1$  {AB -> CDE, C -> A, D -> E, H -> E, HE -> G}
@@ -21,7 +21,18 @@ Como G solo aparece del lado derecho de las DF, sabemos que no va a formar parte
 4. $(BHE)^+$ = {B, H, E, G} X
 
 ##### ¿De cuatro?
-$(BHDE)^+$ = 
+$(BHDE)^+$ = (B, H, D, E, G) -> No es clave
+
+## Ejercicio Profe 2
+$R_2$ (A, B, C, D, E, G)
+$F_2$ {B -> CD, ACD -> B, C -> AE}
+
+#### Hallar **todas** las claves de R2 justifique!
+$A^+$ = {A}
+$B^+$ = {B, C, D, A, E}
+$C^+$ = {C, A, E}
+$(AC)^+$ = {A, C, E}
+
 
 
 ## Ejercicio 1
@@ -35,8 +46,12 @@ C -> G
 BD -> E
 AB -> D
 BC -> G
-
+#### A
 $A^+$ {A, B, C, D, G, E}
-$B^+$ {
+$BG^+$ {B, G}
+No cumple por que la cobertura de BG no llega a D
+#### B
+$C^+$ = {C, D, G}
 
-}
+Es verdadero ya que todas las clausulas de los atributos de la derecha llegan a los de la izquierda
+
