@@ -31,7 +31,15 @@ $F_2$ {B -> CD, ACD -> B, C -> AE}
 $A^+$ = {A}
 $B^+$ = {B, C, D, A, E}
 $C^+$ = {C, A, E}
-$(AC)^+$ = {A, C, E}
+$D^+$ = {D}
+$E^+$ = {E}
+$G^+$ = {G}
+$(BG)^+$ = {B, C, D, A, E, G} $\surd$
+$(ACG)^+$ = {A, C, E, G}
+$(CGD)^+$ = {C, G, D, A, E, B} $\surd$
+$(ACDG)^+$ = {A, C, D, G, B, E} $\surd$
+
+BG, CGD y ACDG son las claves
 
 
 
