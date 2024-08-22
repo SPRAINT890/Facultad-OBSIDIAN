@@ -14,7 +14,7 @@ Una dependencia funcional parcial es que un atributo de
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1era Forma Normal** | La relacion debe tener atributos multivalor o relaciones anidadas.                                                                                                                              | Generar nuevas relaciones para cada atributo multivalor o relacion anidada                                                                                                                                                                      |
 | **2da Forma Normal**  | Para relaciones en las que la clave tenga varios atributos, un atributo no clave debe depender parcialmente de la clave primaria                                                                | Descomponer y configurar una nueva relacion por cada clave parcial con sus atributos dependientes.<br>Asegurar de mantener una relacion con la clave principal original y cualquier atributo que sea funcionalmente dependiente (total) de ella |
-| 3era Forma Normal     | La relacion tiene un atributo no clave que esta funcionalmente determinado por otro atributo no clave.<br>Es decir, hay una dependencia transitiva de un atributo no clave de la clave primaria | Descomponer y configurar una relacion que incluya el(los) atributo(s) no clave que determine(n) funcionalmente otro(s) atributo(s) no clave.                                                                                                    |
+| **3era Forma Normal** | La relacion tiene un atributo no clave que esta funcionalmente determinado por otro atributo no clave.<br>Es decir, hay una dependencia transitiva de un atributo no clave de la clave primaria | Descomponer y configurar una relacion que incluya el(los) atributo(s) no clave que determine(n) funcionalmente otro(s) atributo(s) no clave.                                                                                                    |
 
 
 ### Primera forma Normal
@@ -24,6 +24,7 @@ Una dependencia funcional parcial es que un atributo de
 
 ![[Pasted image 20240808200924.png]]
 En este caso se tiene que hacer una tabla Ubicacion, con NroDepto y Ubicacion como clave primaria
+
 ### Segunda forma Normal
 Un esquema de relacion R esta en segunda forma normal si todo atributo no primo A en R es completa y funcionalmente dependiente de la clave principal R
 ![[Pasted image 20240820201845.png]]Ejemplo de por que no tener todo en una tabla
