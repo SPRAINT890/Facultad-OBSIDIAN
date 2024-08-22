@@ -14,11 +14,14 @@ $BH^+$ {B, H, E, G} $\neq R_1$ -> BH  no es clave
 
 Como G solo aparece del lado derecho de las DF, sabemos que no va a formar parte de ninguna clave mínima
 
-##### ¿Cuales son las c?
-1. (BHA)
-2. (BHC)
-3. (BHD)
-4. (BHE)
+##### ¿Cuales son las combinaciones posibles con 3 atributos de $R_1$?
+1. $(BHA)^+$ = {B, H, A, C, D, E, G} $\surd$
+2. $(BHC)^+$ = {B, H, C, A, D, E, G} $\surd$
+3. $(BHD)^+$ = {B, H, D, E, G} X
+4. $(BHE)^+$ = {B, H, E, G} X
+
+##### ¿De cuatro?
+$(BHDE)^+$ = 
 
 
 ## Ejercicio 1
