@@ -83,6 +83,18 @@ D -> D
 $BD^+$ = {A, B, C, D}
 
 ###### DF1
-AB -> C
-B -> A
 ![[tempFileForShare_20240822-202609.jpg]]
+
+
+### Forma normal de R2
+##### F2
+EG -> B
+EG -> C
+G -> D
+
+###### ¿Cuál es la clave de R2?
+$EG^+$ = {E, G, B, C, D}
+
+###### DF2
+![[tempFileForShare_20240822-204413.jpg]]
+
