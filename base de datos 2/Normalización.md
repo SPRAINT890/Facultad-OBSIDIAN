@@ -1,3 +1,5 @@
+[[base de datos 2/Practico/Practico 1|Practico 1]]
+
 Relacion R (a, b, c, d)
 Clave primaria -> a -> {b, c, d}
 Clave secundaria -> b -> {a, c, d}
