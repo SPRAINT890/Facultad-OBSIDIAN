@@ -8,7 +8,7 @@ https://alarcos.esi.uclm.es/IDLineas.php
 
 Drive con presentación y ejercicio
 https://drive.google.com/drive/folders/1zNNE_havIyo9FXNywtV6J6tBl0d1S_G_
-
+[[Mas Cosas]]
 ## Objetivos
 ### Introduccion a los metodos de investigacion.
 se necesita valida a través de unos métodos validos de investigación, las principales características de los métodos de investigación que se usan en informática para validar las diferentes aportaciones realizadas en investigación, considerando métodos primarios y secundarios.

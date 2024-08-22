@@ -11,12 +11,8 @@
             "id": "b71e8064592c0b0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base de datos 2/Normalización.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prueba 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,10 +139,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9c8483d1ef244f85",
+  "active": "b71e8064592c0b0e",
   "lastOpenFiles": [
-    "base de datos 2/Normalización.md",
+    "Clei/Curso 3/Introduccion.md",
+    "Clei/Curso 3/Mas Cosas.md",
+    "Clei/Curso 5/Introduccion.md",
+    "Clei/Curso 5/Tipo de Malware y Ataques.md",
+    "Clei/Curso 5/Laboratorio 1.md",
+    "Clei/Curso 5/DF vs IR.md",
+    "Clei/Curso 5/P2.md",
+    "Investigacion Operativa/Investigación Operativa.md",
+    "Investigacion Operativa/Bibiliografia.md",
+    "Clei/Curso 3/Bibliografia C3.md",
+    "Clei/Curso 3/Inicio.md",
     "Prueba 2.md",
+    "base de datos 2/Normalización.md",
     "prueba.md",
     "base de datos 2/Imagen/Pasted image 20240820210702.png",
     "base de datos 2/Imagen/Pasted image 20240820205235.png",
@@ -160,28 +165,17 @@
     "Ing software/Recursos/Pasted image 20240820190529.png",
     "Ing software/Recursos/Pasted image 20240820185849.png",
     "Ing software/Software.md",
-    "Clei/Curso 5/Introduccion.md",
     "Ing software/Recursos/Pasted image 20240820185447.png",
     "Ing software/Recursos",
     "Ing software/Untitled.md",
     "Ing software/Recursos/Pasted image 20240820184142.png",
-    "Clei/Curso 5/Laboratorio 1.md",
-    "Clei/Curso 5/DF vs IR.md",
     "Clei/Curso 5/Practico 1.md",
-    "Clei/Curso 5/Tipo de Malware y Ataques.md",
-    "Clei/Curso 5/P2.md",
-    "Investigacion Operativa/Investigación Operativa.md",
-    "Investigacion Operativa/Bibiliografia.md",
     "Investigacion Operativa/Temas/Problema del viajero.md",
-    "Clei/Curso 3/Mas Cosas.md",
-    "Clei/Curso 3/Introduccion.md",
-    "Clei/Curso 3/Inicio.md",
     "Clei/Curso 3/Recurso/Pasted image 20240813091144.png",
     "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf",
     "Clei/Curso 3/Ej1/Ejercicio 1.md",
     "E.md",
     "Clei/Curso 3/Ej1",
-    "Clei/Curso 3/Bibliografia C3.md",
     "Clei/Curso 5",
     "Clei/Curso 3/Recurso",
     "Clei/Curso 5.md",
