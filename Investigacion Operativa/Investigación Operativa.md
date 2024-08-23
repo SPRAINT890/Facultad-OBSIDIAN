@@ -1,7 +1,8 @@
-##### [[Bibiliografia]]
+##### [[Bibliografía]]
 ##### [[Programación Entera]]
 ##### [[Programación lineal]]
 ##### [[Problema del viajero]]
+##### [[Simplex]]
 
 ### Formato Estándar del modelo
 

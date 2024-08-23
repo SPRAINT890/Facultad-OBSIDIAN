@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b71e8064592c0b0e",
+            "id": "13c6a7d44ae95929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md",
+                "file": "Investigacion Operativa/Simplex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md",
+                "file": "Investigacion Operativa/Simplex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md",
+                "file": "Investigacion Operativa/Simplex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md"
+                "file": "Investigacion Operativa/Simplex.md"
               }
             }
           }
@@ -147,12 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b71e8064592c0b0e",
+  "active": "13c6a7d44ae95929",
   "lastOpenFiles": [
+    "Investigacion Operativa/Investigación Operativa.md",
+    "Investigacion Operativa/Simplex.md",
+    "Investigacion Operativa/Bibliografía.md",
+    "base de datos 2/Practico/Practico 1.md",
     "base de datos 2/Imagen/tempFileForShare_20240822-204413.jpg",
     "base de datos 2/Imagen/tempFileForShare_20240822-202609.jpg",
     "conflict-files-obsidian-git.md",
-    "base de datos 2/Practico/Practico 1.md",
     "base de datos 2/Imagen/Pasted image 20240822181859.png",
     "base de datos 2/Normalización.md",
     "base de datos 2/Diseño.md",
@@ -168,7 +171,6 @@
     "Ing software/Recursos/Pasted image 20240820185849.png",
     "Ing software/Software.md",
     "Clei/Curso 5/Introduccion.md",
-    "Ing software/Recursos/Pasted image 20240820185447.png",
     "Ing software/Recursos",
     "Ing software/Untitled.md",
     "Clei/Curso 5/Laboratorio 1.md",
@@ -176,8 +178,6 @@
     "Clei/Curso 5/Practico 1.md",
     "Clei/Curso 5/Tipo de Malware y Ataques.md",
     "Clei/Curso 5/P2.md",
-    "Investigacion Operativa/Investigación Operativa.md",
-    "Investigacion Operativa/Bibiliografia.md",
     "Investigacion Operativa/Temas/Problema del viajero.md",
     "Clei/Curso 3/Mas Cosas.md",
     "Clei/Curso 3/Introduccion.md",
