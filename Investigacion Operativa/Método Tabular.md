@@ -43,11 +43,15 @@ $x_1$, $x_2 \geq 0$
 |    $x_5$ (3)     |    0    |    3    |   ***2***   |    0    |    0    |    1    |    18    | $18/2 = 9$       |     |
 |                  |         |         |      *      |         |         |         |          |                  |     |
 
-| Variable Basicas  | Z   | $x_1$ | $x_2$ | $x_3$ | $x_4$ | $x_5$ | LD  |
-| ----------------- | --- | ----- | ----- | ----- | ----- | ----- | --- |
-| Z                 | 1   | -3    | 0     | 0     | 5/2   | 0     | 30  |
-| $x_3$             |     |       |       |       |       |       |     |
-| $x_2$             | 0   | 0     | 1     | 0     | 1/2   | 0     | 6   |
-| $x_5$             |     |       |       |       |       |       |     |
-|                   | 0   | 0     | 5     | 0     | 5/2   | 0     | 30  |
+De la columna pivot divido los numeros por el numero pivot, luego me fijo en los Z si mi numero es negativo entonces agarro el valor absoluto y lo multiplico por la fila pivot y  se la sumo a la fila Z
+bajo una fila y como es cero multiplico la fila pivot menos la fila propia
 
+| Variable Basicas | Z   | $x_1$ | $x_2$ | $x_3$ | $x_4$ | $x_5$ | LD  |
+| ---------------- | --- | ----- | ----- | ----- | ----- | ----- | --- |
+| Z                | 1   | -3    | 0     | 0     | 5/2   | 0     | 30  |
+| $x_3$            | 0   | 1     | 0     | 1     | 0     | 0     | 4   |
+| $x_2$            | 0   | 0     | 1     | 0     | 1/2   | 0     | 6   |
+| $x_5$            | 0   | 3     | 0     | 0     | -1    | 1     | 6   |
+|                  | 0   | 0     | 5     | 0     | 5/2   | 0     | 30  |
+
+	Foto 22/8
