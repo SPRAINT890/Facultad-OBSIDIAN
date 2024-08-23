@@ -2,7 +2,7 @@
 ##### [[Programación Entera]]
 ##### [[Programación lineal]]
 ##### [[Problema del viajero]]
-##### [[Simplex]]
+##### [[Método Tabular]]
 
 ### Formato Estándar del modelo
 
