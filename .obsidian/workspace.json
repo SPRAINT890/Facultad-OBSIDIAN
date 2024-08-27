@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/Caso de uso.md",
+                "file": "Ing software/SRS Documento de requisitos.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/Caso de uso.md",
+                "file": "Ing software/SRS Documento de requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/Caso de uso.md",
+                "file": "Ing software/SRS Documento de requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/Caso de uso.md"
+                "file": "Ing software/SRS Documento de requisitos.md"
               }
             }
           }
@@ -161,11 +161,12 @@
   },
   "active": "13c6a7d44ae95929",
   "lastOpenFiles": [
+    "Ing software/Caso de uso.md",
+    "Ing software/SRS Documento de requisitos.md",
     "Pasted image 20240827181523.png",
     "Ing software/Recursos/Pasted image 20240827181427.png",
     "Ing software/Recursos/Pasted image 20240827181348.png",
     "Ing software/Software.md",
-    "Ing software/Caso de uso.md",
     "Investigacion Operativa/Método Tabular.md",
     "Investigacion Operativa/Investigación Operativa.md",
     "Investigacion Operativa/Bibliografía.md",
@@ -183,7 +184,6 @@
     "base de datos 2/Imagen/Pasted image 20240820201845.png",
     "Ing software/Requisitos.md",
     "Ing software/Recursos/Pasted image 20240820191327.png",
-    "Ing software/Recursos/Pasted image 20240820190600.png",
     "Clei/Curso 5/Introduccion.md",
     "Ing software/Recursos",
     "Clei/Curso 5/Laboratorio 1.md",
