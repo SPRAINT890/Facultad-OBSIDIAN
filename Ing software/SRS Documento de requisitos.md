@@ -55,4 +55,23 @@ Garantizan que el producto será adecuado para su uso en otros países, culturas
 Todas las siglas propias o palabras se tienen que definir
 
 
-## Especificacion de requisitos en proyectos agiles
+# Especificación de requisitos en proyectos agiles
+
+## Historias de Usuario
+Descripción breve y simple de una característica contada desde la perspectiva de la persona (usuario, cliente o interesado) que desea una nueva funcionalidad o capacidad
+
+Como (tipo de usuario) , quiero (algún objetivo) para que (algún motivo)
+
+#### Epicas
+Son historias de usuario generales en backlogs
+
+#### Requisitos no funcionales
+Se definen dentro de las historia de usuarios como criterios de aceptación
+
+### Invest
+- Independent: Independientes entre si
+- negotiable: Se define el detalle y alcance con el PO (Product Owner)
+- valuable: Deben aportar valor
+- estimable: Tiene que poder ser estimable
+- short: Fáciles de estimar y hacer en un sprint
+- testeable: Se tienen que verificar
