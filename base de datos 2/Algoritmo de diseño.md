@@ -7,12 +7,25 @@ Dado F, G es la cobertura mínima de F
 
 Cuando se hace una descomposición no queremos perder atributos ni dependencias funcionales
 
-## Conservacion de dependencias
+## Conservación de dependencias
 Dado un conjunto de dependencias F en R, la proyección de F en $R_i, \pi R_iF$, Donde $R_i$ es un subconjunto de R, es el conjunto de dependencias $X \rightarrow Y$ en $F^+$ tales que los atributos X U Y se encuentran todos en $R^i$
 
-Relacion Unicersal: R ($A_1, A_2, ..., A_n$)
-Conjunto DF: F = {$df$}
+Relacion Universal: R ($A_1, A_2, ..., A_n$)
+Conjunto DF: F = {$DF_1, DF_2, ..., DF_m$}
+Descomposición: D = {$R_1, R_2, ..., R_e$}
 
+R(DNI, Nombre, Apellido, IdProyecto, NombreProyecto)
+F: {$DNI \rightarrow nombre, apellido$}
+	{$IdProyecto \rightarrow NombreProyecto$}
+D = {$R_1, R_2$} $R_1$ (DNI, nombre, apellido)
+			$R_2$ (IdProyecto, NombreProyecto)
+
+- Se conservan atributos
+- Se conservan DF
+
+
+##### Relacion Universal:
+R (dni, num_proy, nom_empl, salario, telef_e)
 
 
 
