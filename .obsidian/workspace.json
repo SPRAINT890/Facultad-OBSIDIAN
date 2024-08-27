@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/SRS Documento de requisitos.md",
+                "file": "Ing software/Laboratorio.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/SRS Documento de requisitos.md",
+                "file": "Ing software/Laboratorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/SRS Documento de requisitos.md",
+                "file": "Ing software/Laboratorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/SRS Documento de requisitos.md"
+                "file": "Ing software/Laboratorio.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "13c6a7d44ae95929",
   "lastOpenFiles": [
-    "Ing software/Caso de uso.md",
     "Ing software/SRS Documento de requisitos.md",
+    "Ing software/Laboratorio.md",
+    "Ing software/Caso de uso.md",
     "Pasted image 20240827181523.png",
     "Ing software/Recursos/Pasted image 20240827181427.png",
     "Ing software/Recursos/Pasted image 20240827181348.png",
@@ -202,7 +203,6 @@
     "Clei/Curso 3/Bibliografia C3.md",
     "Clei/Curso 5",
     "Clei/Curso 3/Recurso",
-    "Clei/Curso 5.md",
     "Clei/Curso 3",
     "Clei",
     "Ing software",
