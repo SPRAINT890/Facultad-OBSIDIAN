@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md",
+                "file": "Ing software/Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md",
+                "file": "Ing software/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md",
+                "file": "Ing software/Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md"
+                "file": "Ing software/Software.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "13c6a7d44ae95929",
   "lastOpenFiles": [
-    "Investigacion Operativa/Investigación Operativa.md",
     "Investigacion Operativa/Método Tabular.md",
+    "Investigacion Operativa/Investigación Operativa.md",
     "Investigacion Operativa/Bibliografía.md",
     "base de datos 2/Practico/Practico 1.md",
     "base de datos 2/Imagen/tempFileForShare_20240822-204413.jpg",

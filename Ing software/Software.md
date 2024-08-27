@@ -1,5 +1,5 @@
 ### [[Requisitos |Requisitos del software]]
-### Actividades involucradas en la produccion de software
+### Actividades involucradas en la producción de software
 1. Relevar
 	- Mercado
 	- Necesidades
