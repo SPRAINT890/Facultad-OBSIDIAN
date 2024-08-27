@@ -25,7 +25,15 @@ D = {$R_1, R_2$} $R_1$ (DNI, nombre, apellido)
 
 
 ##### Relacion Universal:
-R (dni, num_proy, nom_empl, salario, telef_e)
+R (dni, num_proy, nom_empl, salario, telef_empl, num_depto, nom_proy, ubic_proy)
+
+##### Dependencias Funcionales
+dni $\rightarrow$ salario, telef_empl, num_depto
+num_proy $\rightarrow$ nom_proy, ubic_proy
+dni, num_proy $\rightarrow$ salario, telef_empl, num_depto, nom_proy, ubic_proy
+
+## Concatenacion (Join) sin perdida
+Una descomposición D = ($R_1, R_2, ..., R_m$) de R, cumple con la propiedad de concatenación sin pérdida respecto al conjunto de dependencias funcionales F en R, si para cada estado de relación r de R que satisface F, se mantiene lo siguiente: join 
 
 
 
