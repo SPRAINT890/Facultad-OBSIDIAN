@@ -27,7 +27,7 @@ Son etapas que inician cuando la anterior etapa inicia, y finalizan para darle c
 #### Dirigidos por planes o incremental
 modelo donde se le va entregando al cliente distintas versiones del producto, que sea usable para el cliente, para que pueda validar
 
-#### Integración y configuración (Reutilizacion)
+#### Integración y configuración (Reutilización)
 partiendo de una especificación de requerimientos, pasando por un descubrimiento de software, pasando despues por el refinamiento de proceso.
 
 

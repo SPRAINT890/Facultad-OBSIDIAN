@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/Software.md",
+                "file": "Ing software/Caso de uso.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/Software.md",
+                "file": "Ing software/Caso de uso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/Software.md",
+                "file": "Ing software/Caso de uso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/Software.md"
+                "file": "Ing software/Caso de uso.md"
               }
             }
           }
@@ -161,6 +161,11 @@
   },
   "active": "13c6a7d44ae95929",
   "lastOpenFiles": [
+    "Pasted image 20240827181523.png",
+    "Ing software/Recursos/Pasted image 20240827181427.png",
+    "Ing software/Recursos/Pasted image 20240827181348.png",
+    "Ing software/Software.md",
+    "Ing software/Caso de uso.md",
     "Investigacion Operativa/Método Tabular.md",
     "Investigacion Operativa/Investigación Operativa.md",
     "Investigacion Operativa/Bibliografía.md",
@@ -179,12 +184,8 @@
     "Ing software/Requisitos.md",
     "Ing software/Recursos/Pasted image 20240820191327.png",
     "Ing software/Recursos/Pasted image 20240820190600.png",
-    "Ing software/Recursos/Pasted image 20240820190529.png",
-    "Ing software/Recursos/Pasted image 20240820185849.png",
-    "Ing software/Software.md",
     "Clei/Curso 5/Introduccion.md",
     "Ing software/Recursos",
-    "Ing software/Untitled.md",
     "Clei/Curso 5/Laboratorio 1.md",
     "Clei/Curso 5/DF vs IR.md",
     "Clei/Curso 5/Practico 1.md",
@@ -205,7 +206,6 @@
     "Clei/Curso 3",
     "Clei",
     "Ing software",
-    "Investigacion Operativa/Temas/Programación Entera.md",
     "Recursos/Untitled"
   ]
 }
