@@ -33,9 +33,36 @@ num_proy $\rightarrow$ nom_proy, ubic_proy
 dni, num_proy $\rightarrow$ salario, telef_empl, num_depto, nom_proy, ubic_proy
 
 ## Concatenacion (Join) sin perdida
-Una descomposición D = ($R_1, R_2, ..., R_m$) de R, cumple con la propiedad de concatenación sin pérdida respecto al conjunto de dependencias funcionales F en R, si para cada estado de relación r de R que satisface F, se mantiene lo siguiente: join 
+Una descomposición D = ($R_1, R_2, ..., R_m$) de R, cumple con la propiedad de concatenación sin pérdida respecto al conjunto de dependencias funcionales F en R, si para cada estado de relación r de R que satisface F, se mantiene lo siguiente:
+![[Pasted image 20240827204935.png | 500]]
+
+==La propiedad de concatenación sin pérdida garantiza que no se generarán tuplas falsas cuando se aplica un join a las relaciones de la descomposición.==
 
 
+#### R
 
+| CI  | Nombre | Apellido | IdP | NombreProyecto |
+| --- | ------ | -------- | --- | -------------- |
+| 1   | Seba   | Garcia   | 2   | BD 2           |
+| 2   | Diego  | Lopez    | 2   | BD 2           |
+| 3   | Analia | Conde    | 1   | BD 1           |
+
+#### $R_1$
+
+| CI  | Nombre | Apellido | IdP |
+| --- | ------ | -------- | --- |
+| 1   | Seba   | Garcia   | 2   |
+| 2   | Diego  | Lopez    | 2   |
+| 3   | Analia | Conde    | 1   |
+
+#### $R_2$
+
+
+| IdP | NombreProyecto |
+| --- | -------------- |
+| 1   | BD 1           |
+| 2   | BD 2           |
+
+- $R_1 \cap R_2 \rightarrow$ ($R_1$)
 
 
