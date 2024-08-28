@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "103c31b06c8dc44e",
+        "id": "a93288982ff3a4db",
         "type": "tabs",
         "children": [
           {
-            "id": "13c6a7d44ae95929",
+            "id": "674b63d0d1c1e6fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base de datos 2/Algoritmo de diseño.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Algoritmo de diseño.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Algoritmo de diseño.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "base de datos 2/Algoritmo de diseño.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,12 +139,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13c6a7d44ae95929",
+  "active": "674b63d0d1c1e6fe",
   "lastOpenFiles": [
+    "Clei/Curso 5/Introduccion.md",
+    "base de datos 2/Algoritmo de diseño.md",
     "base de datos 2/Normalización.md",
     "Ing software/Recursos/Pasted image 20240827181523.png",
     "base de datos 2/Imagen/Pasted image 20240827204935.png",
-    "base de datos 2/Algoritmo de diseño.md",
     "Investigacion Operativa/Investigación Operativa.md",
     "base de datos 2/Diseño.md",
     "Ing software/Laboratorio.md",
@@ -174,7 +167,6 @@
     "base de datos 2/Imagen/Pasted image 20240820205235.png",
     "base de datos 2/Imagen/Pasted image 20240820201845.png",
     "Ing software/Requisitos.md",
-    "Clei/Curso 5/Introduccion.md",
     "Ing software/Recursos",
     "Clei/Curso 5/Laboratorio 1.md",
     "Clei/Curso 5/DF vs IR.md",
