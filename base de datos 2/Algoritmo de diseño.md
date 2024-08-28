@@ -63,6 +63,9 @@ Una descomposición D = ($R_1, R_2, ..., R_m$) de R, cumple con la propiedad de 
 | 1   | BD 1           |
 | 2   | BD 2           |
 
-- $R_1 \cap R_2 \rightarrow$ ($R_1$)
+- $R_1 \cap R_2 \rightarrow$ ($R_1 - R_2$)
+
+IdP $\rightarrow$ CI, Nombre, Apellido
+IdP $\rightarrow$ NombreProyecto 
 
 
