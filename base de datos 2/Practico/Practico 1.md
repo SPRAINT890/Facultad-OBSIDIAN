@@ -130,12 +130,12 @@ Foto 29/8 (Ejemplo de cobertura de F)
 
 
 ## Ejercicio de Parcial
-- G y H debe formar parte de la clave, pues no estan en ninguna DF
+- G y H debe formar parte de la clave, pues no están en ninguna DF
 
 A) Tenemos esquema y F, siempre es posible determinar las claves -> Falso
 
 B) $AB^+ \rightarrow$ (A, B, C, D) $\neq R \rightarrow$ Falso
 
-C) $IGH^+ \rightarrow$ (I, A, E, J, K, L, B, C, D, G, H)
+C) $IGH^+ \rightarrow$ (I, A, E, J, K, L, B, C, D, G, H), Cualquier clave debe tener I, porque $I \rightarrow AEJKL$ es la única DF que determina J.
 
-D) $BGH^+ \rightarrow$ (B, G, H) $\ri$
+D) $BGH^+ \rightarrow$ (B, G, H) $\rightarrow$ Falso
