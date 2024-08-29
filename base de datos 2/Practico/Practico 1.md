@@ -139,3 +139,22 @@ B) $AB^+ \rightarrow$ (A, B, C, D) $\neq R \rightarrow$ Falso
 C) $IGH^+ \rightarrow$ (I, A, E, J, K, L, B, C, D, G, H), Cualquier clave debe tener I, porque $I \rightarrow AEJKL$ es la única DF que determina J.
 
 D) $BGH^+ \rightarrow$ (B, G, H) $\rightarrow$ Falso
+
+## Ejercicio 5
+DNI - A
+NombEmpl - B
+NumProy - C
+UbicProy - E
+Horas - G
+NombProy - D
+
+
+R (A, B, C, D, E, G)
+F = {$A \rightarrow B, C \rightarrow DE, AC \rightarrow G$}
+
+a) A y C en todas las claves, porque solo aparece del lado izq de las DF
+G no aparece en ninguna clave, porque solo aparece del lado derecho de las DF
+
+$AC^+$ (A, C, B, D, E, G)
+
+Las claves de 3 deben contener A, C . So los contienen son superclaves, pues AC es clave
