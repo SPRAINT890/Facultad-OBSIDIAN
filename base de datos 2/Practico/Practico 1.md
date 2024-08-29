@@ -127,3 +127,15 @@ $R_2$ (C, D, E)
 ##### No cumple por que estas dependencias funcionales no son parte de la F
 
 Foto 29/8 (Ejemplo de cobertura de F)
+
+
+## Ejercicio de Parcial
+- G y H debe formar parte de la clave, pues no estan en ninguna DF
+
+A) Tenemos esquema y F, siempre es posible determinar las claves -> Falso
+
+B) $AB^+ \rightarrow$ (A, B, C, D) $\neq R \rightarrow$ Falso
+
+C) $IGH^+ \rightarrow$ (I, A, E, J, K, L, B, C, D, G, H)
+
+D) $BGH^+ \rightarrow$ (B, G, H) $\ri$
