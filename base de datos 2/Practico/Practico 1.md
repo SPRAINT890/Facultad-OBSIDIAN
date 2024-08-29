@@ -102,7 +102,16 @@ $EG^+$ = {E, G, B, C, D}
 #### A
 F {A $\rightarrow$ BC, CD $\rightarrow$ E, B $\rightarrow$ D, E $\rightarrow$ A}
 
-$A^+$ (A, B, C, D, E)
-$E^+$ (E, A, B, C, D)
-$CD^+$ (C, D, E, A, B)
-$BC^+$ (B, C, D, E, A,)
+$A^+$ (A, B, C, D, E) $\checkmark$
+$E^+$ (E, A, B, C, D) $\checkmark$
+$B^+$ (B, D) X
+##### Los de 2 no pueden tener ni A ni E
+$CD^+$ (C, D, E, A, B) $\checkmark$
+$BC^+$ (B, C, D, E, A) $\checkmark$
+
+
+#### B
+$R_1$ (A, B, C)
+$R_2$ (A, D, E)
+
+($R_1$)
