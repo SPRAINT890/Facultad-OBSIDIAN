@@ -141,6 +141,7 @@ C) $IGH^+ \rightarrow$ (I, A, E, J, K, L, B, C, D, G, H), Cualquier clave debe t
 D) $BGH^+ \rightarrow$ (B, G, H) $\rightarrow$ Falso
 
 ## Ejercicio 5
+### A)
 DNI - A
 NombEmpl - B
 NumProy - C
@@ -158,3 +159,34 @@ G no aparece en ninguna clave, porque solo aparece del lado derecho de las DF
 $AC^+$ (A, C, B, D, E, G)
 
 Las claves de 3 deben contener A, C . So los contienen son superclaves, pues AC es clave
+
+### B)
+$R_1$ (A, B), $R_2$ (C, D, E), $R_3$ (A, C, G)
+
+R = $R_1 * R_2 * R_3$, propiedad de JSP
+
+#### Verificar Concatenacion sin perdida MULTIPLE
+
+|     | A        | B        | C        | D        | E        | G        |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+| R1  | $B_{11}$ | $B_{12}$ | $B_{13}$ | $B_{14}$ | $B_{15}$ | $B_{16}$ |
+| R2  | $B_{21}$ | $B_{22}$ | $B_{23}$ | $B_{24}$ | $B_{25}$ | $B_{26}$ |
+| R3  | $B_{31}$ | $B_{32}$ | $B_{33}$ | $B_{34}$ | $B_{35}$ | $B_{36}$ |
+
+|     | A        | B        | C        | D        | E        | G        |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+| R1  | A1       | A2       | $B_{13}$ | $B_{14}$ | $B_{15}$ | $B_{16}$ |
+| R2  | $B_{21}$ | $B_{22}$ | A3       | A4       | A5       | $B_{26}$ |
+| R3  | A1       | $B_{32}$ | A4       | $B_{34}$ | $B_{35}$ | A6       |
+
+|     | A        | B        | C        | D        | E        | G        |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+| R1  | A1       | A2       | $B_{13}$ | $B_{14}$ | $B_{15}$ | $B_{16}$ |
+| R2  | $B_{21}$ | $B_{22}$ | A3       | A4       | A5       | $B_{26}$ |
+| R3  | A1       | A2       | A4       | $B_{34}$ | $B_{35}$ | A6       |
+
+|     | A        | B        | C        | D        | E        | G        |
+| --- | -------- | -------- | -------- | -------- | -------- | -------- |
+| R1  | A1       | A2       | $B_{13}$ | $B_{14}$ | $B_{15}$ | $B_{16}$ |
+| R2  | $B_{21}$ | $B_{22}$ | A3       | A4       | A5       | $B_{26}$ |
+| R3  | A1       | A2       | A3       | A4       | A5       | A6       |
