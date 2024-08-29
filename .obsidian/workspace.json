@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md",
+                "file": "base de datos 2/Laboratorio 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md",
+                "file": "base de datos 2/Laboratorio 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md",
+                "file": "base de datos 2/Laboratorio 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md"
+                "file": "base de datos 2/Laboratorio 1.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "674b63d0d1c1e6fe",
   "lastOpenFiles": [
+    "Investigacion Operativa/Método Tabular.md",
+    "base de datos 2/Laboratorio 1.md",
     "Clei/Curso 5/Introduccion.md",
     "base de datos 2/Algoritmo de diseño.md",
     "base de datos 2/Normalización.md",
@@ -162,7 +164,6 @@
     "Ing software/Recursos/Pasted image 20240827181427.png",
     "Ing software/Recursos/Pasted image 20240827181348.png",
     "Ing software/Software.md",
-    "Investigacion Operativa/Método Tabular.md",
     "Investigacion Operativa/Bibliografía.md",
     "base de datos 2/Practico/Practico 1.md",
     "base de datos 2/Imagen/tempFileForShare_20240822-204413.jpg",

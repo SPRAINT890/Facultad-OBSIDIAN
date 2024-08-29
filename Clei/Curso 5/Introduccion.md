@@ -1,6 +1,6 @@
 [[Clei/Curso 5/Practico 1]]
 [[DF vs IR]]
-[[Laboratorio 1]]
+[[Clei/Curso 5/Laboratorio 1]]
 [[Tipo de Malware y Ataques]]
 ## Historia
 
