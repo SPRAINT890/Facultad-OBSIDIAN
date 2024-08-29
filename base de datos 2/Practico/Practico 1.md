@@ -126,7 +126,8 @@ $R_2$ (C, D, E)
 
 ##### No cumple por que estas dependencias funcionales no son parte de la F
 
-Foto 29/8 (Ejemplo de cobertura de F)
+###### Ejemplo de cobertura de F
+![[Pasted image 20240829201956.png | 500]]
 
 
 ## Ejercicio de Parcial
@@ -190,3 +191,5 @@ R = $R_1 * R_2 * R_3$, propiedad de JSP
 | R1  | A1       | A2       | $B_{13}$ | $B_{14}$ | $B_{15}$ | $B_{16}$ |
 | R2  | $B_{21}$ | $B_{22}$ | A3       | A4       | A5       | $B_{26}$ |
 | R3  | A1       | A2       | A3       | A4       | A5       | A6       |
+
+![[Pasted image 20240829201844.png | 500]]
