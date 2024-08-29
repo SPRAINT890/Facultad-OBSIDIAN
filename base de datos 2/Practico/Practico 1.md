@@ -114,4 +114,16 @@ $BC^+$ (B, C, D, E, A) $\checkmark$
 $R_1$ (A, B, C)
 $R_2$ (A, D, E)
 
-($R_1$)
+($R_1 \cap R_2)$ $\rightarrow$ ($R_1 - R_2$) $= A \rightarrow B C$
+($R_1 \cap R_2$ ) $\rightarrow$ ($R_2 - R_1$)
+
+#### C
+$R_1$ (A, B, C)
+$R_2$ (C, D, E)
+
+($R_1 \cap R_2)$ $\rightarrow$ ($R_1 - R_2$) $= C \rightarrow A B$
+($R_1 \cap R_2$ ) $\rightarrow$ ($R_2 - R_1$) $= C \rightarrow D E$
+
+##### No cumple por que estas dependencias funcionales no son parte de la F
+
+Foto 29/8 (Ejemplo de cobertura de F)
