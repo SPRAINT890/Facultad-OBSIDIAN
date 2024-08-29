@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Laboratorio 1.md",
+                "file": "base de datos 2/Practico/Practico 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Laboratorio 1.md",
+                "file": "base de datos 2/Practico/Practico 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Laboratorio 1.md",
+                "file": "base de datos 2/Practico/Practico 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Laboratorio 1.md"
+                "file": "base de datos 2/Practico/Practico 1.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "674b63d0d1c1e6fe",
   "lastOpenFiles": [
-    "Investigacion Operativa/Método Tabular.md",
-    "base de datos 2/Laboratorio 1.md",
-    "Clei/Curso 5/Introduccion.md",
     "base de datos 2/Algoritmo de diseño.md",
     "base de datos 2/Normalización.md",
+    "base de datos 2/Laboratorio 1.md",
+    "Investigacion Operativa/Método Tabular.md",
+    "Clei/Curso 5/Introduccion.md",
     "Ing software/Recursos/Pasted image 20240827181523.png",
     "base de datos 2/Imagen/Pasted image 20240827204935.png",
     "Investigacion Operativa/Investigación Operativa.md",

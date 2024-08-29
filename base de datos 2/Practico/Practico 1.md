@@ -98,3 +98,11 @@ $EG^+$ = {E, G, B, C, D}
 ###### DF2
 ![[tempFileForShare_20240822-204413.jpg]]
 
+## Ejercicio 4
+#### A
+F {A $\rightarrow$ BC, CD $\rightarrow$ E, B $\rightarrow$ D, E $\rightarrow$ A}
+
+$A^+$ (A, B, C, D, E)
+$E^+$ (E, A, B, C, D)
+$CD^+$ (C, D, E, A, B)
+$BC^+$ (B, C, D, E, A,)
