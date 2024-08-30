@@ -17,6 +17,17 @@
 Para saber efectivamente que los requisitos son los que quiere el cliente
 No se tiene capacidad, tiempo o presupuesto
 
+- Es difícil definir todos los requisitos 
+- Cuando se ve el software funcional 
+	- Surgen nuevos requisitos 
+	- Se encuentran bugs o errores 
+	- Requisitos se vuelven obsoletos 
+- El entorno empresarial y técnico cambian 
+- Cliente vs Usuario final 
+	- Muchas veces el cliente no es el usuario final, por ende puede que el cliente no tenga el conocimiento con el usuario final
+- Muchos interesados
+
+### Fases de validación
 - Chequear validez 
 	- ¿Se reflejan las necesidades reales de los usuarios del sistema? 
 - Verificar coherencia 
@@ -24,4 +35,7 @@ No se tiene capacidad, tiempo o presupuesto
 - Comprobar integridad
 	- ¿Están todas las funciones requeridas por el cliente? 
 - Verificar realismo 
-	- ¿Los requisitos se pueden implementar con el presupuesto y tecnología disponibles? ● Verificabilidad ○ ¿Puedo escribir un conjunto de pruebas que me permita verificar los requerimientos?
+	- ¿Los requisitos se pueden implementar con el presupuesto y tecnología disponibles? 
+- Verificabilidad 
+	- ¿Puedo escribir un conjunto de pruebas que me permita verificar los requerimientos?
+
