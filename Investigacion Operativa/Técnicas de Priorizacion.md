@@ -39,3 +39,33 @@ No se tiene capacidad, tiempo o presupuesto
 - Verificabilidad 
 	- ¿Puedo escribir un conjunto de pruebas que me permita verificar los requerimientos?
 
+
+### ¿Por qué surgen las metodologías ágiles? 
+- Mercado competitivo 
+	- Responder a nuevas necesidades de negocio 
+	- Adaptarse rápidamente a nuevas oportunidades del mercado 
+- No se pueden derivar requerimientos estables 
+	- Los requisitos pueden ser más claros cuando los usuarios interactúan con el software
+- Cambio de paradigma 
+	- Desarrollo y entrega rápido vs. calidad 
+- Contexto cambiante 
+	- Tecnológico, necesidades
+- Desarrollo incremental 
+	- Incrementos “pequeños” 
+	- Se crean nuevas versiones del sistema 
+	- Se liberan al cliente al finalizar un período o sprint 
+- Se involucra al cliente en el proceso 
+	- Acelerar el feedback 
+- Minimiza documentación 
+	- Prioriza comunicación informal antes comunicación formal y documentos estrictos 
+- Diseño e implementación 
+	- Obtención de requisitos y validación se entrelazan con estas etapas 
+- Herramientas de soporte 
+	- Automatizar verificaciones, liberación, configuraciones, etc
+
+### Manifiesto Ágil
+- **Individuos e interacciones** sobre procesos y herramientas. 
+	-  Todas las personas tienen que autogestionarse
+- **Software funcional** sobre documentación completa. 
+- **Colaboración del cliente** sobre la negociación contractual. 
+- **Responder al cambio** sobre el seguir un plan.
