@@ -69,3 +69,23 @@ No se tiene capacidad, tiempo o presupuesto
 - **Software funcional** sobre documentación completa. 
 - **Colaboración del cliente** sobre la negociación contractual. 
 - **Responder al cambio** sobre el seguir un plan.
+
+
+## Extreme Programing (XP)
+### Historia de usuario
+“Descripción breve y simple de una característica contada desde la perspectiva de la persona (usuario, cliente o interesado) que desea una nueva funcionalidad o capacidad”
+
+### Programación en pares
+- Los desarrolladores trabajan juntos para programar 
+- Los pares cambian 
+- Fomenta la propiedad y responsabilidad colectiva 
+- Proceso de revisión informal 
+- Fomenta la refactorización
+
+### Desarrollo dirigido por pruebas
+- Enfoque para abordar pruebas (verificación) sin especificación 
+- Se diseñan y desarrollan las pruebas antes de implementar 
+- Desarrollo de pruebas incremental basado en HU 
+- El cliente participa en el desarrollo y validación de la prueba 
+- Basado en la automatización 
+- Puedo ejecutar la prueba durante el desarrollo, para descubrir los problemas antes
