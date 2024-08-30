@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md",
+                "file": "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md",
+                "file": "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md",
+                "file": "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md"
+                "file": "Investigacion Operativa/Ejemplo/Ejercicio 1.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "674b63d0d1c1e6fe",
   "lastOpenFiles": [
-    "base de datos 2/Control.md",
+    "Investigacion Operativa/Ejemplo/Ejercicio 2.md",
+    "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
     "base de datos 2/Practico/Practico 1.md",
+    "base de datos 2/Control.md",
     "base de datos 2/Imagen/Pasted image 20240829201844.png",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240827204935.png",
@@ -187,8 +189,6 @@
     "Clei/Curso 5/P2.md",
     "Investigacion Operativa/Temas/Problema del viajero.md",
     "Clei/Curso 3/Mas Cosas.md",
-    "Clei/Curso 3/Introduccion.md",
-    "Clei/Curso 3/Inicio.md",
     "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf",
     "Clei/Curso 3/Ej1",
     "Clei/Curso 5",
