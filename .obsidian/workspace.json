@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigacion Operativa/Rotura de empates en el metodo Simplex.md",
+                "file": "Investigacion Operativa/Técnicas de Priorizacion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigacion Operativa/Rotura de empates en el metodo Simplex.md",
+                "file": "Investigacion Operativa/Técnicas de Priorizacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigacion Operativa/Rotura de empates en el metodo Simplex.md",
+                "file": "Investigacion Operativa/Técnicas de Priorizacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigacion Operativa/Rotura de empates en el metodo Simplex.md"
+                "file": "Investigacion Operativa/Técnicas de Priorizacion.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "674b63d0d1c1e6fe",
+  "active": "9c8483d1ef244f85",
   "lastOpenFiles": [
-    "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
+    "Investigacion Operativa/Recursos/Pasted image 20240830182451.png",
     "Investigacion Operativa/Rotura de empates en el metodo Simplex.md",
+    "Investigacion Operativa/Técnicas de Priorizacion.md",
+    "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
     "Investigacion Operativa/Ejemplo/Ejercicio 2.md",
     "base de datos 2/Practico/Practico 1.md",
     "base de datos 2/Control.md",
@@ -187,8 +189,6 @@
     "Clei/Curso 5/DF vs IR.md",
     "Clei/Curso 5/Practico 1.md",
     "Clei/Curso 5/Tipo de Malware y Ataques.md",
-    "Clei/Curso 5/P2.md",
-    "Investigacion Operativa/Temas/Problema del viajero.md",
     "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf",
     "Clei/Curso 3/Ej1",
     "Clei/Curso 5",
