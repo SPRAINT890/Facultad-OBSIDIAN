@@ -149,3 +149,53 @@ ejemplos:
 - La Sprint Retrospective finaliza el Sprint
 
 
+# Problemas con los métodos agiles
+- No es compatible con el enfoque legal y contractual 
+- No es aplicable al mantenimiento de software 
+- Están pensados para para equipos pequeños (<10) que comparten ubicación 
+- Falta de documentación 
+- Mantener al cliente involucrado
+
+## Métodos ágiles vs basados en planes
+- Tamaño de sistema 
+	- Sistemas pequeños, equipos de desarrollo pequeños ágil o plan? (Ágil)
+- Tipo de sistema 
+	- La ingeniería de requisitos y el diseño son críticos ágil o plan? (Plan)
+- Vida útil del sistema 
+	- Mantener sistema a largo plazo ágil o plan? (Plan)
+- Requiere una regulación externa ágil o plan? (Plan)
+	- vas a necesitar mas formalismo para tener esa regulacion
+
+## Complejidad de sistemas grandes
+- Sistemas de sistemas 
+	- Equipos separados sin una visión global 
+- Sistemas legados 
+- Guiados por limitaciones y regulaciones externas 
+- Tiempo prolongado de adquisición y desarrollo 
+- Muchos interesados
+
+## Agile Scaling Model (ASM), IBM (Nexus)
+
+- Framework para respaldar el desarrollo de software a gran escala y con varios equipos. 
+- Los equipos no pueden sólo centrarse en el desarrollo, sino que también deben tener en cuenta otras etapas como ingeniería de requisitos y el diseño de arquitectura
+- Es imposible adoptar un enfoque completamente incremental para la ingeniería de requisitos. 
+	- Los requisitos no se deben especificar en detalle; es mejor desarrollar los detalles de forma incremental. 
+- No existe un único product owner 
+	- Deben participar diferentes personas para las diferentes partes del sistema, y deben comunicarse y negociar continuamente durante todo el proceso de desarrollo.
+- No es posible centrarse únicamente en el código del sistema. 
+	- Es necesario realizar un diseño y una documentación del sistema más avanzados. 
+- Se deben diseñar y utilizar mecanismos de comunicación entre equipos. 
+	- Proporcionar una variedad de canales de comunicación 
+- La integración continua, es prácticamente imposible cuando se deben integrar varios programas separados para crear el sistema. 
+	- Igual, es necesario mantener compilaciones frecuentes del sistema y lanzamientos regulares del mismo.
+
+## SCRUM adaptado al ASM
+- Replicación de roles 
+	- Cada equipo tiene un Product Owner y un ScrumMaster 
+	- Puede haber un Product Owner “jefe” y un ScrumMaster para todo el proyecto. 
+- Arquitectos de producto 
+	- Cada equipo elige un arquitecto de producto, y estos arquitectos colaboran para diseñar y desarrollar la arquitectura general del sistema.
+- Alineación de release (liberaciones) 
+	- Las fechas de release de productos de cada equipo se alinean para que se produzca un sistema demostrable y completo. 
+- Scrum de Scrums 
+	- Hay una Daily Scrum de Scrums Teams a diario, donde los representantes de cada equipo se reúnen para discutir el progreso, identificar problemas y planificar el trabajo a realizar ese día.
