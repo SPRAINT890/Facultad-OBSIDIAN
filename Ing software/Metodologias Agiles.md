@@ -72,34 +72,80 @@ ejemplos:
 ### Artefactos
 #### Product Backlog PB
 - Lista ordenada de lo que es necesario hacer para alcanzar el objetivo del producto
-
+- El Product Backlog es una lista emergente y ordenada de lo que se necesita para mejorar el producto. 
+- Es la única fuente del trabajo realizado por el Scrum Team. 
+- El refinamiento del Product Backlog es el acto de dividir y definir aún más los elementos del Product Backlog en elementos más pequeños y precisos. 
+- Objetivo del Producto 
+	- Describe un estado futuro del producto que puede servir como un objetivo para que el Scrum Team planifique.
 #### Sprint Backlog SB
 - Contiene 
 	- objetivo del Sprint (por qué) 
 	- elementos del PB (qué)
 	- plan de acción (cómo)
+- Objetivo del Sprint (por qué)
+- Conjunto de elementos del Product Backlog seleccionados para el Sprint (qué), así como un plan de acción para entregar el incremento (cómo). 
+- Está gestionado por los Developers 
+- Foto en tiempo real del trabajo que los Developers 
+- Se actualiza a lo largo del Sprint a medida que se aprende más. Debe tener suficientes detalles para que puedan inspeccionar su progreso en la Daily Scrum.
 #### Incremento
 - Tiene que cumplir con el DoD 
 - Debe ser utilizable
+- “Parte de software utilizable”. hacia el Objetivo del Producto.
+- Cada incremento se suma a todos anteriores y se verifica 
+- Es posible crear más de 1 incremento por sprint 
+- La suma de los Increments se presenta en la Sprint Review 
+- Se puede entregar un Increment a los interesados antes del final del Sprint. 
+- Todo lo que forma parte de un incremento cumple con la Definición de Terminado (Definition of Done, DoD)
 
 #### Ceremonias
 ##### Sprint
 - Contiene todos los eventos 
 - Duración fija 
 - Se persigue en todo momento el Objetivo del Sprint.
+- Eventos de duración fija de (=< 1 mes) 
+- Cada sprint inmediatamente después del cierre del sprint anterior 
+- Sprint Planning, Daily Scrums, Sprint Review y Sprint Retrospective son parte del sprint 
+- Durante el Sprint: 
+	- No se realizan cambios que pongan en peligro el Objetivo del Sprint 
+	- El Product Backlog se refina según sea necesario; 
+	- El alcance se puede aclarar y re negociar con el Product Owner a medida que se aprende
+- Puede cancelarse si el Objetivo del Sprint se vuelve obsoleto. Solo el Product Owner tiene la autoridad para cancelar el Sprint.
 ##### Sprint Planning
 - Inicia el Sprint 
 - Se define Objetivo del Sprint, se seleccionan elementos del PB y se define plan de acción. 
 	- 8hs (sprint 4 s)
+- Da inicio al Sprint 
+- Se define trabajo que se realizará para el Sprint. 
+- El Scrum Team también puede invitar a otras personas a asistir a la Sprint Planning para brindar asesoramiento. 
+- Pasos 
+	- Objetivo del sprint: ¿Por qué es valioso este Sprint? 
+	- ¿Qué se puede hacer? 
+	- ¿Cómo se puede hacer?
 ##### Daily Scrum
 - Chequea el progreso hacia el objetivo del sprint 
 - 15’ Devolopers
+- Inspeccionar el progreso hacia el Objetivo del Sprint 
+- Evento de 15 minutos para los Developers del Scrum Team. 
+- Se desarrolla a la misma hora y en el mismo lugar todos los días hábiles 
+- Si el Product Owner o Scrum Master están trabajando activamente en elementos del Sprint Backlog, participan como Developers. 
+- Mejora la comunicación, se identifican impedimentos, promueven la toma rápida de decisiones y, en consecuencia, eliminan la necesidad de otras reuniones.
 #### Sprint Review
 - Revisar el resultado del Sprint 
 	- 4hs (sprint 4 s)
+- Sesión de trabajo para inspeccionar el resultado del Sprint y determinar futuras adaptaciones. 
+- Scrum Team presenta los resultados de su trabajo a los interesados clave 
+- Se discute el progreso hacia el Objetivo del Producto 
+- Se identifican siguientes pasos 
+- El Product Backlog también se puede ajustar para satisfacer nuevas oportunidades.
 #### Sprint Restrospective
 - Planificar cómo mejorar (calidad y la efectividad) 
 - Finaliza el Sprint 
 - 3hs (sprint 4 semanas)
+- Planificar formas de aumentar la calidad y la efectividad. 
+- El Scrum Team inspecciona cómo fue el último Sprint con respecto a las personas, las interacciones, los procesos, las herramientas y su DoD 
+- El Scrum Team analiza qué salió bien durante el Sprint, qué problemas encontró y cómo se resolvieron (o no) esos problemas. 
+- El Scrum Team identifica los cambios más útiles para mejorar su efectividad. 
+- Las mejoras se aplican lo antes posible (se pueden agregar al Sprint Backlog para el próximo Sprint) 
+- La Sprint Retrospective finaliza el Sprint
 
 
