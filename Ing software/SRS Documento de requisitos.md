@@ -57,7 +57,7 @@ Todas las siglas propias o palabras se tienen que definir
 
 # Especificación de requisitos en proyectos agiles
 
-## Historias de Usuario
+## Historias de Usuario (Como se guardan los Requisitos)
 Descripción breve y simple de una característica contada desde la perspectiva de la persona (usuario, cliente o interesado) que desea una nueva funcionalidad o capacidad
 
 Como (tipo de usuario) , quiero (algún objetivo) para que (algún motivo)

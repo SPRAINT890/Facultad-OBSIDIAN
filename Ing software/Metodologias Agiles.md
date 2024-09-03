@@ -36,3 +36,14 @@ Marco de trabajo liviano que ayuda a las personas, equipos y organizaciones a ge
 - Se centra en la gestión ágil de proyectos 
 - No plantea el uso de ninguna técnica específica
 - Se puede utilizar en otros tipos de negocios
+
+[[Sprint|¿Que es un sprint?]]
+### Equipo (scrum team)
+![[Pasted image 20240903182958.png]]
+
+
+##### Definition of Done (DoD)
+Que es necesario que tenga una historia de usuario para que se considere que esta hecho
+ej
+	Test unitario
+	Documentacion
