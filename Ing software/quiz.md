@@ -24,4 +24,14 @@ D. Los cambios en progreso se pueden comprender en el Daily Scrum
 A. La documentación no puede ser parte del incremento
 B. Los developers
 
-9. ¿Cuáles son los beneficios de trabajar bajo timeboxes? A. Ayuda al Product Owner saber qué atributos debe ajustar (alcance, costos, tiempo). B. Garantiza que se terminarán todos los elementos planificados. C. Ayuda a limitar el trabajo en curso. D. Aumenta la velocidad (velocity) del Scrum Team.
+9. ¿Cuáles son los beneficios de trabajar bajo timeboxes?
+D. Aumenta la velocidad (velocity) del Scrum Team.
+
+10. El resultado del Sprint review es… 
+A. Los elementos incompletos del Product Backlog se revisan y se incorporan a la parte superior del Product Backlog
+
+11. Si la daily (constantemente) dura más de 15’.... ¿qué se debe hacer? 
+A. El Scrum Master debe ayudar a los developers a entender por qué se debe respetar el límite de tiempo de 15’ y ayudarlos a encontrar formas de hacerlo como se requiere.
+
+12. ¿Cuál de las siguientes opciones describe mejor el primer Sprint?
+D. Está dedicado a la arquitectura y la infraestructura.
