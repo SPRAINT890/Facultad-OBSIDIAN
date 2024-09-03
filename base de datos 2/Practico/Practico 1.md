@@ -52,8 +52,23 @@ A) Determine si las siguientes afirmaciones son verdaderas o falsas. Justifique
 
 B) Obtenga una descomposición de R en 3 FN con JSP (Join Sin Perdida) y Preservación de dependencias
 
-A)1)
-A
+A)
+1) 
+$A^+$ = {A, C, D, G, E, B} = R
+=> A es clave de R
+
+ACEB es superclave
+Verdadero
+
+2) G solo aparece del lado derecho de las dependencias funcionales, por lo tanto no forma parte de ninguna clave FALSO
+   Si fuera primo, seria parte de alguna clave candidato
+
+B)
+G = {A $\rightarrow$ C, A $\rightarrow$ D, E $\rightarrow$ B, DA $\rightarrow$ G, DA $\rightarrow$ E, BC $\rightarrow$ A}
+
+A $\rightarrow$ G?
+D $\rightarrow$ G?
+D $\rightarrow$ G => A $\rightarrow$ D
 
 ## Ejercicio 1
 
