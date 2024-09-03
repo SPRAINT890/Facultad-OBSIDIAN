@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/quiz.md",
+                "file": "base de datos 2/Practico/Practico 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/quiz.md",
+                "file": "base de datos 2/Practico/Practico 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/quiz.md",
+                "file": "base de datos 2/Practico/Practico 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/quiz.md"
+                "file": "base de datos 2/Practico/Practico 1.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "c4320721522e2c24",
   "lastOpenFiles": [
-    "Ing software/Metodologias Agiles.md",
     "Ing software/quiz.md",
+    "Ing software/Metodologias Agiles.md",
     "Pasted image 20240903190908.png",
     "Ing software/Sprint.md",
     "Ing software/Recursos/Pasted image 20240903183722.png",

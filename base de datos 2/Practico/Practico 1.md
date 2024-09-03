@@ -41,7 +41,19 @@ $(ACDG)^+$ = {A, C, D, G, B, E} $\surd$
 
 BG, CGD y ACDG son las claves ya que no quedan atributos que no se repitan para formar una clave
 
+## Ejercicio Profe 3
+R (A, B, C, D, E, G)
 
+F = {A $\rightarrow$ CD, E $\rightarrow$ B, DA $\rightarrow$ GE, BC $\rightarrow$ A}
+
+A) Determine si las siguientes afirmaciones son verdaderas o falsas. Justifique
+1. ACEB es superclave de R según F
+2. G es atributo primo
+
+B) Obtenga una descomposición de R en 3 FN con JSP (Join Sin Perdida) y Preservación de dependencias
+
+A)1)
+A
 
 ## Ejercicio 1
 
