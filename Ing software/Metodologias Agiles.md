@@ -199,3 +199,4 @@ ejemplos:
 	- Las fechas de release de productos de cada equipo se alinean para que se produzca un sistema demostrable y completo. 
 - Scrum de Scrums 
 	- Hay una Daily Scrum de Scrums Teams a diario, donde los representantes de cada equipo se reúnen para discutir el progreso, identificar problemas y planificar el trabajo a realizar ese día.
+	

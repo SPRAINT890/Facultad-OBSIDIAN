@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/Metodologias Agiles.md",
+                "file": "Ing software/quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/Metodologias Agiles.md",
+                "file": "Ing software/quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/Metodologias Agiles.md",
+                "file": "Ing software/quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/Metodologias Agiles.md"
+                "file": "Ing software/quiz.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "c4320721522e2c24",
   "lastOpenFiles": [
+    "Ing software/Metodologias Agiles.md",
+    "Ing software/quiz.md",
     "Pasted image 20240903190908.png",
     "Ing software/Sprint.md",
-    "Ing software/Metodologias Agiles.md",
     "Ing software/Recursos/Pasted image 20240903183722.png",
     "Ing software/Recursos/Pasted image 20240903183359.png",
     "Ing software/Recursos/Pasted image 20240903182958.png",
@@ -186,7 +187,6 @@
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "base de datos 2/Imagen/tempFileForShare_20240822-202609.jpg",
     "base de datos 2/Imagen/Pasted image 20240822181859.png",
-    "base de datos 2/Imagen/Pasted image 20240820201845.png",
     "base de datos 2/Algoritmo de diseño.md",
     "base de datos 2/Normalización.md",
     "base de datos 2/Laboratorio 1.md",
