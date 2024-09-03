@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigacion Operativa/Técnicas de Priorizacion.md",
+                "file": "Ing software/Requisitos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigacion Operativa/Técnicas de Priorizacion.md",
+                "file": "Ing software/Requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigacion Operativa/Técnicas de Priorizacion.md",
+                "file": "Ing software/Requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigacion Operativa/Técnicas de Priorizacion.md"
+                "file": "Ing software/Requisitos.md"
               }
             }
           }
@@ -147,11 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c8483d1ef244f85",
+  "active": "674b63d0d1c1e6fe",
   "lastOpenFiles": [
+    "Ing software/Metodologias Agiles.md",
+    "Ing software/SRS Documento de requisitos.md",
+    "Ing software/Software.md",
+    "Ing software/Requisitos.md",
+    "Ing software/Laboratorio.md",
+    "Ing software/Caso de uso.md",
+    "Investigacion Operativa/Técnicas de Priorizacion.md",
     "Investigacion Operativa/Recursos/Pasted image 20240830182451.png",
     "Investigacion Operativa/Rotura de empates en el metodo Simplex.md",
-    "Investigacion Operativa/Técnicas de Priorizacion.md",
     "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
     "Investigacion Operativa/Ejemplo/Ejercicio 2.md",
     "base de datos 2/Practico/Practico 1.md",
@@ -172,18 +178,12 @@
     "Ing software/Recursos/Pasted image 20240827181523.png",
     "Investigacion Operativa/Investigación Operativa.md",
     "base de datos 2/Diseño.md",
-    "Ing software/Laboratorio.md",
-    "Ing software/SRS Documento de requisitos.md",
-    "Ing software/Caso de uso.md",
     "Ing software/Recursos/Pasted image 20240827181427.png",
     "Ing software/Recursos/Pasted image 20240827181348.png",
-    "Ing software/Software.md",
     "Investigacion Operativa/Bibliografía.md",
-    "base de datos 2/Imagen/tempFileForShare_20240822-204413.jpg",
     "conflict-files-obsidian-git.md",
     "base de datos 2/Practico",
     "prueba.md",
-    "Ing software/Requisitos.md",
     "Ing software/Recursos",
     "Clei/Curso 5/Laboratorio 1.md",
     "Clei/Curso 5/DF vs IR.md",

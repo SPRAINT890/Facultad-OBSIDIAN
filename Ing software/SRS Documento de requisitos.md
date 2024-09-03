@@ -31,7 +31,7 @@
 - Diccionarios de datos
 	- Metadatos
 - Informes
-- Adquisicion, integridad, retencion y eliminacion de datos
+- Adquisición, integridad, retención y eliminación de datos
 
 ### Requerimientos de interfaces externas
 - Interfaces de usuario
@@ -62,7 +62,7 @@ Descripción breve y simple de una característica contada desde la perspectiva 
 
 Como (tipo de usuario) , quiero (algún objetivo) para que (algún motivo)
 
-#### Epicas
+#### Épicas
 Son historias de usuario generales en backlogs
 
 #### Requisitos no funcionales
@@ -75,3 +75,4 @@ Se definen dentro de las historia de usuarios como criterios de aceptación
 - estimable: Tiene que poder ser estimable
 - short: Fáciles de estimar y hacer en un sprint
 - testeable: Se tienen que verificar
+
