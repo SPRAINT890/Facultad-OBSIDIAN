@@ -64,11 +64,22 @@ Verdadero
    Si fuera primo, seria parte de alguna clave candidato
 
 B)
+Paso 1: G=F
+
+Paso 2:
 G = {A $\rightarrow$ C, A $\rightarrow$ D, E $\rightarrow$ B, DA $\rightarrow$ G, DA $\rightarrow$ E, BC $\rightarrow$ A}
 
-A $\rightarrow$ G?
-D $\rightarrow$ G?
-D $\rightarrow$ G => A $\rightarrow$ D
+Paso 3:
+Solo nos interesan las DF que tienen mas de un atributo del lado izquierdo.
+Por la parte 1 del ejercicio sabemos que A es clave =>DA $\rightarrow$ G es equivalente a A $\rightarrow$ G y DA $\rightarrow$ E es equivalente a A $\rightarrow$ E
+
+$B^+$ = {B} y $C^+$ = {C} => Se mantiene BC $\rightarrow$ A
+
+Paso 3
+G = {A $\rightarrow$ C, A $\rightarrow$ D, A $\rightarrow$ G, A $\rightarrow$ E, E $\rightarrow$ B, BC $\rightarrow$ A}
+
+Paso 4
+Como del lado derecho no se repiten atributos, no hay DF
 
 ## Ejercicio 1
 
