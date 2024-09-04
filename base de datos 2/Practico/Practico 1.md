@@ -79,8 +79,16 @@ Paso 3
 G = {A $\rightarrow$ C, A $\rightarrow$ D, A $\rightarrow$ G, A $\rightarrow$ E, E $\rightarrow$ B, BC $\rightarrow$ A}
 
 Paso 4
-Como del lado derecho no se repiten atributos, no hay DF
+Como del lado derecho no se repiten atributos, no hay DF redundantes. Por lo tanto, no hay DF para eliminar
 
+Paso 5
+D = {}
+
+Paso 6
+D =
+	$R_1$ (==A==, C, D, G, E)
+	$R_2$ (==E==, B)
+	$R_3$ (==B, C==, A)
 ## Ejercicio 1
 
 ![[Pasted image 20240822181859.png]]
