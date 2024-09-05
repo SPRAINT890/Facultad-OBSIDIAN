@@ -95,4 +95,23 @@ Una historia completa es aquella que tiene todas las operaciones de las transacc
 
 Una historia serializable es aquella que es equivalente a una historia serial con las mismas transacciones
 
-## Histo
+## Historias Equivalentes
+##### Intuitiva 
+- Dos historias son equivalentes si dejan la base de datos en el mismo estado 
+- Esta idea es fácil de comprender, pero difícil de garantizar en la práctica. Puede darse por casualidad.
+##### Por conflicto 
+- Tienen todas las operaciones en conflicto en el mismo orden
+
+## Grafo de Serialidad
+1. Poner un nodo por cada transacción de la historia
+2. Crear un arco de $T_j$ a $T_i$ si se cumple alguna de las siguientes:
+	- Si  $r_i$ (X) esta despues de $w_j$ (X)
+	- Si $w_i$ (X) esta despues de $r_j$ (X)
+	- Si $w_i$ (X) esta despues de $w_j$ (X)
+3. Si se genera un ciclo la historia no es serializable
+
+##### Serializable
+![[Pasted image 20240905202314.png|600]]
+
+##### No Serializable
+![[Pasted image 20240905202342.png | 600]]
