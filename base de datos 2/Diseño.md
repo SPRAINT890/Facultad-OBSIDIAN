@@ -45,6 +45,10 @@ F = {DNI -> Nombre,
 	{DNI, NumProyecto} -> Horas}
 
 $F^+ = F + DF$ (Dependencias Funcionales) , Producto de aplicar las reglas de Inferencia
+ej
+	A $\rightarrow$ E, B, C
+	BC $\rightarrow$ L, G, E
+	$A^+$ (A, B, C, E, L, G) $\rightarrow$ Esto es la cobertura mínima
 
 ### Clausura de $X, X^+$
 

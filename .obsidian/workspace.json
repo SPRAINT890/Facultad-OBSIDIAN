@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Valor Nulo o NULL.md",
+                "file": "base de datos 2/Diseño.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "clau",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Valor Nulo o NULL.md",
+                "file": "base de datos 2/Diseño.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Valor Nulo o NULL.md",
+                "file": "base de datos 2/Diseño.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Valor Nulo o NULL.md"
+                "file": "base de datos 2/Diseño.md"
               }
             }
           }
@@ -149,18 +150,19 @@
   },
   "active": "c8d80a1c1773a77a",
   "lastOpenFiles": [
+    "base de datos 2/Practico/Practico 1.md",
+    "base de datos 2/Diseño.md",
+    "base de datos 2/Notas/Ejemplo de Cobertura Minima.md",
+    "base de datos 2/Algoritmo de diseño.md",
+    "base de datos 2/Valor Nulo o NULL.md",
     "base de datos 2/Normalización.md",
     "base de datos 2/Laboratorio 1.md",
-    "base de datos 2/Diseño.md",
     "base de datos 2/Control.md",
-    "base de datos 2/Valor Nulo o NULL.md",
-    "base de datos 2/Algoritmo de diseño.md",
     "Ing software/Sprint.md",
     "Investigacion Operativa/Método Tabular.md",
     "Investigacion Operativa/Investigación Operativa.md",
     "Investigacion Operativa/Técnicas de Priorizacion.md",
     "Investigacion Operativa/Rotura de empates en el metodo Simplex.md",
-    "base de datos 2/Practico/Practico 1.md",
     "Pasted image 20240903203101.png",
     "Ing software/quiz.md",
     "Ing software/Metodologias Agiles.md",
@@ -188,7 +190,6 @@
     "base de datos 2/Practico",
     "prueba.md",
     "Ing software/Recursos",
-    "Clei/Curso 5/Laboratorio 1.md",
     "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf",
     "Clei/Curso 3/Ej1",
     "Clei/Curso 5",
