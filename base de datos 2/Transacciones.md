@@ -75,3 +75,24 @@ Se dice que dos operaciones están en conflicto si satisfacen las siguientes tre
 - Pertenecen a diferentes transacciones
 - Acceden al mismo elemento X
 - Por lo menos una de las operaciones es un write ($w_i$)
+![[tempFileForShare_20240905-200930.jpg]]
+
+## Una historia es completa cuando
+Una historia completa es aquella que tiene todas las operaciones de las transacciones involucradas y las operaciones en conflicto aparecen en el mismo orden
+
+## Historia seriales y entrelazadas
+##### Las operaciones de las transacciones no están intercaladas
+- No hay concurrencia 
+- Los datos siempre están correctos
+##### Si las historias están entrelazadas puede suceder que:
+- Los datos queden incorrectos y no puedan ser corregidos 
+- Si una transacción aborta, que otra también tenga que abortar
+
+## Historia Serializables
+##### Necesitamos lo mejor de los dos mundos
+- Historias entrelazadas 
+- Pero que funcionen como seriales
+
+Una historia serializable es aquella que es equivalente a una historia serial con las mismas transacciones
+
+## Histo
