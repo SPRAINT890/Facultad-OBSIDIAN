@@ -43,7 +43,25 @@ Control de concurrencia se define como la ***coordinación*** de los procesos **
 ## Propiedades deseables ACID
 
 
-| Atomicidad                                                                                                       | Conservacion de la Consistencia                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Una transaccion es una unidad atomica de procesamiento; o se ejecuta en su totalidad o no se ejecuta en absoluto | Una transacción esta conservando la consistencia si su ejecución completa lleva la base de datos de un estado consistente a otro<br>(No pue) |
+|                                                    Atomicidad                                                    |                                                                      Conservacion de la Consistencia                                                                       |                                                                                         Aislamiento (Isolated)                                                                                         |                                                                      Durabilidad                                                                       |
+| :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Una transaccion es una unidad atomica de procesamiento; o se ejecuta en su totalidad o no se ejecuta en absoluto | Una transacción esta conservando la consistencia si su ejecución completa lleva la base de datos de un estado consistente a otro<br>(No se rompe nada cuando ejecuto algo) | Una transacción debe aparecer como si estuviera ejecutándose de forma aislada a las demás. La ejecución de una transacción no debe interferir con la ejecución de ninguna otra transacción simultánea. | Los cambios aplicados a la base de datos por una transacción confirmada deben persistirse. Estos cambios no deben perderse a consecuencia de un fallo. |
 
+## Operaciones de las Historias
+
+
+| Read_Item $r_i$ (x)                | Write_Item $w_i$ (x)                   | Commit $c_i$                   | Abort $a_i$                          |
+| ---------------------------------- | -------------------------------------- | ------------------------------ | ------------------------------------ |
+| La transacción i lee un elemento X | La transacción i escribe un elemento X | La transacción i es confirmada | La transacción i aborta la ejecución |
+
+## Rollback
+- Es una acción que se dispara ante un abort de una transacción
+- Lleva la base de datos a su estado anterior
+
+## ¿Que es una Historia?
+- Cuando las transacciones se están ejecutando concurrentemente en modo interpolado, el orden de ejecución de las distintas transacciones se conoce como planificación o historia
+- La historia es una ordenación de todas las operaciones que intervienen en las transacciones
+- Las operaciones deben aparecer en el mismo orden que en cada una de las transacciones
+
+### Ejemplo de historia
+$T_1 = R_1 x, W_1 x, R_1 Y, W_1 Y, C_1$
