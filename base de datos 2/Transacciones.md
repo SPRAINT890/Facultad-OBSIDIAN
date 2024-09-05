@@ -67,6 +67,11 @@ Control de concurrencia se define como la ***coordinación*** de los procesos **
 $T_1 = r_1 X$, $w_1 X$, $r_1 Y$, $w_1 Y$, $c_1$
 $T_3 = r_3A$, $r_3X$, $r_3Y$, $c_3$
 
-$H_1$: $r_3$(A), $r_1$(X), $w_1$(X), $r_3$(X), $r_3$(Y), $r_1$(Y), $w_1$(Y), $c_1$, $c_3$
-$H_2$: $r_1$(X), $w_1$(X), $r_1$(Y), $w_1$(Y), $c_1$, $r_3$(A), $r_3$(X), $r_3$(Y), $c_3$
+![[Screenshot_20240905_194117_Samsung Notes.jpg]]
+La de arriba es entrelazada y la de abajo es serial
 
+## Operaciones en conflicto
+Se dice que dos operaciones están en conflicto si satisfacen las siguientes tres condiciones:
+- Pertenecen a diferentes transacciones
+- Acceden al mismo elemento X
+- Por lo menos una de las operaciones es un write ($w_i$)
