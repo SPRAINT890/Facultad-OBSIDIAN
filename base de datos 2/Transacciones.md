@@ -64,4 +64,9 @@ Control de concurrencia se define como la ***coordinación*** de los procesos **
 - Las operaciones deben aparecer en el mismo orden que en cada una de las transacciones
 
 ### Ejemplo de historia
-$T_1 = R_1 x, W_1 x, R_1 Y, W_1 Y, C_1$
+$T_1 = r_1 X$, $w_1 X$, $r_1 Y$, $w_1 Y$, $c_1$
+$T_3 = r_3A$, $r_3X$, $r_3Y$, $c_3$
+
+$H_1$: $r_3$(A), $r_1$(X), $w_1$(X), $r_3$(X), $r_3$(Y), $r_1$(Y), $w_1$(Y), $c_1$, $c_3$
+$H_2$: $r_1$(X), $w_1$(X), $r_1$(Y), $w_1$(Y), $c_1$, $r_3$(A), $r_3$(X), $r_3$(Y), $c_3$
+
