@@ -1,5 +1,5 @@
 [[base de datos 2/Practico/Practico 1|Practico 1]]
-
+[[Valor Nulo o NULL|¿Que significa un valor nulo]]
 Relacion R (a, b, c, d)
 Clave primaria -> a -> {b, c, d}
 Clave secundaria -> b -> {a, c, d}

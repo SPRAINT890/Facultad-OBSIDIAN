@@ -1,0 +1,5 @@
+En algunos diseños podemos agrupar muchos atributos en una relación “muy grande”. Si muchos de los atributos no se aplican a todas las tuplas de la relación, nos encontraremos con muchos valores NULL en esas tuplas. Esto puede desperdiciar espacio de almacenamiento y puede inducir a problemas a la hora de entender el significado de los atributos con la especificación de operaciones JOIN a nivel lógico. Otro problema con los NULL es cómo contabilizarlos cuando se aplican operaciones de agregación como COUNT o SUM. Las operaciones SELECT o JOIN implican comparaciones. Si hay presentes valores NULL, los resultados serán impredecibles. Además, los NULL pueden tener múltiples interpretaciones: 
+
+- El atributo no se aplica a esta tupla. 
+- El valor de atributo de esta tupla es desconocido. 
+- El valor es conocido pero está ausente, es decir, aún no se ha grabado.
