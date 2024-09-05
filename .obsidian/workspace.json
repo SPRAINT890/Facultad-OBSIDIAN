@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md",
+                "file": "base de datos 2/Diseño.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md",
+                "file": "base de datos 2/Diseño.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md",
+                "file": "base de datos 2/Diseño.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Practico/Practico 1.md"
+                "file": "base de datos 2/Diseño.md"
               }
             }
           }
@@ -149,14 +149,14 @@
   },
   "active": "c8d80a1c1773a77a",
   "lastOpenFiles": [
-    "base de datos 2/Algoritmo de diseño.md",
+    "base de datos 2/Control.md",
     "base de datos 2/Valor Nulo o NULL.md",
     "base de datos 2/Normalización.md",
     "base de datos 2/Laboratorio 1.md",
     "base de datos 2/Diseño.md",
-    "base de datos 2/Control.md",
-    "base de datos 2/Notas/Ejemplo de Cobertura Minima.md",
+    "base de datos 2/Algoritmo de diseño.md",
     "base de datos 2/Practico/Practico 1.md",
+    "base de datos 2/Notas/Ejemplo de Cobertura Minima.md",
     "Ing software/Sprint.md",
     "Investigacion Operativa/Método Tabular.md",
     "Investigacion Operativa/Investigación Operativa.md",
