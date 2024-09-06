@@ -1,1 +1,2 @@
-- El precio so,
+- El precio sombra para el recurso i mide el valor marginal de ese recurso, es decir, la tasa a la que Z puede aumentar si se incrementa un poco la cantida que se proporciona de ese recurso.
+- El metodo SIMPLEX identifica el precio sombra con el coeficiente de la i-esima variable de holgura en el renglon (0) de la tabla final
