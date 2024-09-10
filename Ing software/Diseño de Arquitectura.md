@@ -67,17 +67,28 @@ Aumento los recursos del modulo
 
 ## Vista 4+1
 
-### Logica
+### Lógica
 - Abstracciones como objetos o clases de objetos 
 - Relaciona requerimientos del sistema con entidades
 
 ### Procesos
-- Interacción en tiempo de ejecución (usuarios->funcionalida des)
+- Interacción en tiempo de ejecución (usuarios -> funcionalidad des)
 
 ### Desarrollo
 - Cómo se compone el software en elementos de desarrollo
 
-### Fisica
--Hardware del sistema y cómo se distribuye
+### Física
+- Hardware del sistema y cómo se distribuye
 
+![[Pasted image 20240910192243.png]]
 
+## Diagrama de Secuencia
+![[Pasted image 20240910192507.png]]
+Es el paso a paso de un usuario
+
+### Diagrama de componentes
+![[Pasted image 20240910192755.png]]
+Muestra los componentes
+
+### Diagrama de despliegue
+![[Pasted image 20240910192836.png]]

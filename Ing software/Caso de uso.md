@@ -1,3 +1,4 @@
+![[Pasted image 20240910192340.png]]
 ### Atributos
 - Un identificador único y un nombre conciso que indique el objetivo
 
