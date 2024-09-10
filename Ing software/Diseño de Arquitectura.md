@@ -37,6 +37,47 @@
 - ¿Cómo puedo agrupar los componente del sistema? 
 - ¿Quién valida la arquitectura? 
 - ¿Cuál es el mejor diseño arquitectónico para cumplir los RNF? 
-- ¿Se requiere documentación? ()
+- ¿Se requiere documentación? (Que nivel de documentacion se requiere)
+- Los sistemas en el mismo dominio de aplicación tienen arquitecturas similares (en general). Ejemplo: salud, fintech, educación 
+- Pueden basarse en patrones, estilos de arquitectura genéricos (independientes del dominio)
+
+## Requerimientos No Funcionales
+### Rendimiento
+- Identificar funciones críticas 
+- Agruparlas para evitar incremento de comunicaciones 
+- Escalar el sistema
+### Seguridad
+- Arquitectura en capas 
+- Proteger activos críticos 
+- Agrupar funciones de seguridad
+
+### Disponibilidad
+- Componentes redundantes 
+- Sistemas tolerantes a fallas
+
+### Mantenibilidad
+- Componentes fáciles de modificar 
+- Evitar estructuras de datos compartidas
+
+## Escalado Horizontal
+Replico la instancia
+
+## Escalado Vertical
+Aumento los recursos del modulo
+
+## Vista 4+1
+
+### Logica
+- Abstracciones como objetos o clases de objetos 
+- Relaciona requerimientos del sistema con entidades
+
+### Procesos
+- Interacción en tiempo de ejecución (usuarios->funcionalida des)
+
+### Desarrollo
+- Cómo se compone el software en elementos de desarrollo
+
+### Fisica
+-Hardware del sistema y cómo se distribuye
 
 
