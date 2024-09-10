@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8d80a1c1773a77a",
+  "active": "f1b82d0759b93c0f",
   "lastOpenFiles": [
     "base de datos 2/Valor Nulo o NULL.md",
     "Ing software/Metodologias Agiles.md",
