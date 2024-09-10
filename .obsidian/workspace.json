@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigacion Operativa/Precio Sombra.md",
+                "file": "Ing software/Diseño del Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigacion Operativa/Precio Sombra.md",
+                "file": "Ing software/Diseño del Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigacion Operativa/Precio Sombra.md",
+                "file": "Ing software/Diseño del Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigacion Operativa/Precio Sombra.md"
+                "file": "Ing software/Diseño del Software.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "c8d80a1c1773a77a",
   "lastOpenFiles": [
-    "base de datos 2/Transacciones.md",
     "Investigacion Operativa/Precio Sombra.md",
+    "Ing software/Diseño del Software.md",
+    "base de datos 2/Transacciones.md",
     "base de datos 2/Imagen/Pasted image 20240905202342.png",
     "base de datos 2/Imagen/Pasted image 20240905202314.png",
     "base de datos 2/Imagen/tempFileForShare_20240905-200930.jpg",
@@ -186,7 +187,6 @@
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "Clei/Curso 5/Introduccion.md",
-    "Investigacion Operativa/Bibliografía.md",
     "base de datos 2/Practico",
     "Ing software/Recursos",
     "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf",
