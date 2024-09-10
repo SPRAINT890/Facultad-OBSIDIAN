@@ -52,3 +52,5 @@ Si hay un software que soluciona parcialmente mi problema lo utilizo, analizo lo
 - Difícil de mantener
 - Existe documentación necesaria? 
 - Síndrome de “no esta inventado aquí”
+
+# [[Principio de Diseño]]

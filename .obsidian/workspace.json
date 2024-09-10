@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/Diseño del Software.md",
+                "file": "Ing software/Principio de Diseño.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/Diseño del Software.md",
+                "file": "Ing software/Principio de Diseño.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/Diseño del Software.md",
+                "file": "Ing software/Principio de Diseño.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/Diseño del Software.md"
+                "file": "Ing software/Principio de Diseño.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "c8d80a1c1773a77a",
   "lastOpenFiles": [
+    "Ing software/Diseño del Software.md",
+    "Ing software/Principio de Diseño.md",
     "Ing software/Recursos/Pasted image 20240910182122.png",
     "Investigacion Operativa/Precio Sombra.md",
-    "Ing software/Diseño del Software.md",
     "base de datos 2/Transacciones.md",
     "base de datos 2/Imagen/Pasted image 20240905202342.png",
     "base de datos 2/Imagen/Pasted image 20240905202314.png",
@@ -163,7 +164,6 @@
     "base de datos 2/Valor Nulo o NULL.md",
     "base de datos 2/Imagen/Pasted image 20240905185658.png",
     "base de datos 2/Imagen/Pasted image 20240905185404.png",
-    "Pasted image 20240903203101.png",
     "base de datos 2/Diseño.md",
     "base de datos 2/Control.md",
     "base de datos 2/Normalización.md",
