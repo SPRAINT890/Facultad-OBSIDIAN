@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/Principio de Diseño.md",
+                "file": "Ing software/Diseño de Arquitectura.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/Principio de Diseño.md",
+                "file": "Ing software/Diseño de Arquitectura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/Principio de Diseño.md",
+                "file": "Ing software/Diseño de Arquitectura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/Principio de Diseño.md"
+                "file": "Ing software/Diseño de Arquitectura.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "c8d80a1c1773a77a",
   "lastOpenFiles": [
     "Ing software/Diseño del Software.md",
+    "Ing software/Diseño de Arquitectura.md",
     "Ing software/Principio de Diseño.md",
     "Ing software/Recursos/Pasted image 20240910182122.png",
     "Investigacion Operativa/Precio Sombra.md",
@@ -184,7 +185,6 @@
     "Ing software/Laboratorio.md",
     "Ing software/Requisitos.md",
     "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
-    "Investigacion Operativa/Ejemplo/Ejercicio 2.md",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "base de datos 2/Practico",
