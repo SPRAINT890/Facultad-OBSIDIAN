@@ -123,3 +123,22 @@ Una historia serializable es aquella que es equivalente a una historia serial co
 - Las historias que cumplen con este criterio se denominan recuperables 
 	- Las que no lo cumplen (irrecuperables), no las debemos permitir
 - Una historia S es recuperable, si ninguna transacción T en S se confirma hasta que todas las transacciones T’ que han escrito un elemento que T lee se han confirmado
+Los commits tienen que estar en el mismo orden que los writes en conflicto
+
+### Ejemplo
+H = r1 (X), w1 (X), r2 (X), r1 (Y), w2 (X), c2 , a1
+#### No es Recuperable porque:
+- T2 lee el elemento X de T1 
+- Se confirma T2 antes que T1 
+- T1 se cancela después de que T2 se confirma 
+- El valor de X que lee T2 ya no es válido 
+- T2 debería cancelarse después de ser confirmada
+
+## Evita Anulación en Cascada (Aborto en cascada)
+- En una historia recuperable, ninguna transacción confirmada debe ser anulada 
+- Fenómeno de la Anulación en Cascada 
+	- Una transacción no confirmada tiene que ser anulada porque lee un elemento de una transacción que falló 
+- Las anulaciones en cascada consumen mucho tiempo, por lo que es conveniente evitarlas
+
+- Una historia Evita Anulaciones en Cascada (EAC), si cada transacción de la historia solo lee elementos escritos por transacciones confirmadas 
+- Por lo tanto, los commits tienen que estar antes de los reads de las transacciones siguientes
