@@ -142,3 +142,11 @@ H = r1 (X), w1 (X), r2 (X), r1 (Y), w2 (X), c2 , a1
 
 - Una historia Evita Anulaciones en Cascada (EAC), si cada transacción de la historia solo lee elementos escritos por transacciones confirmadas 
 - Por lo tanto, los commits tienen que estar antes de los reads de las transacciones siguientes
+Ninguna transaccion puede leer si no esta confirmada
+
+## Historia Estrictas
+- En una historia Estricta las transacciones no pueden leer ni escribir un elemento X hasta que la última transacción que escribió X se confirme (o cancele) 
+- Las historias estrictas simplifican el proceso de recuperación 
+	- Deshacer una operación write (X) de una transacción cancelada es simplemente recuperar la imagen anterior del elemento X 
+	- Siempre funciona para historias estrictas, pero puede no funcionar para historias recuperables o EAC
+No podes leer ni escribir si la transacción esta confirmada
