@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Transacciones.md",
+                "file": "base de datos 2/Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Transacciones.md",
+                "file": "base de datos 2/Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Transacciones.md",
+                "file": "base de datos 2/Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Transacciones.md"
+                "file": "base de datos 2/Control.md"
               }
             }
           }
@@ -149,7 +149,10 @@
   },
   "active": "c8d80a1c1773a77a",
   "lastOpenFiles": [
+    "base de datos 2/Algoritmo de diseño.md",
+    "base de datos 2/Normalización.md",
     "base de datos 2/Valor Nulo o NULL.md",
+    "base de datos 2/Transacciones.md",
     "Ing software/Metodologias Agiles.md",
     "Ing software/Diseño del Software.md",
     "Ing software/Laboratorio.md",
@@ -163,16 +166,13 @@
     "Ing software/Recursos/Pasted image 20240910192243.png",
     "Ing software/Recursos/Pasted image 20240910182122.png",
     "Investigacion Operativa/Precio Sombra.md",
-    "base de datos 2/Transacciones.md",
     "base de datos 2/Imagen/Pasted image 20240905202342.png",
     "base de datos 2/Imagen/Pasted image 20240905202314.png",
     "base de datos 2/Imagen/tempFileForShare_20240905-200930.jpg",
     "base de datos 2/Imagen/Screenshot_20240905_194117_Samsung Notes.jpg",
     "base de datos 2/Diseño.md",
     "base de datos 2/Control.md",
-    "base de datos 2/Normalización.md",
     "base de datos 2/Laboratorio 1.md",
-    "base de datos 2/Algoritmo de diseño.md",
     "base de datos 2/Practico/Practico 1.md",
     "base de datos 2/Notas/Ejemplo de Cobertura Minima.md",
     "Ing software/Sprint.md",

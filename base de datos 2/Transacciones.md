@@ -1,11 +1,11 @@
-## Clasificacion de DBMS
+## Clasificación de DBMS
 Un criterio que permite clasificar los sistemas de base de datos es el numero de usuarios que lo pueden utilizar al mismo tiempo
 
 
 | Monousuario                                        | Multiusuarios                                                 |
 | -------------------------------------------------- | ------------------------------------------------------------- |
 | Si y solo si lo puede utilizar un usuario a la vez | Si varios usuarios pueden utilizar el sistema simultaneamente |
-## Ejemplo de transaccion
+## Ejemplo de transacción
 ![[Pasted image 20240905185404.png]]
 
 
