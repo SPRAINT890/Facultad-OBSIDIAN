@@ -115,3 +115,11 @@ Una historia serializable es aquella que es equivalente a una historia serial co
 
 ##### No Serializable
 ![[Pasted image 20240905202342.png | 600]]
+
+
+
+## Historias recuperables
+- Una vez confirmada una transacción T, nunca será necesario anularla (rollback)
+- Las historias que cumplen con este criterio se denominan recuperables 
+	- Las que no lo cumplen (irrecuperables), no las debemos permitir
+- Una historia S es recuperable, si ninguna transacción T en S se confirma hasta que todas las transacciones T’ que han escrito un elemento que T lee se han confirmado
