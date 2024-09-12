@@ -11,8 +11,12 @@
             "id": "d6de8408f6c9dbff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "base de datos 2/Transacciones.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "estricta",
+                "query": "recuperable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "base de datos 2/Transacciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "base de datos 2/Transacciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "base de datos 2/Transacciones.md"
+              }
             }
           }
         ]
@@ -139,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c8483d1ef244f85",
+  "active": "f1b82d0759b93c0f",
   "lastOpenFiles": [
-    "base de datos 2/Transacciones.md",
     "base de datos 2/Practico/Practico 2.md",
+    "base de datos 2/Transacciones.md",
     "base de datos 2/Imagen/Pasted image 20240912185947.png",
     "base de datos 2/Imagen/Pasted image 20240912185939.png",
     "base de datos 2/Imagen/Pasted image 20240912184324.png",

@@ -134,7 +134,7 @@ H = r1 (X), w1 (X), r2 (X), r1 (Y), w2 (X), c2 , a1
 - El valor de X que lee T2 ya no es válido 
 - T2 debería cancelarse después de ser confirmada
 
-## Evita Anulación en Cascada (Aborto en cascada)
+## Evita Anulación en Cascada (Aborto en cascada EAC)
 - En una historia recuperable, ninguna transacción confirmada debe ser anulada 
 - Fenómeno de la Anulación en Cascada 
 	- Una transacción no confirmada tiene que ser anulada porque lee un elemento de una transacción que falló 
