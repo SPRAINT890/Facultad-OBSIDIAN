@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6de8408f6c9dbff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "base de datos 2/Transacciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3897d054be2a5b2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Practico/Practico 2.md",
+                "file": "Investigacion Operativa/Método Tabular.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Practico/Practico 2.md",
+                "file": "Investigacion Operativa/Método Tabular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Practico/Practico 2.md",
+                "file": "Investigacion Operativa/Método Tabular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Practico/Practico 2.md"
+                "file": "Investigacion Operativa/Método Tabular.md"
               }
             }
           }
@@ -160,9 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c8483d1ef244f85",
+  "active": "3897d054be2a5b2e",
   "lastOpenFiles": [
     "base de datos 2/Transacciones.md",
+    "Investigacion Operativa/Método Tabular.md",
+    "Investigacion Operativa/Bibliografía.md",
+    "Investigacion Operativa/Investigación Operativa.md",
     "base de datos 2/Practico/Practico 2.md",
     "base de datos 2/Imagen/Pasted image 20240912203109.png",
     "base de datos 2/Imagen/Pasted image 20240912192704.png",
@@ -190,8 +180,6 @@
     "base de datos 2/Laboratorio 1.md",
     "base de datos 2/Notas/Ejemplo de Cobertura Minima.md",
     "Ing software/Sprint.md",
-    "Investigacion Operativa/Método Tabular.md",
-    "Investigacion Operativa/Investigación Operativa.md",
     "Investigacion Operativa/Técnicas de Priorizacion.md",
     "Investigacion Operativa/Rotura de empates en el metodo Simplex.md",
     "Ing software/quiz.md",
