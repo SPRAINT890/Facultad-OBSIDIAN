@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Transacciones.md",
+                "file": "base de datos 2/Practico/Practico 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eac",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Transacciones.md",
+                "file": "base de datos 2/Practico/Practico 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Transacciones.md",
+                "file": "base de datos 2/Practico/Practico 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Transacciones.md"
+                "file": "base de datos 2/Practico/Practico 2.md"
               }
             }
           }
@@ -160,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1b82d0759b93c0f",
+  "active": "9c8483d1ef244f85",
   "lastOpenFiles": [
-    "base de datos 2/Practico/Practico 2.md",
     "base de datos 2/Transacciones.md",
+    "base de datos 2/Practico/Practico 2.md",
+    "base de datos 2/Imagen/Pasted image 20240912203109.png",
     "base de datos 2/Imagen/Pasted image 20240912192704.png",
     "base de datos 2/Imagen/Borrar.png",
     "base de datos 2/Imagen/Pasted image 20240912185939.png",
@@ -183,7 +184,6 @@
     "Ing software/Diseño de Arquitectura.md",
     "Ing software/Recursos/Pasted image 20240910192755.png",
     "Ing software/Recursos/Pasted image 20240910192836.png",
-    "Ing software/Recursos/Pasted image 20240910192507.png",
     "Ing software/Principio de Diseño.md",
     "Investigacion Operativa/Precio Sombra.md",
     "base de datos 2/Diseño.md",
