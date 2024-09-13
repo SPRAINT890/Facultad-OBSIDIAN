@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md",
+                "file": "Ing software/Caso de uso.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "caso de ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md",
+                "file": "Ing software/Caso de uso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md",
+                "file": "Ing software/Caso de uso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigacion Operativa/Método Tabular.md"
+                "file": "Ing software/Caso de uso.md"
               }
             }
           }
@@ -149,8 +150,8 @@
   },
   "active": "3897d054be2a5b2e",
   "lastOpenFiles": [
-    "base de datos 2/Transacciones.md",
     "Investigacion Operativa/Método Tabular.md",
+    "base de datos 2/Transacciones.md",
     "Investigacion Operativa/Bibliografía.md",
     "Investigacion Operativa/Investigación Operativa.md",
     "base de datos 2/Practico/Practico 2.md",
