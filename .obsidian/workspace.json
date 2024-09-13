@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caso de ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3897d054be2a5b2e",
+  "active": "9c8483d1ef244f85",
   "lastOpenFiles": [
     "Investigacion Operativa/Método Tabular.md",
     "base de datos 2/Transacciones.md",
