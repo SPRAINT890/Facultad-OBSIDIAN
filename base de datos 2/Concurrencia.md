@@ -42,3 +42,12 @@ unlock_item (X)
 	lock (X) = 0
 	signal (lock(X) = 0)
 ```
+
+Estas funciones son secciones criticas y son unidades indivisibles, el DBMS genera una tabla de bloqueos y un subsistema gestor de bloqueos
+
+#### Reglas para el bloqueo binario
+Una transaccion T:
+1. Debe ejecutar la operacion lock_item(X) antes de que se ejecute cualquier operacion read_item(X) o write_item(X) en T
+2. Debe ejecutar la operacion unlock_item(X) despues de haber completado todas las operaciones read_item(X) y write_item(X) en T
+3. No ejecutara una operacion lock_item(X) si ya posee el bloqueo del elemento X
+4. No ejecutara una operacion unlock_item(X) a menos que posea el bloqueo del elemento X
