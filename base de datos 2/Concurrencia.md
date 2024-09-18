@@ -51,3 +51,10 @@ Una transaccion T:
 2. Debe ejecutar la operacion unlock_item(X) despues de haber completado todas las operaciones read_item(X) y write_item(X) en T
 3. No ejecutara una operacion lock_item(X) si ya posee el bloqueo del elemento X
 4. No ejecutara una operacion unlock_item(X) a menos que posea el bloqueo del elemento X
+##### Problemas
+###### Demasiado restrictivos
+Como máximo solo una transacción puede poseer un bloqueo sobre un elemento dado a la vez
+###### Necesidades
+Permite que varias transacciones tengan acceso al elemento X si todas ellas acceden a X solo para leer
+Si una transacción va a escribir un elemento X, debe tener acceso exclusivo a X
+
