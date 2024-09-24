@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigacion Operativa/Ejemplo/Ejemplo de algebraico.md",
+                "file": "base de datos 2/Transacciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigacion Operativa/Ejemplo/Ejemplo de algebraico.md",
+                "file": "base de datos 2/Transacciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigacion Operativa/Ejemplo/Ejemplo de algebraico.md",
+                "file": "base de datos 2/Transacciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigacion Operativa/Ejemplo/Ejemplo de algebraico.md"
+                "file": "base de datos 2/Transacciones.md"
               }
             }
           }
@@ -149,9 +149,14 @@
   },
   "active": "3897d054be2a5b2e",
   "lastOpenFiles": [
-    "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
-    "Investigacion Operativa/Ejemplo/Ejemplo de algebraico.md",
+    "base de datos 2/Normalización.md",
+    "base de datos 2/Laboratorio 1.md",
+    "base de datos 2/Diseño.md",
+    "base de datos 2/Control.md",
     "base de datos 2/Concurrencia.md",
+    "base de datos 2/Algoritmo de diseño.md",
+    "Investigacion Operativa/Ejemplo/Ejemplo de algebraico.md",
+    "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
     "base de datos 2/Transacciones.md",
     "Ing software/Caso de uso.md",
     "Investigacion Operativa/Método Tabular.md",
@@ -167,9 +172,6 @@
     "base de datos 2/Imagen/Pasted image 20240912184251.png",
     "base de datos 2/Imagen/Pasted image 20240912184143.png",
     "base de datos 2/Practico/Practico 1.md",
-    "base de datos 2/Control.md",
-    "base de datos 2/Algoritmo de diseño.md",
-    "base de datos 2/Normalización.md",
     "base de datos 2/Valor Nulo o NULL.md",
     "Ing software/Metodologias Agiles.md",
     "Ing software/Diseño del Software.md",
@@ -179,8 +181,6 @@
     "Ing software/Recursos/Pasted image 20240910192836.png",
     "Ing software/Principio de Diseño.md",
     "Investigacion Operativa/Precio Sombra.md",
-    "base de datos 2/Diseño.md",
-    "base de datos 2/Laboratorio 1.md",
     "base de datos 2/Notas/Ejemplo de Cobertura Minima.md",
     "Ing software/Sprint.md",
     "Investigacion Operativa/Técnicas de Priorizacion.md",
