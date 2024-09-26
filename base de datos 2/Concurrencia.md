@@ -110,3 +110,7 @@ Una transaccion T:
 	- en caso contrario la transaccion T debe esperar
 - Cuando se permite la conversion de bloqueos, la tabla de bloqueo debe incluir un campo transacciones_bloqueos para guardar los identificadores de transacciones
 
+## Protocolo de bloqueo en dos fases 2pl
+Los bloqueos binarios y los de lectura/escritura no garantizan la serialización de las transacciones
+![[Pasted image 20240926192613.png | 500]]
+
