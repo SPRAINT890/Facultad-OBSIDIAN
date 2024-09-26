@@ -114,3 +114,10 @@ Una transaccion T:
 Los bloqueos binarios y los de lectura/escritura no garantizan la serialización de las transacciones
 ![[Pasted image 20240926192613.png | 500]]
 
+- Una transacción T cumple con el protocolo de bloqueo en dos fases si todas las operaciones de bloqueo (Read_lock y write_lock) preceden a la primera operación de desbloqueo (unlock) de la transacción
+- Fase de expansión o crecimiento
+	- se adquieren bloqueos nuevos sobre los elementos, pero no se puede liberar 
+- Fase de reducción
+	- se pueden liberar los bloqueos existentes, pero no se pueden adquirir nuevos bloqueos
+- promoción de bloqueos
+	- debe realizarse durante la fase de expansión
