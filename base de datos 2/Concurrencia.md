@@ -138,6 +138,16 @@ La transacción no libera ninguno de sus bloqueos exclusivos o compartidos hasta
 Garantiza que es EAC Estricto
 
 ## Deadlock / Interbloqueo
-Se produce cuando cada transaccion T en un conjunto de dos o mas transacciones esta esperando a algun elemento que esta bloqueado por alguna otra transaccion T´ de dicho conjunto
+Se produce cuando cada transacción T en un conjunto de dos o mas transacciones esta esperando a algún elemento que esta bloqueado por alguna otra transacción T´ de dicho conjunto
 
 ![[Pasted image 20240926201204.png]]
+
+Foto de 26/9/2024
+
+## Protocolos de prevención de interbloqueos
+- Alternativa 1
+	- Bloquear con antelación todos los elementos que necesita la transacción
+	- Si alguno de los elementos no puede obtenerse, ningún de los elementos se bloquea
+- Alternativa 2
+	- Ordenar todos los elementos en la base de datos
+	- Asegurarse de que una transacción que necesite varios elementos los bloqueara según el orden
