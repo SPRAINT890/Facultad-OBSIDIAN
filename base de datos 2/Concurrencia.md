@@ -122,13 +122,22 @@ Los bloqueos binarios y los de lectura/escritura no garantizan la serialización
 	- se pueden liberar los bloqueos existentes, pero no se pueden adquirir nuevos bloqueos
 - promoción de bloqueos
 	- debe realizarse durante la fase de expansión
+- garantiza serializable
 
 ### 2pl Conservador o estático
 Requiere una declaración previa del conjunto de lecturas y escrituras antes de comenzar a ejecutar la transacción.
 Con esto no tengo promoción de bloqueos.
+Garantiza que es Recuperable
 
 ### Estricto
 La transacción no libera ninguno de sus bloqueos exclusivos hasta despues de confirmar o abortar
+Garantiza que es EAC
 
 ### Riguroso
 La transacción no libera ninguno de sus bloqueos exclusivos o compartidos hasta despues de confirmarse o abortar
+Garantiza que es EAC Estricto
+
+## Deadlock / Interbloqueo
+Se produce cuando cada transaccion T en un conjunto de dos o mas transacciones esta esperando a algun elemento que esta bloqueado por alguna otra transaccion T´ de dicho conjunto
+
+![[Pasted image 20240926201204.png]]
