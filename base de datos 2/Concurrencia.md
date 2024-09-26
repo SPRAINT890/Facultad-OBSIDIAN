@@ -98,4 +98,15 @@ Una transaccion T:
 1. debe ejecutarse la operacion read_lock(X) o write_lock(X) antes de que se ejecute cualquier operacion read_item(X) en T
 2. debe ejecutar la operacion write_lock(X) antes de que se ejecute cualquier operacion write_item (X) en T
 3. debe ejecutar la operacion unlock(X) despues de haber completado todas las operaciones read_item(X) y write_item(X) en T
-4. no ejecutara una operacion read_lock(X) si ya posee un bloqueo......
+4. no ejecutara una operacion read_lock(X) si ya posee un bloqueo de lectura  o de escritura para el elemento x
+5. no ejecutara una operacion write_lock(X) si ya posee un bloqueo de lectura o de escritura para el elemento x
+6. no ejecutara una operacion unlock(X) a menos que posea un bloqueo de lectura o de escritura sobre el elemento X
+
+#### Conversión de bloqueos
+- A veces se quieren hacer menos estrictas las reglas 4 y 5
+- para ello se permite la conversion del bloqueo
+	- una transaccion T ejecuta la operacion read_lock(X) y mas adelante solicita promocionar el bloqueo ejecutando una operacion write_lock(X)
+	- si T es la unica transaccion que posee un bloqueo de lectura sobre X, entonces el bloqueo puede promocionarse
+	- en caso contrario la transaccion T debe esperar
+- Cuando se permite la conversion de bloqueos, la tabla de bloqueo debe incluir un campo transacciones_bloqueos para guardar los identificadores de transacciones
+
