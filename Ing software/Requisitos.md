@@ -85,7 +85,7 @@ PROBLEMA: cuando los declaro, los declaro como un objetivo generla "alto nivel"
 ![[Pasted image 20240820185447.png]]
 
 
-## Especificación de software
+## Especificación de software / Requisitos de software
 
 ![[Pasted image 20240820185849.png]]
 
@@ -110,7 +110,7 @@ Hay una etapa de interiorización del dominio que se va a trabajar.
 - Dominio
 - Muchos interesados con diferentes necesidades
 
-### Ciclo
+### Ciclo de Obtención y Análisis de requisitos
 ![[Pasted image 20240820191327.png]]
 
 
