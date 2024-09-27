@@ -6,3 +6,21 @@
 5. D
 6. B
 ## Practico
+![[Pasted image 20240927191455.png | 500]]
+
+Caso de Uso Reservar
+Nombre: Generar reserva
+
+Descripcion: Le permite a un usuario generar una reserva
+
+Pre-condicion:
+- Navegador con internet
+- Usuario Logeado
+
+Post-condicion:
+- El usuario es redirigido a pagina principal con una reserva por confirmar
+
+Flujo Normal:
+- El sistema, muestra un listado de conciertos disponibles
+- El usuario, selecciona un concierto de la lista para reservar
+- Sistema, 

@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "requisitos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1b82d0759b93c0f",
+  "active": "9c8483d1ef244f85",
   "lastOpenFiles": [
+    "Ing software/Recursos/Pasted image 20240927191455.png",
     "Ing software/Requisitos.md",
     "Ing software/Principio de Diseño.md",
     "Ing software/Trabajos/quiz.md",
@@ -199,7 +199,6 @@
     "base de datos 2/Imagen/Pasted image 20240912184305.png",
     "base de datos 2/Imagen/Pasted image 20240912184251.png",
     "base de datos 2/Imagen/Pasted image 20240912184143.png",
-    "Ing software/Diseño del Software.md",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "base de datos 2/Practico",
