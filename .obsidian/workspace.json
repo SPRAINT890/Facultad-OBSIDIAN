@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Concurrencia.md",
+                "file": "base de datos 2/Practico/Practico 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Concurrencia.md",
+                "file": "base de datos 2/Practico/Practico 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Concurrencia.md",
+                "file": "base de datos 2/Practico/Practico 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Concurrencia.md"
+                "file": "base de datos 2/Practico/Practico 3.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "3897d054be2a5b2e",
   "lastOpenFiles": [
-    "base de datos 2/Imagen/Pasted image 20240926201204.png",
+    "Ing software/Metodologias Agiles.md",
+    "Clei/Curso 3/Introduccion.md",
+    "Clei/Curso 5/Introduccion.md",
+    "base de datos 2/Practico/Practico 3.md",
     "base de datos 2/Concurrencia.md",
+    "base de datos 2/Imagen/Pasted image 20240926201204.png",
     "base de datos 2/Imagen/Pasted image 20240926192613.png",
     "base de datos 2/Diseño.md",
     "base de datos 2/Laboratorio 1.md",
@@ -175,15 +179,12 @@
     "base de datos 2/Imagen/Pasted image 20240912184305.png",
     "base de datos 2/Imagen/Pasted image 20240912184251.png",
     "base de datos 2/Imagen/Pasted image 20240912184143.png",
-    "Ing software/Metodologias Agiles.md",
     "Ing software/Diseño del Software.md",
     "Ing software/Laboratorio.md",
     "Ing software/Diseño de Arquitectura.md",
     "Ing software/Principio de Diseño.md",
     "Investigacion Operativa/Precio Sombra.md",
     "base de datos 2/Notas/Ejemplo de Cobertura Minima.md",
-    "Ing software/Sprint.md",
-    "Investigacion Operativa/Técnicas de Priorizacion.md",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "base de datos 2/Practico",
