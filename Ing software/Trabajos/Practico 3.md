@@ -1,5 +1,5 @@
 1. Dadas las siguientes afirmaciones respecto a requisitos, seleccione la opcion correcta
-	D. El costo de correccion de error en los requisitos es mas alto si este se detecta luego de la puesta en produccion que en etapas tempranas como el relevamiento.
+	D. El costo de corrección de error en los requisitos es mas alto si este se detecta luego de la puesta en producción que en etapas tempranas como el relevamiento.
 2. C
 3. A
 4. B
@@ -11,14 +11,14 @@
 Caso de Uso Reservar
 Nombre: Generar reserva
 
-Descripcion: Le permite a un usuario generar una reserva
+Descripción: Le permite a un usuario generar una reserva
 
-Pre-condicion:
+Pre-condición:
 - Navegador con internet
 - Existe un concierto
 - Usuario Logeado
 
-Post-condicion:
+Post-condición:
 - El usuario es redirigido a pagina principal con una reserva por confirmar
 
 Flujo Normal:
@@ -37,3 +37,7 @@ Flujo Alternativo
 	Ubicaciones no disponibles
 		6.1: El sistema muestra que la ubicaciones seleccionada no esta disponibles
 		6.2: vuelvo a 4 FN
+
+Requisitos funcionales
+
+Requisitos No Funcionales
