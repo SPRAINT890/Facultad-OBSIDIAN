@@ -38,6 +38,24 @@ Flujo Alternativo
 		6.1: El sistema muestra que la ubicaciones seleccionada no esta disponibles
 		6.2: vuelvo a 4 FN
 
-Requisitos funcionales
+
 
 Requisitos No Funcionales
+- Seguridad en los metodos de pagos
+- Seguridad en los datos personales de los usuarios
+- Tiene que soportar grandes volumenes de carga de usuarios
+- Interoperabilidad con sistemas de pago como visa, mastercard o paypal
+- Gran compatibilidad con la mayoria de telefonos
+- Web responsibe
+
+Requisitos funcionales
+- ABM De usuarios
+- ABM De concierto
+- Sistema de pago
+- Sistema de reserva
+
+Historia de usuario
+Rol: Cliente
+- Como cliente, quiero poder pagar con tarjeta de debito la reserva de los conciertos
+- Como cliente, quiero poder autentificarme con mi cuenta de Google para mayor rapidez
+- Como cliente, quiero poder cancelar una reserva en caso de arrepentimiento
