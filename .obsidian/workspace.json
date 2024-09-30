@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/Arquitecturas.md",
+                "file": "Ing software/Trabajos/Practico 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/Arquitecturas.md",
+                "file": "Ing software/Trabajos/Practico 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/Arquitecturas.md"
+                "file": "Ing software/Trabajos/Practico 3.md"
               }
             }
           }
@@ -160,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d95ef24ae24f246",
+  "active": "aac9f6580744a9aa",
   "lastOpenFiles": [
-    "Ing software/Trabajos/Practico 3.md",
     "Ing software/Arquitecturas.md",
+    "Ing software/Trabajos/Practico 3.md",
     "Ing software/Sprint.md",
     "Ing software/Trabajos/quiz.md",
     "Ing software/Requisitos.md",
