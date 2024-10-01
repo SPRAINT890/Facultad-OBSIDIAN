@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Concurrencia.md",
+                "file": "base de datos 2/Practico/Practico 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/Arquitecturas.md",
+                "file": "base de datos 2/Concurrencia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,14 +161,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aac9f6580744a9aa",
+  "active": "0d95ef24ae24f246",
   "lastOpenFiles": [
+    "Ing software/Arquitecturas.md",
     "base de datos 2/Practico/Practico 3.md",
+    "base de datos 2/Imagen/Pasted image 20241001204410.png",
+    "base de datos 2/Concurrencia.md",
     "Ing software/Principio de Diseño.md",
     "Ing software/Diseño del Software.md",
     "Ing software/Diseño de Arquitectura.md",
     "Ing software/Caso de uso.md",
-    "Ing software/Arquitecturas.md",
     "Ing software/Trabajos/Practico 3.md",
     "Ing software/Sprint.md",
     "Ing software/Trabajos/quiz.md",
@@ -181,7 +184,6 @@
     "Ing software/Software.md",
     "Ing software/Metodologias Agiles.md",
     "Clei/Curso 3/Introduccion.md",
-    "base de datos 2/Concurrencia.md",
     "base de datos 2/Imagen/Pasted image 20240926201204.png",
     "base de datos 2/Imagen/Pasted image 20240926192613.png",
     "base de datos 2/Diseño.md",
@@ -191,14 +193,12 @@
     "base de datos 2/Practico/Practico 1.md",
     "base de datos 2/Valor Nulo o NULL.md",
     "base de datos 2/Control.md",
-    "Investigacion Operativa/Ejemplo/Ejemplo de algebraico.md",
     "base de datos 2/Imagen/Pasted image 20240912203109.png",
     "base de datos 2/Imagen/Pasted image 20240912192704.png",
     "base de datos 2/Imagen/Borrar.png",
     "base de datos 2/Imagen/Pasted image 20240912185939.png",
     "base de datos 2/Imagen/Pasted image 20240912184324.png",
     "base de datos 2/Imagen/Pasted image 20240912184305.png",
-    "base de datos 2/Imagen/Pasted image 20240912184251.png",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "base de datos 2/Practico",
