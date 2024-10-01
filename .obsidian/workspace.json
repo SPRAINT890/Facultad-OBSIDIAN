@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/Principio de Diseño.md",
+                "file": "base de datos 2/Concurrencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2pl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/Principio de Diseño.md",
+                "file": "base de datos 2/Concurrencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/Principio de Diseño.md",
+                "file": "base de datos 2/Concurrencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/Principio de Diseño.md"
+                "file": "base de datos 2/Concurrencia.md"
               }
             }
           }
@@ -161,6 +162,8 @@
   },
   "active": "aac9f6580744a9aa",
   "lastOpenFiles": [
+    "base de datos 2/Practico/Practico 3.md",
+    "Ing software/Principio de Diseño.md",
     "Ing software/Diseño del Software.md",
     "Ing software/Diseño de Arquitectura.md",
     "Ing software/Caso de uso.md",
@@ -170,7 +173,6 @@
     "Ing software/Trabajos/quiz.md",
     "Ing software/Requisitos.md",
     "Ing software/Recursos/Pasted image 20240927191455.png",
-    "Ing software/Principio de Diseño.md",
     "Ing software/Trabajos",
     "base de datos 2/Practico/Practico 2.md",
     "base de datos 2/Algoritmo de diseño.md",
@@ -190,7 +192,6 @@
     "base de datos 2/Valor Nulo o NULL.md",
     "base de datos 2/Control.md",
     "Investigacion Operativa/Ejemplo/Ejemplo de algebraico.md",
-    "Investigacion Operativa/Ejemplo/Ejercicio 1.md",
     "base de datos 2/Imagen/Pasted image 20240912203109.png",
     "base de datos 2/Imagen/Pasted image 20240912192704.png",
     "base de datos 2/Imagen/Borrar.png",
