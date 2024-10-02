@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,10 +162,11 @@
   },
   "active": "0d95ef24ae24f246",
   "lastOpenFiles": [
-    "Ing software/Arquitecturas.md",
     "base de datos 2/Practico/Practico 3.md",
-    "base de datos 2/Imagen/Pasted image 20241001204410.png",
     "base de datos 2/Concurrencia.md",
+    "base de datos 2/Imagen/Pasted image 20241001205606.png",
+    "Ing software/Arquitecturas.md",
+    "base de datos 2/Imagen/Pasted image 20241001204410.png",
     "Ing software/Principio de Diseño.md",
     "Ing software/Diseño del Software.md",
     "Ing software/Diseño de Arquitectura.md",
@@ -198,7 +198,6 @@
     "base de datos 2/Imagen/Borrar.png",
     "base de datos 2/Imagen/Pasted image 20240912185939.png",
     "base de datos 2/Imagen/Pasted image 20240912184324.png",
-    "base de datos 2/Imagen/Pasted image 20240912184305.png",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "base de datos 2/Practico",
