@@ -151,3 +151,15 @@ Foto de 26/9/2024
 - Alternativa 2
 	- Ordenar todos los elementos en la base de datos
 	- Asegurarse de que una transacción que necesite varios elementos los bloqueara según el orden
+
+## Time stamp
+
+$T_i < T_j$
+Siendo $T_i$ mas vieja que $T_j$
+
+### Esperar a morir
+si TS ($T_i$) < TS ($T_j$)Ti tiene permitido esperar
+en caso contrario $T_i$ aborta y reinicia mas tarde con el mismo TS($T_i$)
+
+### Herir - Esperar
+
