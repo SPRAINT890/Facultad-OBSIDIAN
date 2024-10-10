@@ -22,9 +22,10 @@
 -  Politica de respaldo
 
 ## Manejo de Buffer
+
 ### Estrategia de remplazo
 #### Dirty Bit
-tiene un dirty bit, que indica si tiene información actualizada.
+Hay un bit reservado llamado dirty bit, que indica si tiene información actualizada, entonces tiene que guardar la informacion de ese bloque antes de borrarla.
 
 - LRU (Less Recently Used)
 	Es el bloque el cual fue usado hace mas tiempo
@@ -32,3 +33,9 @@ tiene un dirty bit, que indica si tiene información actualizada.
 	Ordena los bloques segun el uso en un circulo
 - FIFO
 	First In First Out
+
+### Salida Forzada de bloques
+- Recuperacion de transacciones
+	Se le pone un Time Stamp donde cada tanto se guarda los bloque de la memoria en disco, para tener una recuperacion de estos bloques en caso de alguna falla
+
+### Bloques Sujetos
