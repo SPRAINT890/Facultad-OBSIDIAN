@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Concurrencia.md",
+                "file": "base de datos 2/Medio de Almacenamiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Concurrencia.md",
+                "file": "base de datos 2/Medio de Almacenamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Concurrencia.md",
+                "file": "base de datos 2/Medio de Almacenamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Concurrencia.md"
+                "file": "base de datos 2/Medio de Almacenamiento.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "0d95ef24ae24f246",
   "lastOpenFiles": [
-    "base de datos 2/Practico/Practico 3.md",
     "base de datos 2/Concurrencia.md",
+    "base de datos 2/Medio de Almacenamiento.md",
+    "base de datos 2/Practico/Practico 3.md",
     "base de datos 2/Imagen/Pasted image 20241001205606.png",
     "Ing software/Arquitecturas.md",
     "base de datos 2/Imagen/Pasted image 20241001204410.png",
