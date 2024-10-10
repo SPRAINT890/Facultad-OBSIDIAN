@@ -21,3 +21,14 @@
 
 -  Politica de respaldo
 
+## Manejo de Buffer
+### Estrategia de remplazo
+#### Dirty Bit
+tiene un dirty bit, que indica si tiene información actualizada.
+
+- LRU (Less Recently Used)
+	Es el bloque el cual fue usado hace mas tiempo
+- Clock Policy
+	Ordena los bloques segun el uso en un circulo
+- FIFO
+	First In First Out
