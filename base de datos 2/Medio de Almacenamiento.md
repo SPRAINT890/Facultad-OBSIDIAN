@@ -39,3 +39,8 @@ Hay un bit reservado llamado dirty bit, que indica si tiene información actuali
 	Se le pone un Time Stamp donde cada tanto se guarda los bloque de la memoria en disco, para tener una recuperacion de estos bloques en caso de alguna falla
 
 ### Bloques Sujetos
+
+## Organización de Archivos
+
+
+- Registros de Longitud Fija
