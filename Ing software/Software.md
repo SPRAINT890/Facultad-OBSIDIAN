@@ -165,4 +165,16 @@ Las pruebas sólo pueden mostrar la presencia de errores, pero NO su ausencia
 	- Integran algunos o todos los componentes de un sistema y se prueba el sistema en su totalidad 
 	- Interacciones entre componentes
 
-### Tecnicas de pruebas
+### Técnicas de pruebas
+- Pruebas de partición 
+	- Identificar grupos de entradas que tienen características comunes y que deben procesarse de la misma manera. 
+	- Grupos (dominos) de entradas y salidas con características comunes 
+- Basadas en pautas 
+	- Utilizar pautas de prueba para elegir casos de prueba 
+	- Las pautas reflejan experiencia previa de los tipos de errores comunes
+#### Pruebas de partición 
+Función que valida contraseñas bajo los siguientes criterios: 
+- La contraseña debe tener al menos 8 caracteres. 
+- Debe contener al menos una letra mayúscula. 
+- Debe contener al menos un número. 
+- Debe contener al menos un carácter especial (por ejemplo, @, #, !, etc.)
