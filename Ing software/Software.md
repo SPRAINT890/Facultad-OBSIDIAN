@@ -64,3 +64,31 @@ Proyectos Chicos o de menor coste, proyectos de requerimientos cambiantes, app w
 - Entregas en poco tiempo
 - a veces los productos se desarrollan rápido y no da tiempo a documentarlo
 - el cambio regular tiende a corromper su estructura. haciendo que la incorporación de más cambios de software se vuelve cada vez más difícil y costosa.
+
+## Errores de software
+
+### Errores
+Accion humana que produce un resultado incorrecto, genera el defecto
+
+### Defectos (Bug)
+Manifestacion de ese error en el codigo
+
+### Falla
+Revelacion del bug al utilizar el sistema, en tiempo de ejecucion
+- No hace lo que se esperaba
+- Hace algo que no se esperaba
+- No responde en los tiempos esperados
+#### Sucede por que puede haber errores en las fases del desarrollo
+
+### Testear vs Debuggear
+- Detectar (Mas o menos sistematica) fallas (que indican la presencia de defectos)
+- Objetivos testear
+	- Ejecutar un programa para encontrar fallas
+	- Ejecutar un programa para medir la calidad 
+	- Ejecutar un programa para brindar confianza 
+	- Analizar un programa o su documentación para prevenir fallas
+- Objetivo debuggear
+	- Localizar y corregir fallas
+
+### Terminologia
+Caso de prueba ○ Conjunto detallado de condiciones, acciones y resultados esperados. ○ Objetivo de prueba, pre y pos condiciones, pasos, datos de prueba, resultados esperados, estado ● Objetivo de la prueba/tipo de prueba (est objective/test type) ○ Propósito de la prueba, ¿Qué quiero probar? ● Técnica de prueba ○ Técnica o estrategia utilizada para especificar o ejecutar la prueba. ● Objeto de prueba ○ Objeto de prueba que se va a probar ● Nivel de prueba: ○ Nivel de acuerdo al modelo de ciclo de vida (unitarias, integración, sistema) ● Grado de prueba ○ Nivel de exhaustividad con el que se realiza el proceso de pruebas en un sistema o aplicación de software (básico, medio, exhaustivas)
