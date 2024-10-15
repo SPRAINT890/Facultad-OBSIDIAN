@@ -138,3 +138,31 @@ Las pruebas sólo pueden mostrar la presencia de errores, pero NO su ausencia
 - La paradoja del pesticida 
 - En necesario tener en cuenta el contexto-dependiente 
 - No existe el software sin fallas
+
+## Etapas finales de un programa o un ciclo
+![[Pasted image 20241015184204.png]]
+### De desarrollo
+- #### Unitarias (de módulo o componente) 
+	- Unidades individuales o clases de objetos 
+	- Probar la funcionalidad de objetos o métodos. 
+	- Objetivo de prueba: 
+		- Verificar componente o módulo de un software de acuerdo a su especificación técnica 
+	- Objeto: 
+		- Clases, módulos, etc. 
+	- Entorno: 
+		- Ambiente de desarrollo 
+	- Se basa en la lógica de procesamiento interno y de las estructuras de datos dentro de las fronteras de un componente 
+	- Puede requerir construir drivers (pruebas de integración ascendentes) y stubs (pruebas de integración descendentes)
+	- Siempre que sea posible, se debe automatizar las pruebas unitarias 
+	- Seleccionar casos de prueba unitarios eficaces 
+		- Deben mostrar que, cuando se utilizan como se espera, el componente hace lo que se supone que debe hacer. 
+		- Si existen defectos en el componente, estos deben revelarse
+
+- De componentes (de integración) 
+	- Integran varias unidades individuales, componentes compuestos 
+	- Probar las interfaces de los componentes 
+- Del Sistema 
+	- Integran algunos o todos los componentes de un sistema y se prueba el sistema en su totalidad 
+	- Interacciones entre componentes
+
+### Tecnicas de pruebas

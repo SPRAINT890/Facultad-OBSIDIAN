@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Practico/Practico 3.md",
+                "file": "Ing software/Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,13 @@
             "id": "0d95ef24ae24f246",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Ing software/Software.md",
-                "mode": "source",
-                "source": false
+                "file": "Ing software/Recursos/Pasted image 20241015183134.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,13 +157,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d95ef24ae24f246",
+  "active": "aac9f6580744a9aa",
   "lastOpenFiles": [
-    "Pasted image 20241015183134.png",
+    "base de datos 2/Practico/Practico 3.md",
+    "Ing software/Recursos/Pasted image 20241015183134.png",
+    "Ing software/Software.md",
+    "Ing software/Recursos/Pasted image 20241015184204.png",
     "Ing software/Virtualizacion.md",
     "base de datos 2/Medio de Almacenamiento.md",
     "base de datos 2/Concurrencia.md",
-    "base de datos 2/Practico/Practico 3.md",
     "base de datos 2/Imagen/Pasted image 20241001205606.png",
     "Ing software/Arquitecturas.md",
     "base de datos 2/Imagen/Pasted image 20241001204410.png",
@@ -184,7 +183,6 @@
     "base de datos 2/Algoritmo de diseño.md",
     "Clei/Curso 5/Introduccion.md",
     "Investigacion Operativa/Técnicas de Priorizacion.md",
-    "Ing software/Software.md",
     "Ing software/Metodologias Agiles.md",
     "Clei/Curso 3/Introduccion.md",
     "base de datos 2/Imagen/Pasted image 20240926201204.png",
@@ -197,8 +195,6 @@
     "base de datos 2/Imagen/Pasted image 20240912203109.png",
     "base de datos 2/Imagen/Pasted image 20240912192704.png",
     "base de datos 2/Imagen/Borrar.png",
-    "base de datos 2/Imagen/Pasted image 20240912185939.png",
-    "base de datos 2/Imagen/Pasted image 20240912184324.png",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "base de datos 2/Practico",
