@@ -51,6 +51,22 @@ Recursos: almacenamiento, procesamiento (Capacidad de computo), bases
 
 
 ## Modelos de servicios
-### SaaS
-#### PaaS
-##### IaaS
+### SaaS (Software as a service)
+...
+- Ventajas
+	- Accesibles desde cualquier dispositivo, en cualquier momento
+#### PaaS (Plataform as a service)
+El provedor de nube, brinda y administra todos los recursos de hardware y software para desarrollar aplicaciones a travez de la web...
+- Ventajas
+	- El provedor de servicios en la nube es responsable del mantenimiento
+
+##### IaaS (Infraestructure as a service)
+El proveedor de nube brinda recursos de infraestructura: procesamiento, almacenamiento ....
+- Ventajas
+	- Reduccion del gasto inicial, no se invierte en hardware
+- Desventaja
+	- Responsable de tu propia seguridad y recuperacion de datos
+
+
+### (Pegar tabla)
+
