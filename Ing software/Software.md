@@ -91,4 +91,50 @@ Revelacion del bug al utilizar el sistema, en tiempo de ejecucion
 	- Localizar y corregir fallas
 
 ### Terminologia
-Caso de prueba ○ Conjunto detallado de condiciones, acciones y resultados esperados. ○ Objetivo de prueba, pre y pos condiciones, pasos, datos de prueba, resultados esperados, estado ● Objetivo de la prueba/tipo de prueba (est objective/test type) ○ Propósito de la prueba, ¿Qué quiero probar? ● Técnica de prueba ○ Técnica o estrategia utilizada para especificar o ejecutar la prueba. ● Objeto de prueba ○ Objeto de prueba que se va a probar ● Nivel de prueba: ○ Nivel de acuerdo al modelo de ciclo de vida (unitarias, integración, sistema) ● Grado de prueba ○ Nivel de exhaustividad con el que se realiza el proceso de pruebas en un sistema o aplicación de software (básico, medio, exhaustivas)
+- Caso de prueba 
+	- Conjunto detallado de condiciones, acciones y resultados esperados. 
+	- Objetivo de prueba, pre y pos condiciones, pasos, datos de prueba, resultados esperados, estado 
+- Objetivo de la prueba/tipo de prueba (est objective/test type) 
+	- Propósito de la prueba, ¿Qué quiero probar? 
+- Técnica de prueba 
+	- Técnica o estrategia utilizada para especificar o ejecutar la prueba. 
+- Objeto de prueba 
+	- Objeto de prueba que se va a probar 
+- Nivel de prueba: 
+	- Nivel de acuerdo al modelo de ciclo de vida (unitarias, integración, sistema) 
+- Grado de prueba 
+	- Nivel de exhaustividad con el que se realiza el proceso de pruebas en un sistema o aplicación de software (básico, medio, exhaustivas)
+
+## ¿Qué hacemos cuando probamos software?
+Los procesos de verificación y validación (V&V) buscan comprobar que el software cumple con sus especificaciones, y brinda las funcionalidades deseada por los clientes. 
+- Verificar 
+	- ¿Construimos bien el producto?
+- Validar 
+	- ¿Construimos el producto correcto?
+- Los procesos de V&V comienzan tan pronto como están disponibles los requerimientos y continúan a través de todas las etapas del proceso de desarrollo.
+
+## Niveles de confianza
+Los procesos V&V buscan establecer confianza de que el sistema de software es “adecuado”. 
+- Propósito del software 
+	- Más crítico -> Más confiabilidad 
+- Expectativas del usuario 
+	- Los beneficios del uso deben exceden los costos de la recuperación de fallas 
+- Entorno de mercado 
+	- Productos competitivos, menos calidad, menos precio
+
+#### Deuda técnica
+![[Pasted image 20241015183134.png | 200]]
+Son cosas que dejo para despues por tiempo o dinero, que se van sumando y acorta el alcance
+
+### ¿Es posible garantizar que un software NO tiene defectos y que se comporta como se espera? 
+Las pruebas sólo pueden mostrar la presencia de errores, pero NO su ausencia
+
+## Principios de VyV
+-  Sirve para revelar defectos, pero no su ausencia 
+- No es posible ser exhaustivos 
+- Las actividades deberían comenzar lo antes posible 
+- Agrupación de defectos (defect clustering) 
+	- arreglando el 20% de los errores, solucionas el 80 % de los problemas
+- La paradoja del pesticida 
+- En necesario tener en cuenta el contexto-dependiente 
+- No existe el software sin fallas
