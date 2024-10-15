@@ -178,3 +178,37 @@ Función que valida contraseñas bajo los siguientes criterios:
 - Debe contener al menos una letra mayúscula. 
 - Debe contener al menos un número. 
 - Debe contener al menos un carácter especial (por ejemplo, @, #, !, etc.)
+
+### Componentes (Integración)
+- Objetivo de prueba 
+	- Verificar que un grupo de componentes interactúa (a través de interfaces) de acuerdo a las especificación técnica 
+- Objeto: 
+	- Conjuntos relacionados de clases, módulos, etc. 
+- Entorno: 
+	- Ambiente de desarrollo 
+- Errores posibles: 
+	- uso incorrecto de interfaz 
+	- sincronización 
+	- interpretación errónea
+
+#### Técnicas de prueba
+- No incremental 
+	- Big-Bang 
+- Incrementales (y jerárquicas) 
+	- Bottom-Up (Ascendente) 
+	- Top-Down (Descendente) 
+- Integración Backbone (esqueleto)
+
+### Del Sistema
+- Objetivo de prueba 
+	- Verificar que el sistema cumple con los requerimientos funcionales y no funcionales ● Objeto: 
+	- Sistema integrado como un todo 
+- Entorno: 
+	- Ambiente similar al productivo ( en general ambiente de desarrollo) 
+- ¿Es una prueba de componentes? 
+	- Integrar los componentes desarrollados por diferentes miembros del equipo o subequipos 
+	- Se centran en las interacciones
+#### Técnicas de prueba
+- Pruebas basadas en casos de uso 
+	- Varios componentes involucrados, se fuerzan interacciones 
+- Pruebas basadas en HU
