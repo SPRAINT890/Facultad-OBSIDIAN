@@ -41,4 +41,62 @@
 
 ### Basada en la experiencia
 - No es un enfoque sistemático 
-- Habilidades y conocimiento del verificador ● Test exploratorio (si no existe documentación) ○ Descubro y conozco el software ○ Genero casos de prueba ○ Ejecutar casos de prueba
+- Habilidades y conocimiento del verificador 
+- Test exploratorio (si no existe documentación) 
+	- Descubro y conozco el software 
+	- Genero casos de prueba 
+	- Ejecutar casos de prueba
+
+## Aspectos positivos
+
+| Estaticas                                                           | Dinamicas                                                 |
+| ------------------------------------------------------------------- | --------------------------------------------------------- |
+| Detección temprana de errores                                       | Comportamiento real del software                          |
+| Análisis exhaustivo (herramientas)                                  | Permite validar software                                  |
+| Mejora de la calidad                                                | Identifican errores relacionados con la lógica de negocio |
+| Pueden aplicarse en cualquier fase del ciclo de vida del desarrollo | Detectar problemas de integración en ejecución            |
+
+## Aspecto Negativo
+
+| Estaticas                                                       | Dinamicas                                            |
+| --------------------------------------------------------------- | ---------------------------------------------------- |
+| No se ven problemas relacionados con el comportamiento dinámico | Dependencia de la cobertura de pruebas               |
+| Falsos positivos (herramientas)                                 | Necesito el producto o incremento                    |
+| Dependencia de herramientas                                     | Costoso en tiempo y recursos (ambiente, pruebas,etc) |
+
+## Ambientes
+### Desarrollo
+- OBJETIVO: 
+	- Entorno en el que los desarrolladores escriben y prueban el código. 
+- CARACTERISTICAS: 
+	- En general configurado en las computadoras locales de los desarrolladores o en servidores dedicados. 
+	- Se utilizan herramientas de depuración (debugg)
+
+### Integración Continua (CI - Continuous Integration)
+ - OBJETIVO: 
+	 - Automatiza el proceso de prueba y construcción del software cuando se integra 
+ - CARACTERISTICAS: 
+	 - Cada vez que se introduce un cambio en el código, el sistema de CI ejecuta automáticamente una serie de pruebas 
+	 - Se detectan errores a nivel de integración, lo que facilita el trabajo en equipo.
+### Pruebas (Testing o QA - Quality Assurance)
+-  OBJETIVO: 
+	- Probar el software en condiciones controladas 
+- CARACTERISTICAS: 
+	- Similar al ambiente de producción en términos de configuración y funcionalidades. 
+	- Se ejecutan pruebas automatizadas y manuales sobre versiones de software 
+	- Se utilizan para pruebas funcionales, de rendimiento, de seguridad, etc..
+
+### Staging o Preproducción
+- OBJETIVO: 
+	- Entorno “espejo" del ambiente de producción. 
+- CARACTERISTICAS: 
+	- Casi idéntico al ambiente de producción en cuanto a configuración, datos, etc 
+	- Se usa para realizar las últimas pruebas 
+	- Se puede simular cómo se comportará el sistema en producción, asegurando que todos los problemas hayan sido resueltos.
+### Producción (Production)
+- OBJETIVO: 
+	- Entorno en el que los usuarios finales interactúan con el sistema. 
+- CARACTERISTICAS: 
+	- Accesible a los usuarios finales. 
+	- Entorno real donde el software está en uso por los clientes o usuarios. 
+	- Se emplean herramientas de monitoreo para asegurar que el sistema esté funcionando correctamente.
