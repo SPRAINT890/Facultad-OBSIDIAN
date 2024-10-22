@@ -1,2 +1,0 @@
-## Revisiones
-- Grupo de 

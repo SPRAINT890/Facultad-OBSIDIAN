@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/Tecnicas de verificacion.md",
+                "file": "Ing software/Técnicas de verificacion.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/Tecnicas de verificacion.md",
+                "file": "Ing software/Técnicas de verificacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/Tecnicas de verificacion.md",
+                "file": "Ing software/Técnicas de verificacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/Tecnicas de verificacion.md"
+                "file": "Ing software/Técnicas de verificacion.md"
               }
             }
           }
@@ -160,7 +160,7 @@
   "active": "aac9f6580744a9aa",
   "lastOpenFiles": [
     "Ing software/Diseño de Arquitectura.md",
-    "Ing software/Tecnicas de verificacion.md",
+    "Ing software/Técnicas de verificacion.md",
     "base de datos 2/Algoritmo de diseño.md",
     "Ing software/Software.md",
     "base de datos 2/Practico/Practico 3.md",
