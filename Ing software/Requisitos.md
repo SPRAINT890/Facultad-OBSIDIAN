@@ -18,14 +18,14 @@ Fases del desarrollo
 |             +              |           ++           |                  +++                  |          ++++          |
 Es mucho mas costoso arreglar algo al final que al inicio
 
-## Niveles de descripcion (Abstraccion)
+## Niveles de descripción (Abstraccion)
 - De usuario
 	- Lenguaje natural
 	- diagramas de los servicios que brinda
 	- limitaciones operativas
 	- Escrito para los clientes
 - Del Sistema
-	- Documento estructurado (especificacion funcional)
+	- Documento estructurado (especificación funcional)
 	- Descripciones detalladas de funciones, servicios y restricciones operativas
 	- Lo que se debe implementar
 
