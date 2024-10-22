@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/Software.md",
+                "file": "Ing software/Tecnicas de verificacion.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2pl",
+                "query": "4+1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/Software.md",
+                "file": "Ing software/Tecnicas de verificacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/Software.md",
+                "file": "Ing software/Tecnicas de verificacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/Software.md"
+                "file": "Ing software/Tecnicas de verificacion.md"
               }
             }
           }
@@ -159,9 +159,12 @@
   },
   "active": "aac9f6580744a9aa",
   "lastOpenFiles": [
+    "Ing software/Diseño de Arquitectura.md",
+    "Ing software/Tecnicas de verificacion.md",
+    "base de datos 2/Algoritmo de diseño.md",
+    "Ing software/Software.md",
     "base de datos 2/Practico/Practico 3.md",
     "Ing software/Recursos/Pasted image 20241015183134.png",
-    "Ing software/Software.md",
     "Ing software/Recursos/Pasted image 20241015184204.png",
     "Ing software/Virtualizacion.md",
     "base de datos 2/Medio de Almacenamiento.md",
@@ -171,7 +174,6 @@
     "base de datos 2/Imagen/Pasted image 20241001204410.png",
     "Ing software/Principio de Diseño.md",
     "Ing software/Diseño del Software.md",
-    "Ing software/Diseño de Arquitectura.md",
     "Ing software/Caso de uso.md",
     "Ing software/Trabajos/Practico 3.md",
     "Ing software/Sprint.md",
@@ -180,7 +182,6 @@
     "Ing software/Recursos/Pasted image 20240927191455.png",
     "Ing software/Trabajos",
     "base de datos 2/Practico/Practico 2.md",
-    "base de datos 2/Algoritmo de diseño.md",
     "Clei/Curso 5/Introduccion.md",
     "Investigacion Operativa/Técnicas de Priorizacion.md",
     "Ing software/Metodologias Agiles.md",
