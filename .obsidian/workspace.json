@@ -13,40 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ing software/Requisitos.md",
+                "file": "base de datos 2/Recuperacion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Requisitos"
-            }
-          },
-          {
-            "id": "0d95ef24ae24f246",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Ing software/Recursos/Pasted image 20241015183134.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241015183134"
-            }
-          },
-          {
-            "id": "c239875e4c5e8da2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Recuperacion"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ing software/Requisitos.md",
+                "file": "base de datos 2/Recuperacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Requisitos"
+              "title": "Backlinks for Recuperacion"
             }
           },
           {
@@ -137,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ing software/Requisitos.md",
+                "file": "base de datos 2/Recuperacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Requisitos"
+              "title": "Outgoing links from Recuperacion"
             }
           },
           {
@@ -164,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ing software/Requisitos.md"
+                "file": "base de datos 2/Recuperacion.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Requisitos"
+              "title": "Outline of Recuperacion"
             }
           }
         ]
@@ -188,14 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c239875e4c5e8da2",
+  "active": "aac9f6580744a9aa",
   "lastOpenFiles": [
+    "Ing software/Requisitos.md",
+    "base de datos 2/Recuperacion.md",
+    "Ing software/Recursos/Pasted image 20241015183134.png",
     "Ing software/Técnicas de verificacion.md",
     "Ing software/Diseño de Arquitectura.md",
     "base de datos 2/Algoritmo de diseño.md",
     "Ing software/Software.md",
     "base de datos 2/Practico/Practico 3.md",
-    "Ing software/Recursos/Pasted image 20241015183134.png",
     "Ing software/Recursos/Pasted image 20241015184204.png",
     "Ing software/Virtualizacion.md",
     "base de datos 2/Medio de Almacenamiento.md",
@@ -209,7 +186,6 @@
     "Ing software/Trabajos/Practico 3.md",
     "Ing software/Sprint.md",
     "Ing software/Trabajos/quiz.md",
-    "Ing software/Requisitos.md",
     "Ing software/Recursos/Pasted image 20240927191455.png",
     "Ing software/Trabajos",
     "base de datos 2/Practico/Practico 2.md",
@@ -223,7 +199,6 @@
     "base de datos 2/Laboratorio 1.md",
     "base de datos 2/Normalización.md",
     "base de datos 2/Transacciones.md",
-    "base de datos 2/Practico/Practico 1.md",
     "base de datos 2/Imagen/Pasted image 20240912203109.png",
     "base de datos 2/Imagen/Pasted image 20240912192704.png",
     "base de datos 2/Imagen/Borrar.png",
