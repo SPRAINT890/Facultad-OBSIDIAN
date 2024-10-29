@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Recuperacion"
             }
+          },
+          {
+            "id": "6803f93fe6afae67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base de datos 2/Optimizacion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optimizacion"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,10 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aac9f6580744a9aa",
+  "active": "9c8483d1ef244f85",
   "lastOpenFiles": [
-    "Ing software/Requisitos.md",
     "base de datos 2/Recuperacion.md",
+    "base de datos 2/Optimizacion.md",
+    "Ing software/Requisitos.md",
     "Ing software/Recursos/Pasted image 20241015183134.png",
     "Ing software/Técnicas de verificacion.md",
     "Ing software/Diseño de Arquitectura.md",
@@ -198,7 +214,6 @@
     "base de datos 2/Diseño.md",
     "base de datos 2/Laboratorio 1.md",
     "base de datos 2/Normalización.md",
-    "base de datos 2/Transacciones.md",
     "base de datos 2/Imagen/Pasted image 20240912203109.png",
     "base de datos 2/Imagen/Pasted image 20240912192704.png",
     "base de datos 2/Imagen/Borrar.png",
