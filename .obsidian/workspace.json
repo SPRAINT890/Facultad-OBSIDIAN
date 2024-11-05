@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Optimizacion.md",
+                "file": "base de datos 2/Valor Nulo o NULL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optimizacion"
+              "title": "Valor Nulo o NULL"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fases de desarro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,21 +178,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c8483d1ef244f85",
+  "active": "6803f93fe6afae67",
   "lastOpenFiles": [
+    "base de datos 2/Transacciones.md",
     "base de datos 2/Recuperacion.md",
     "base de datos 2/Optimizacion.md",
+    "base de datos 2/Normalización.md",
+    "base de datos 2/Medio de Almacenamiento.md",
+    "base de datos 2/Laboratorio 1.md",
+    "base de datos 2/Diseño.md",
+    "base de datos 2/Algoritmo de diseño.md",
+    "base de datos 2/Concurrencia.md",
     "Ing software/Requisitos.md",
     "Ing software/Recursos/Pasted image 20241015183134.png",
     "Ing software/Técnicas de verificacion.md",
     "Ing software/Diseño de Arquitectura.md",
-    "base de datos 2/Algoritmo de diseño.md",
     "Ing software/Software.md",
     "base de datos 2/Practico/Practico 3.md",
     "Ing software/Recursos/Pasted image 20241015184204.png",
     "Ing software/Virtualizacion.md",
-    "base de datos 2/Medio de Almacenamiento.md",
-    "base de datos 2/Concurrencia.md",
     "base de datos 2/Imagen/Pasted image 20241001205606.png",
     "Ing software/Arquitecturas.md",
     "base de datos 2/Imagen/Pasted image 20241001204410.png",
@@ -208,12 +212,8 @@
     "Clei/Curso 5/Introduccion.md",
     "Investigacion Operativa/Técnicas de Priorizacion.md",
     "Ing software/Metodologias Agiles.md",
-    "Clei/Curso 3/Introduccion.md",
     "base de datos 2/Imagen/Pasted image 20240926201204.png",
     "base de datos 2/Imagen/Pasted image 20240926192613.png",
-    "base de datos 2/Diseño.md",
-    "base de datos 2/Laboratorio 1.md",
-    "base de datos 2/Normalización.md",
     "base de datos 2/Imagen/Pasted image 20240912203109.png",
     "base de datos 2/Imagen/Pasted image 20240912192704.png",
     "base de datos 2/Imagen/Borrar.png",
