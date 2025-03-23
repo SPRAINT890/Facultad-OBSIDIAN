@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Valor Nulo o NULL"
             }
-          },
-          {
-            "id": "212a99f37737ba19",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -111,16 +100,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1777ca7da95617b5",
+        "id": "b39e051dd278a8c3",
         "type": "tabs",
         "children": [
           {
-            "id": "8d0753043f8999b9",
+            "id": "8f55c4d0a8924960",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base de datos 2/Recuperacion.md",
+                "file": "base de datos 2/Valor Nulo o NULL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,46 +119,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Recuperacion"
+              "title": "Backlinks for Valor Nulo o NULL"
             }
           },
           {
-            "id": "e373d4ccd355f06d",
+            "id": "b76ab1f68aa64fa9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "base de datos 2/Recuperacion.md",
+                "file": "base de datos 2/Valor Nulo o NULL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Recuperacion"
+              "title": "Outgoing links from Valor Nulo o NULL"
             }
           },
           {
-            "id": "125248cdce331006",
+            "id": "4adf8d23b948b3db",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "098434f4d28ea984",
+            "id": "d9ec76af3a5b36ce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "base de datos 2/Recuperacion.md"
+                "file": "base de datos 2/Valor Nulo o NULL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Recuperacion"
+              "title": "Outline of Valor Nulo o NULL"
             }
           }
         ]
@@ -181,17 +175,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "212a99f37737ba19",
+  "active": "6803f93fe6afae67",
   "lastOpenFiles": [
+    "Analisis de Datos",
+    "Redes",
+    "Ing Software II",
     "base de datos 2/Transacciones.md",
     "base de datos 2/Recuperacion.md",
     "base de datos 2/Optimizacion.md",
@@ -223,7 +220,6 @@
     "base de datos 2/Practico/Practico 2.md",
     "Clei/Curso 5/Introduccion.md",
     "Investigacion Operativa/Técnicas de Priorizacion.md",
-    "Ing software/Metodologias Agiles.md",
     "base de datos 2/Imagen/Pasted image 20240926201204.png",
     "base de datos 2/Imagen/Pasted image 20240926192613.png",
     "base de datos 2/Imagen/Pasted image 20240912203109.png",
@@ -235,8 +231,6 @@
     "Ing software/Recursos",
     "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf",
     "Clei/Curso 3/Ej1",
-    "Clei/Curso 5",
-    "Clei/Curso 3/Recurso",
-    "Clei/Curso 3"
+    "Clei/Curso 5"
   ]
 }
