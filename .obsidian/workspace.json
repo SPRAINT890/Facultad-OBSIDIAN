@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Recuperacion"
             }
-          },
-          {
-            "id": "6803f93fe6afae67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redes/Capas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Capas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,18 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c8483d1ef244f85",
+  "active": "aac9f6580744a9aa",
   "lastOpenFiles": [
+    "Redes/Untitled.canvas",
+    "base de datos 2/Recuperacion.md",
+    "Redes/Capas.md",
     "Redes/Recursos",
     "Redes/Recursos/Pasted image 20250323013629.png",
     "Ing software/Arquitecturas.md",
-    "Redes/Capas.md",
     "base de datos 2/Valor Nulo o NULL.md",
     "Analisis de Datos",
     "Redes",
     "Ing Software II",
     "base de datos 2/Transacciones.md",
-    "base de datos 2/Recuperacion.md",
     "base de datos 2/Optimizacion.md",
     "base de datos 2/Normalización.md",
     "base de datos 2/Medio de Almacenamiento.md",
@@ -241,7 +228,6 @@
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "base de datos 2/Practico",
     "Ing software/Recursos",
-    "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf",
-    "Clei/Curso 3/Ej1"
+    "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf"
   ]
 }
