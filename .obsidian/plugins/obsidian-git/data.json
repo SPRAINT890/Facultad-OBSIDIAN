@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault backup: {{date}} {{hostname}}",
+  "commitMessage": "{{hostname}} vault backup at {{date}}",
   "commitDateFormat": "DD-MM-YY HH:mm",
   "autoSaveInterval": 15,
   "autoPushInterval": 0,
@@ -29,6 +29,7 @@
   "showFileMenu": true,
   "authorInHistoryView": "full",
   "dateInHistoryView": false,
+  "diffStyle": "split",
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",

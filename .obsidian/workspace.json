@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "base de datos 2/Valor Nulo o NULL.md",
+                "file": "Redes/Capas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valor Nulo o NULL"
+              "title": "Capas"
             }
           }
         ],
@@ -165,13 +165,23 @@
               "icon": "lucide-list",
               "title": "Outline of Valor Nulo o NULL"
             }
+          },
+          {
+            "id": "6c5e68b322cf2437",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +191,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6803f93fe6afae67",
+  "active": "9c8483d1ef244f85",
   "lastOpenFiles": [
+    "Redes/Recursos",
+    "Redes/Recursos/Pasted image 20250323013629.png",
+    "Ing software/Arquitecturas.md",
+    "Redes/Capas.md",
+    "base de datos 2/Valor Nulo o NULL.md",
     "Analisis de Datos",
     "Redes",
     "Ing Software II",
@@ -207,7 +223,6 @@
     "Ing software/Recursos/Pasted image 20241015184204.png",
     "Ing software/Virtualizacion.md",
     "base de datos 2/Imagen/Pasted image 20241001205606.png",
-    "Ing software/Arquitecturas.md",
     "base de datos 2/Imagen/Pasted image 20241001204410.png",
     "Ing software/Principio de Diseño.md",
     "Ing software/Diseño del Software.md",
@@ -218,19 +233,15 @@
     "Ing software/Recursos/Pasted image 20240927191455.png",
     "Ing software/Trabajos",
     "base de datos 2/Practico/Practico 2.md",
-    "Clei/Curso 5/Introduccion.md",
-    "Investigacion Operativa/Técnicas de Priorizacion.md",
     "base de datos 2/Imagen/Pasted image 20240926201204.png",
     "base de datos 2/Imagen/Pasted image 20240926192613.png",
     "base de datos 2/Imagen/Pasted image 20240912203109.png",
     "base de datos 2/Imagen/Pasted image 20240912192704.png",
-    "base de datos 2/Imagen/Borrar.png",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "base de datos 2/Practico",
     "Ing software/Recursos",
     "Clei/Curso 3/Ej1/EXPERIMENT- PAPER EJERCICIO 2.pdf",
-    "Clei/Curso 3/Ej1",
-    "Clei/Curso 5"
+    "Clei/Curso 3/Ej1"
   ]
 }
