@@ -8,7 +8,9 @@
     "Ing Software II",
     "Redes"
   ],
-  "Analisis de Datos": [],
+  "Analisis de Datos": [
+    "Analisis de Datos/Operaciones con tablas.md"
+  ],
   "base de datos 2": [
     "base de datos 2/Imagen",
     "base de datos 2/Notas",
