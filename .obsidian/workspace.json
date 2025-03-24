@@ -178,13 +178,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iconic:Open rulebook": false
     }
   },
-  "active": "aac9f6580744a9aa",
+  "active": "9c8483d1ef244f85",
   "lastOpenFiles": [
-    "Redes/Untitled.canvas",
+    "Untitled",
+    "Untitled.canvas",
     "base de datos 2/Recuperacion.md",
+    "Redes/Untitled.canvas",
     "Redes/Capas.md",
     "Redes/Recursos",
     "Redes/Recursos/Pasted image 20250323013629.png",

@@ -21,7 +21,54 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "Analisis de Datos": {
+      "icon": "lucide-chart-column-decreasing",
+      "color": "red",
+      "unsynced": [
+        "11c18ae72c1198b8"
+      ]
+    },
+    "Clei": {
+      "icon": "lucide-bus",
+      "unsynced": [
+        "11c18ae72c1198b8"
+      ]
+    },
+    "Ing Software II": {
+      "icon": "lucide-person-standing",
+      "color": "green",
+      "unsynced": [
+        "11c18ae72c1198b8"
+      ]
+    },
+    "Ing software": {
+      "icon": "lucide-person-standing",
+      "unsynced": [
+        "11c18ae72c1198b8"
+      ]
+    },
+    "Investigacion Operativa": {
+      "icon": "lucide-file-search",
+      "unsynced": [
+        "11c18ae72c1198b8"
+      ]
+    },
+    "Redes": {
+      "icon": "lucide-network",
+      "color": "blue",
+      "unsynced": [
+        "11c18ae72c1198b8"
+      ]
+    },
+    "base de datos 2": {
+      "icon": "lucide-database",
+      "color": "gray",
+      "unsynced": [
+        "11c18ae72c1198b8"
+      ]
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
