@@ -12,4 +12,7 @@
 - Se pueden usar varios simbolos, para representar 2 pares de bits, ya sea por diferente voltaje o por picos con diferente frecuencia
 - Para saber cuantos simbolos necesito esta este calculo $2^M$ siendo M la cantidad de bits que quiero representar
 - Los medios tienen un limite de ancho de banda, que depende de la rapidez de la variacion de bits, el cual puede generar valores de bits falsos
-- 
+#### Ancho de banda
+- el ancho de banda depende de la longitud del medio
+- unidad de ancho de banda heartz por segundos
+- tasa de datos bits, megas, etc
