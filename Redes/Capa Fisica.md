@@ -6,3 +6,10 @@
 	- Estandarizar los conectores
 	- Como se representa un 1, ya sea por un pull up (mandar 5v) o por un pull down (0v o -5v)
 	- Lidiar con las limitantes de los medios fisicos, tales como el ancho de banda, ruido de la red, etc.
+
+### Analisis de la transmision de datos
+- Mediante el cambio de simbolos ya sea por picos o por diferencia de frecuencia de los picos
+- Se pueden usar varios simbolos, para representar 2 pares de bits, ya sea por diferente voltaje o por picos con diferente frecuencia
+- Para saber cuantos simbolos necesito esta este calculo $2^M$ siendo M la cantidad de bits que quiero representar
+- Los medios tienen un limite de ancho de banda, que depende de la rapidez de la variacion de bits, el cual puede generar valores de bits falsos
+- 
