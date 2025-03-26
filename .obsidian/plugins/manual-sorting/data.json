@@ -1,5 +1,8 @@
 {
   "/": [
+    "Pasted image 20250326201724.png",
+    "Pasted image 20250326201440.png",
+    "Pasted image 20250326201409.png",
     "Untitled.md",
     "base de datos 2",
     "Clei",
@@ -182,11 +185,14 @@
   ],
   "Redes": [
     "Redes/Recursos",
+    "Redes/Medios de Transmision.md",
+    "Redes/Teorema de Shannon.md",
     "Redes/Teorema de Nyquist.md",
     "Redes/Capa Fisica.md",
     "Redes/Capas.md"
   ],
   "Redes/Recursos": [
-    "Redes/Recursos/Pasted image 20250323013629.png"
+    "Redes/Recursos/Pasted image 20250323013629.png",
+    "Redes/Recursos/Pasted image 20250326201334.png"
   ]
 }
