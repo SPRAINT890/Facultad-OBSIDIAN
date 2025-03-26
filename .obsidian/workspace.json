@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "5bb3b8fa49faeadd",
+            "id": "3ad8a19e5926f23e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,18 @@
               },
               "icon": "lucide-file",
               "title": "Medios de Transmision"
+            }
+          },
+          {
+            "id": "5bb3b8fa49faeadd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Redes/Recursos/Pasted image 20250326201409.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250326201409"
             }
           }
         ],
@@ -197,13 +209,21 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "5bb3b8fa49faeadd",
+  "active": "3ad8a19e5926f23e",
   "lastOpenFiles": [
-    "Pasted image 20250326201440.png",
-    "Pasted image 20250326201409.png",
-    "Redes/Recursos/Pasted image 20250326201334.png",
+    "Pasted image 20250326203133.png",
+    "Pasted image 20250326202944.png",
+    "Pasted image 20250326202932.png",
+    "Pasted image 20250326202816.png",
+    "Redes/Recursos/Pasted image 20250326202714.png",
     "Redes/Medios de Transmision.md",
+    "Redes/Recursos/Pasted image 20250326202732.png",
+    "Redes/Recursos/Pasted image 20250326202507.png",
+    "Redes/Recursos/Pasted image 20250326202431.png",
+    "Redes/Recursos/Pasted image 20250326202528.png",
     "Redes/Capa Fisica.md",
+    "Redes/Recursos/Pasted image 20250326202356.png",
+    "Redes/Recursos/Pasted image 20250326201409.png",
     "Redes/Teorema de Shannon.md",
     "Redes/Teorema de Nyquist.md",
     "Redes/Capas.md",
@@ -214,7 +234,6 @@
     "Untitled.canvas",
     "Redes/Untitled.canvas",
     "Redes/Recursos",
-    "Redes/Recursos/Pasted image 20250323013629.png",
     "Ing software/Arquitecturas.md",
     "base de datos 2/Valor Nulo o NULL.md",
     "Analisis de Datos",
@@ -229,20 +248,13 @@
     "base de datos 2/Algoritmo de diseño.md",
     "base de datos 2/Concurrencia.md",
     "Ing software/Requisitos.md",
-    "Ing software/Recursos/Pasted image 20241015183134.png",
     "Ing software/Técnicas de verificacion.md",
     "Ing software/Diseño de Arquitectura.md",
     "Ing software/Software.md",
     "base de datos 2/Practico/Practico 3.md",
-    "Ing software/Recursos/Pasted image 20241015184204.png",
     "Ing software/Virtualizacion.md",
-    "base de datos 2/Imagen/Pasted image 20241001205606.png",
-    "base de datos 2/Imagen/Pasted image 20241001204410.png",
     "Ing software/Principio de Diseño.md",
-    "Ing software/Recursos/Pasted image 20240927191455.png",
     "Ing software/Trabajos",
-    "base de datos 2/Imagen/Pasted image 20240926201204.png",
-    "base de datos 2/Imagen/Pasted image 20240926192613.png",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
     "base de datos 2/Practico",
