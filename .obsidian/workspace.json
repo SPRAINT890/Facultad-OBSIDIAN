@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisis de Datos/Operaciones con tablas.md",
+                "file": "Redes/Capa Fisica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operaciones con tablas"
+              "title": "Capa Fisica"
             }
           }
         ]
@@ -184,12 +184,14 @@
   },
   "active": "aac9f6580744a9aa",
   "lastOpenFiles": [
-    "base de datos 2/Recuperacion.md",
+    "Redes/Capas.md",
+    "Redes/Capa Fisica.md",
+    "Untitled.md",
     "Analisis de Datos/Operaciones con tablas.md",
+    "base de datos 2/Recuperacion.md",
     "Untitled",
     "Untitled.canvas",
     "Redes/Untitled.canvas",
-    "Redes/Capas.md",
     "Redes/Recursos",
     "Redes/Recursos/Pasted image 20250323013629.png",
     "Ing software/Arquitecturas.md",
@@ -220,10 +222,8 @@
     "Ing software/Caso de uso.md",
     "Ing software/Trabajos/Practico 3.md",
     "Ing software/Sprint.md",
-    "Ing software/Trabajos/quiz.md",
     "Ing software/Recursos/Pasted image 20240927191455.png",
     "Ing software/Trabajos",
-    "base de datos 2/Practico/Practico 2.md",
     "base de datos 2/Imagen/Pasted image 20240926201204.png",
     "base de datos 2/Imagen/Pasted image 20240926192613.png",
     "base de datos 2/Imagen/Pasted image 20240912203109.png",
