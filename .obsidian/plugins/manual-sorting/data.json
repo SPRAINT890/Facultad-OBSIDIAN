@@ -181,8 +181,9 @@
     "Investigacion Operativa/Temas/Programación lineal.md"
   ],
   "Redes": [
-    "Redes/Capa Fisica.md",
     "Redes/Recursos",
+    "Redes/Teorema de Nyquist.md",
+    "Redes/Capa Fisica.md",
     "Redes/Capas.md"
   ],
   "Redes/Recursos": [
