@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Modems.md",
+                "file": "Redes/Multiplexion por Division de tiempo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modems"
+              "title": "Multiplexion por Division de tiempo"
             }
           }
         ]
@@ -182,15 +182,19 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "5cb8dac82b8445dd",
+  "active": "9c8483d1ef244f85",
   "lastOpenFiles": [
+    "Redes/Recursos/Pasted image 20250402203250.png",
+    "Redes/Capa Fisica.md",
+    "Redes/Multiplexion por Division de tiempo.md",
+    "Redes/Tecnica FDM.md",
+    "Redes/Modems.md",
+    "Redes/Recursos/Pasted image 20250402202904.png",
     "Redes/Codec.md",
     "Redes/Capas.md",
-    "Redes/Capa Fisica.md",
     "Redes/Teorema de Nyquist.md",
     "Redes/Teorema de Shannon.md",
     "Redes/Medios de Transmision.md",
-    "Redes/Modems.md",
     "Redes/Recursos/Pasted image 20250326202816.png",
     "Untitled.md",
     "Redes/Recursos/Pasted image 20250326202944.png",
@@ -204,7 +208,6 @@
     "Redes/Recursos/Pasted image 20250326202732.png",
     "Redes/Recursos/Pasted image 20250326202507.png",
     "Redes/Recursos/Pasted image 20250326202431.png",
-    "Redes/Recursos/Pasted image 20250326202528.png",
     "base de datos 2/Recuperacion.md",
     "Untitled",
     "Untitled.canvas",
@@ -224,8 +227,6 @@
     "base de datos 2/Algoritmo de diseño.md",
     "base de datos 2/Concurrencia.md",
     "Ing software/Requisitos.md",
-    "Ing software/Técnicas de verificacion.md",
-    "Ing software/Diseño de Arquitectura.md",
     "Ing software/Trabajos",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",

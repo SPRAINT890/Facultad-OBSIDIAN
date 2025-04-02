@@ -37,3 +37,8 @@ En este caso la tasa de datos maxima queda expresada de la siguiente forma
 Numero maximo de Bits/Seg = B $log_2$ (1 + S/N)
 
 ## [[Medios de Transmision |Medios de Transmision]]
+
+## [[Modems|Modems]]
+## [[Tecnica FDM]]
+
+## [[Multiplexion por Division de tiempo]]

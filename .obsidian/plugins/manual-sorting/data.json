@@ -182,9 +182,11 @@
     "Investigacion Operativa/Temas/Programación lineal.md"
   ],
   "Redes": [
+    "Redes/Multiplexion por Division de tiempo.md",
+    "Redes/Recursos",
+    "Redes/Tecnica FDM.md",
     "Redes/Codec.md",
     "Redes/Modems.md",
-    "Redes/Recursos",
     "Redes/Medios de Transmision.md",
     "Redes/Teorema de Shannon.md",
     "Redes/Teorema de Nyquist.md",
@@ -192,6 +194,8 @@
     "Redes/Capas.md"
   ],
   "Redes/Recursos": [
+    "Redes/Recursos/Pasted image 20250402203250.png",
+    "Redes/Recursos/Pasted image 20250402202904.png",
     "Redes/Recursos/Pasted image 20250326202816.png",
     "Redes/Recursos/Pasted image 20250326202932.png",
     "Redes/Recursos/Pasted image 20250326203133.png",
