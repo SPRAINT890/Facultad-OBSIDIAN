@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Modems.md",
+                "file": "Redes/Capas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modems"
+              "title": "Capas"
             }
           },
           {
@@ -196,14 +196,14 @@
   },
   "active": "5cb8dac82b8445dd",
   "lastOpenFiles": [
-    "Analisis de Datos/p1.md",
+    "Redes/Capa Fisica.md",
     "Redes/Modems.md",
+    "Analisis de Datos/p1.md",
     "Analisis de Datos/Visualizacion de Datos.md",
     "Redes/Medios de Transmision.md",
     "Analisis de Datos/Operaciones con tablas.md",
     "Redes/Capas.md",
     "Redes/Teorema de Shannon.md",
-    "Redes/Capa Fisica.md",
     "Pasted image 20250326203133.png",
     "Pasted image 20250326202944.png",
     "Pasted image 20250326202932.png",
