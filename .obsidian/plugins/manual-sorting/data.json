@@ -1,10 +1,5 @@
 {
   "/": [
-    "Pasted image 20250326203133.png",
-    "Pasted image 20250326202944.png",
-    "Pasted image 20250326202932.png",
-    "Pasted image 20250326202816.png",
-    "Untitled.md",
     "base de datos 2",
     "Clei",
     "Ing software",
@@ -187,6 +182,7 @@
     "Investigacion Operativa/Temas/Programación lineal.md"
   ],
   "Redes": [
+    "Redes/Codec.md",
     "Redes/Modems.md",
     "Redes/Recursos",
     "Redes/Medios de Transmision.md",
@@ -196,6 +192,10 @@
     "Redes/Capas.md"
   ],
   "Redes/Recursos": [
+    "Redes/Recursos/Pasted image 20250326202816.png",
+    "Redes/Recursos/Pasted image 20250326202932.png",
+    "Redes/Recursos/Pasted image 20250326203133.png",
+    "Redes/Recursos/Pasted image 20250326202944.png",
     "Redes/Recursos/Pasted image 20250326202714.png",
     "Redes/Recursos/Pasted image 20250326202732.png",
     "Redes/Recursos/Pasted image 20250326202431.png",

@@ -1,0 +1,1 @@
+En la conversion de analogico a digital ocurre un pequeño error de cuantizacion
