@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisis de Datos/p1.md",
+                "file": "Redes/Modems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "p1"
+              "title": "Modems"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "5cb8dac82b8445dd",
   "lastOpenFiles": [
-    "Analisis de Datos/Visualizacion de Datos.md",
     "Analisis de Datos/p1.md",
+    "Redes/Modems.md",
+    "Analisis de Datos/Visualizacion de Datos.md",
     "Redes/Medios de Transmision.md",
     "Analisis de Datos/Operaciones con tablas.md",
     "Redes/Capas.md",
@@ -238,7 +239,6 @@
     "Ing software/Diseño de Arquitectura.md",
     "Ing software/Software.md",
     "base de datos 2/Practico/Practico 3.md",
-    "Ing software/Virtualizacion.md",
     "Ing software/Trabajos",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
     "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
