@@ -12,7 +12,8 @@
 - Ejemplo: Internet
 
 ## Packet Switching
-# Mirar del libro la tabla ()
+# Tabla del libro
+![[Pasted image 20250402211201.png]]
 
 ![[Pasted image 20250402205941.png | 650]]
 
