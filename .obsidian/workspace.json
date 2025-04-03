@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Tecnicas de conmutacion.md",
+                "file": "Analisis de Datos/p1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tecnicas de conmutacion"
+              "title": "p1"
             }
           }
         ]
@@ -182,11 +182,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "9c8483d1ef244f85",
+  "active": "5cb8dac82b8445dd",
   "lastOpenFiles": [
+    "Redes/Tecnicas de conmutacion.md",
     "Redes/Recursos/Pasted image 20250402211201.png",
     "Redes/Recursos/Pasted image 20250402210256.png",
-    "Redes/Tecnicas de conmutacion.md",
     "Redes/Recursos/Pasted image 20250402210453.png",
     "Redes/Recursos/Pasted image 20250402210435.png",
     "Redes/Recursos/Pasted image 20250402210323.png",
@@ -196,7 +196,6 @@
     "Redes/Recursos/Pasted image 20250402205916.png",
     "Redes/Recursos/Pasted image 20250402205941.png",
     "Redes/Recursos/Pasted image 20250402205922.png",
-    "Redes/Recursos/Pasted image 20250402205918.png",
     "Analisis de Datos/p1.md",
     "Analisis de Datos/Operaciones con tablas.md",
     "Analisis de Datos/Visualizacion de Datos.md",
