@@ -120,3 +120,15 @@ Ejemplos (4 bits datos + 1 bit paridad)
 
 Cantidad de posiciones de bits en la que difieren dos palabras codificadas.
 Se requieren 3 errores de un bit para convertir una palabra en la otra.
+
+- Palabras válidas de un código
+
+  0000000000  0000011111
+
+  1111100000  1111111111
+
+- Distancia del código d=5
+- Mínima distancia entre dos palabras válidas del código.
+- Para detectar d errores, necesitamos un código con distancia d+1
+- Para detectar y corregir d errores, necesitamos un código con distancia 2d+1
+
