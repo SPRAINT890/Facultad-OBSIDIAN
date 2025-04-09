@@ -48,3 +48,48 @@ Trama delimitada por banderas (Bytess Especiales)
 
 ##### Violaciones de codificacion de la capa fisica
 ![[Pasted image 20250409200643.png | 450]]
+
+
+## Control de Errores
+¿Cómo asegurar que todas las tramas se entreguen en el orden apropiado a la capa de red del destino?
+
+La manera normal de asegurar la entrega confiable de datos es proporcionar retroalimentación al emisor sobre lo que está ocurriendo al otro lado de la línea.
+
+- Confirmaciones de recepción (positiva o negativa (ACK)).
+- Temporizadores.
+- Números de secuencia en las tramas.
+
+![[Pasted image 20250409201512.png | 450]]
+![[Pasted image 20250409201531.png | 450]]
+Por que hay casos de error, se implementaron los temporizadores por protocolos
+
+![[Pasted image 20250409201721.png | 450]]
+
+#### Otro Caso de error
+![[Pasted image 20250409201830.png | 450]]
+Por eso se crearon los Numeros de Secuencia
+
+![[Pasted image 20250409201930.png | 450]]
+
+
+#### Control de Flujos
+Se trata de evitar que el transmisor envíe tramas a una velocidad más alta de la que el receptor puede aceptarlas.
+
+- Control de flujo basado en retroalimentación.
+- Control de flujo basado en la tasa de transmisión.
+
+#### Deteccion y correccion de errores
+Existen dos estrategias básicas para manejar los errores.
+
+Una es incluir suficiente información redundante para que el receptor pueda deducir cuáles debieron ser los datos transmitidos.
+
+La otra estrategia es incluir sólo suficiente redundancia para permitir que el receptor sepa que ha ocurrido un error y entonces solicite una retransmisión.
+
+- Códigos de corrección de errores (FEC) -> permiten corregir los errores en el receptor.
+- Códigos de detección de errores.
+
+##### Codigo de correccion de errores
+- Trama de M bits de datos
+- Con R bits redundantes (de verificacion)
+- N = M + R
+- Palabras codificadas de N bits

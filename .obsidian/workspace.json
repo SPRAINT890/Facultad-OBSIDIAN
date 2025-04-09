@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -171,27 +171,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "iconic:Abrir libro de reglas": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-git:Open Git source control": false,
-      "iconic:Open rulebook": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5cb8dac82b8445dd",
   "lastOpenFiles": [
-    "Redes/Recursos/Pasted image 20250409200643.png",
+    "Redes/Recursos/Pasted image 20250409201930.png",
+    "Redes/Recursos/Pasted image 20250409201512.png",
     "Redes/Capa de Enlace de Datos.md",
+    "Redes/Recursos/Pasted image 20250409201830.png",
+    "Redes/Recursos/Pasted image 20250409201721.png",
+    "Redes/Recursos/Pasted image 20250409201531.png",
+    "Redes/Recursos/Pasted image 20250409200643.png",
     "Redes/Recursos/Pasted image 20250409200623.png",
     "Redes/Recursos/Pasted image 20250409200600.png",
     "Redes/Recursos/Pasted image 20250409200542.png",
     "Redes/Recursos/Pasted image 20250409200514.png",
-    "Redes/Recursos/Pasted image 20250409193859.png",
-    "Redes/Recursos/Pasted image 20250409193534.png",
     "Redes/Teorema de Nyquist.md",
     "Analisis de Datos/p1.md",
     "Redes/Capa Fisica.md",
@@ -202,9 +205,6 @@
     "Redes/Tecnica FDM.md",
     "Redes/Multiplexion por Division de tiempo.md",
     "Redes/Tecnicas de conmutacion.md",
-    "Redes/Recursos/Pasted image 20250402211201.png",
-    "Redes/Recursos/Pasted image 20250402210256.png",
-    "Redes/Recursos/Pasted image 20250402210453.png",
     "Analisis de Datos/Operaciones con tablas.md",
     "Analisis de Datos/Visualizacion de Datos.md",
     "Redes/Capas.md",
