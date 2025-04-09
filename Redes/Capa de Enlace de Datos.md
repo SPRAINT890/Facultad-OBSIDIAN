@@ -28,4 +28,19 @@ Puede que en un mismo dispositivo haya varias capas de enlace de datos, un ejemp
 ## Entramado
 Solo ocurre en la capa 2
 - Para cumplir con sus metas la capa de enlace de datos toma ***Paquetes*** de la capa de red y los encapsula en ***tramas*** para transmitirlos
-- Cada trama contiene un encabezado, un campo de carga util (Payload) para almacenar el paquete 
+- Cada trama contiene un encabezado, un campo de carga util (Payload) para almacenar el paquete y un terminador.
+- El manejo de las tramas es la tarea principal de la capa de enlace de datos
+##### Foto de la ppt enlace de datos 1
+
+#### Metodos de Entramado
+
+##### Conteo de caracteres
+- Propenso a fallos por la capa fisica
+Foto-
+
+##### Relleno de Caracteres
+Trama delimitada por banderas (Bytess Especiales)
+
+##### Relleno de Bits
+
+##### Violaciones de codificacion de la capa fisica

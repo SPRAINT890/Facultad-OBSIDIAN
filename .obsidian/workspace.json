@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Capa de Enlace.md",
+                "file": "Redes/Capa de Enlace de Datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capa de Enlace"
+              "title": "Capa de Enlace de Datos"
             }
           }
         ]
@@ -182,12 +182,12 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "9c8483d1ef244f85",
+  "active": "5cb8dac82b8445dd",
   "lastOpenFiles": [
     "Redes/Recursos/Pasted image 20250409193859.png",
     "Redes/Recursos/Pasted image 20250409193534.png",
     "Redes/Teorema de Nyquist.md",
-    "Redes/Capa de Enlace.md",
+    "Redes/Capa de Enlace de Datos.md",
     "Analisis de Datos/p1.md",
     "Redes/Capa Fisica.md",
     "Redes/Teorema de Shannon.md",
