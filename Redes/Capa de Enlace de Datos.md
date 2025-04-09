@@ -93,3 +93,30 @@ La otra estrategia es incluir sólo suficiente redundancia para permitir que el 
 - Con R bits redundantes (de verificacion)
 - N = M + R
 - Palabras codificadas de N bits
+
+##### Deteccion de errores usando paridad
+- Se añade un bit de pariedad al final de la palabra de forma que el número total de unos, incluido el bit de paridad sea par (paridad par) o impar (paridad impar).
+
+- Paridad par:                1011000  1
+- Paridad impar:  1101011  0
+- Este código tiene una distancia de hamming igual a 2, así que es capaz de detectar errores en 1 bit.
+
+Ejemplos (4 bits datos + 1 bit paridad)
+
+1) 1100_
+
+2) 1001_
+
+3) 0111_
+
+4) 1100_
+![[Pasted image 20250409203715.png | 450]]
+
+##### Correcion de errores con el Codigo de Hamming
+- 10001001
+- 10110001
+- 00111000 Suma
+- Distancia de Hamming d=3
+
+Cantidad de posiciones de bits en la que difieren dos palabras codificadas.
+Se requieren 3 errores de un bit para convertir una palabra en la otra.
