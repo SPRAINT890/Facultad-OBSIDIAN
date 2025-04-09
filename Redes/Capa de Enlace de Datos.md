@@ -30,17 +30,21 @@ Solo ocurre en la capa 2
 - Para cumplir con sus metas la capa de enlace de datos toma ***Paquetes*** de la capa de red y los encapsula en ***tramas*** para transmitirlos
 - Cada trama contiene un encabezado, un campo de carga util (Payload) para almacenar el paquete y un terminador.
 - El manejo de las tramas es la tarea principal de la capa de enlace de datos
-##### Foto de la ppt enlace de datos 1
+![[Pasted image 20250409200514.png |450]]
 
 #### Metodos de Entramado
 
 ##### Conteo de caracteres
 - Propenso a fallos por la capa fisica
-Foto-
+![[Pasted image 20250409200542.png | 450]]
 
 ##### Relleno de Caracteres
 Trama delimitada por banderas (Bytess Especiales)
 
+![[Pasted image 20250409200600.png | 450]]
+
 ##### Relleno de Bits
+![[Pasted image 20250409200623.png]]
 
 ##### Violaciones de codificacion de la capa fisica
+![[Pasted image 20250409200643.png | 450]]
