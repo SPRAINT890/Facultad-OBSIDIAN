@@ -154,6 +154,7 @@ Ejemplo: $m=7$ => $r=4$
 #### Ejemplo
 La maquina quiere mandar este mensaje
 
+##### Inicio
 Tx -> M = 1 0 1 1 0 1 0
 
 ![[Pasted image 20250411200805.png]]
@@ -181,3 +182,14 @@ R3 = 0 , 1, 1 = 0
 R4 = 0, 1, 0 = 1
 
 ![[Pasted image 20250411201906.png]]
+
+##### Vuelta
+![[Pasted image 20250411202458.png]]
+
+R1 = 1, 0,1 ,0, 1 = 1 (Mal)
+R2 = 1, 1, 1, 1, 1 = 1 (Mal)
+R3 = 0, 1, 1 = 0 (Bien)
+R4 = 0, 1, 1 = 0 (Mal)
+
+##### Errores en Rafagas
+![[Pasted image 20250411203207.png]]
