@@ -149,3 +149,35 @@ Ejemplo: $m=7$ => $r=4$
 - Los bits en las posiciones que son potencias de 2 (1,2,4,8,…) son bits de verificación; el resto (3,5,6,7, …) son datos.
 
 - Los bits de verificación fuerzan la paridad de un grupo de bits (incluido él para ser par o impar).Un bit puede estar incluido en varios cálculos de paridad.
+
+
+#### Ejemplo
+La maquina quiere mandar este mensaje
+
+Tx -> M = 1 0 1 1 0 1 0
+
+![[Pasted image 20250411200805.png]]
+
+|             | R1 (Pos 1) | R2 (Pos 2) | R3 (Pos 4) | R4 (Pos 8) |
+| ----------- | ---------- | ---------- | ---------- | ---------- |
+| b1 (Pos 3)  | 1          | 1          | 0          | 0          |
+| b2 (Pos 5)  | 1          | 0          | 1          | 0          |
+| b3 (Pos 6)  | 0          | 1          | 1          | 0          |
+| b4 (Pos 7)  | 1          | 1          | 1          | 0          |
+| b5 (Pos 9)  | 1          | 0          | 0          | 1          |
+| b6 (Pos 10) | 0          | 1          | 0          | 1          |
+| b7 (Pos 11) | 1          | 1          | 0          | 1          |
+R1 = b1, b2, b4, b5, b7
+R2 = b1, b3, b4, b6, b7
+R3 = b2, b3, b4
+R4 = b5, b6, b7
+
+
+![[Pasted image 20250411201506.png]]
+
+R1 = 1, 0, 1, 0, 0 = 0
+R2 = 1, 1, 1, 1, 0 = 0
+R3 = 0 , 1, 1 = 0
+R4 = 0, 1, 0 = 1
+
+![[Pasted image 20250411201906.png]]
