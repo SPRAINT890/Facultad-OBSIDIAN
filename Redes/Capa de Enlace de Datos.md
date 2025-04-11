@@ -184,6 +184,7 @@ R4 = 0, 1, 0 = 1
 ![[Pasted image 20250411201906.png]]
 
 ##### Vuelta
+Rx
 ![[Pasted image 20250411202458.png]]
 
 R1 = 1, 0,1 ,0, 1 = 1 (Mal)
@@ -193,3 +194,35 @@ R4 = 0, 1, 1 = 0 (Mal)
 
 ##### Errores en Rafagas
 ![[Pasted image 20250411203207.png]]
+![[Pasted image 20250411203958.png | 450]]
+
+Si ocurre un error en ráfaga de longitud k, cuando mucho se habrá afectado un bit de cada una de las k palabras codificadas.
+
+Este método usa k*r bits de verificación para inmunizar bloques de k*m bits de datos contra un solo error en ráfaga de longitud k o menos.
+
+##### Codigos de deteccion de Errores: Codigo de redundancia Ciclica  CRC
+- m bits, coeficientes de polinomio de grado m-1, M(x) (el bit de mayor orden es el que se encuentra más a la izquierda)
+
+- Polinomio generador G(x) de grado r
+
+- Dividir  F(x)=x^rM(x)/G(x)
+
+- T(x)=x^rM(x)-residuoF(x)
+
+- Si T´(x)/G(x)=0, no hay errores E(x)
+
+Código polinomial de r bits, detecta errores en ráfaga de longitud <=r
+
+- M(X) Frame: 1101011011 
+
+- G(X) Generador: 10011     
+
+- X4M(X): 11010110110000
+
+![[Pasted image 20250411205029.png]]
+
+T(X) Frame transmitido:11010110111110
+
+Frame original + suma de verificación
+
+![[Pasted image 20250411205051.png]]
