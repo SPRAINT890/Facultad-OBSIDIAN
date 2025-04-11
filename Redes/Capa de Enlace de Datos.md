@@ -132,7 +132,8 @@ Se requieren 3 errores de un bit para convertir una palabra en la otra.
 - Para detectar d errores, necesitamos un código con distancia d+1
 - Para detectar y corregir d errores, necesitamos un código con distancia 2d+1
 
-- m bits de mensaje y r bits de paridad
+- M bits del mensaje
+- R bits de Pariedad (Bits extra)
 - Objetivo: corregir errores simples
 - 2^m mensajes legales o válidos
 - n+1 palabras por mensajes
@@ -142,3 +143,9 @@ Se requieren 3 errores de un bit para convertir una palabra en la otra.
 - $m+r+1=<2^r$. Límite inferior
 
 Ejemplo: $m=7$ => $r=4$
+
+- La palabra codificada se numera comenzando por el 1 a la izquierda.
+
+- Los bits en las posiciones que son potencias de 2 (1,2,4,8,…) son bits de verificación; el resto (3,5,6,7, …) son datos.
+
+- Los bits de verificación fuerzan la paridad de un grupo de bits (incluido él para ser par o impar).Un bit puede estar incluido en varios cálculos de paridad.
