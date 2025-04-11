@@ -132,3 +132,13 @@ Se requieren 3 errores de un bit para convertir una palabra en la otra.
 - Para detectar d errores, necesitamos un código con distancia d+1
 - Para detectar y corregir d errores, necesitamos un código con distancia 2d+1
 
+- m bits de mensaje y r bits de paridad
+- Objetivo: corregir errores simples
+- 2^m mensajes legales o válidos
+- n+1 palabras por mensajes
+
+- $(n+1)2^m=<2^n$
+
+- $m+r+1=<2^r$. Límite inferior
+
+Ejemplo: $m=7$ => $r=4$
