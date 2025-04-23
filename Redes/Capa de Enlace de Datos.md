@@ -257,9 +257,12 @@ M'(x) / G(x)
 ### Protocolo de ventana corrediza
 - Bidireccionales intercalando datos y tramas de control (kind)
 - Piggybacking o superposicion (ack)
-- Numero de secuencia (0 a 2n-1)
+	- es un ack bidireccional, osea emisor y receptor
+- Numero de secuencia (0 a $2^n-1$)
 #### Ventana emisora
 N° de sec de la tramas enviadas pero no confirmadas
 
 #### Ventana receptora
-N° de sec de las tramas que puede aceptar
+N° de sec de las tramas que puede aceptar o se espera recibir
+
+ns = 0 - $2^n - 1$ -> 3 bits -> ns = 0 - 7
