@@ -242,6 +242,24 @@ M'(x) / G(x)
 
 # Foto del 11/04
 
-### Protocolo Simplex para un canal con ruido
+## Protocolo Simplex para un canal con ruido
 
+### ACK
+#### Transmisor
+- Transmite y espera (confirmacion o temporizador)
+- Si expira el temporizador o confirmacion dañada, retransmite.
+- Si confirma Ok aumenta el numero de secuencia y transmite la siguiente trama
 
+#### Receptor
+- Si llega la trama esperada, la pasa a la capa de red, aumenta el numero de secuencia y confirma la recepcion
+- Si llega otra trama, la descarta y envia confirmacion de la ultima trama recibida correctamente
+
+### Protocolo de ventana corrediza
+- Bidireccionales intercalando datos y tramas de control (kind)
+- Piggybacking o superposicion (ack)
+- Numero de secuencia (0 a 2n-1)
+#### Ventana emisora
+N° de sec de la tramas enviadas pero no confirmadas
+
+#### Ventana receptora
+N° de sec de las tramas que puede aceptar
