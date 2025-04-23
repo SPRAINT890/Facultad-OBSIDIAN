@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Capa de Enlace de Datos.md",
+                "file": "Redes/Correccion del parcial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capa de Enlace de Datos"
+              "title": "Correccion del parcial"
             }
           }
         ]
@@ -184,10 +184,11 @@
   },
   "active": "5cb8dac82b8445dd",
   "lastOpenFiles": [
+    "Redes/Capa de Enlace de Datos.md",
+    "Redes/Correccion del parcial.md",
     "Pasted image 20250411205051.png",
     "Pasted image 20250411205029.png",
     "Redes/Capa Fisica.md",
-    "Redes/Capa de Enlace de Datos.md",
     "Pasted image 20250411203958.png",
     "Pasted image 20250411203952.png",
     "Pasted image 20250411203207.png",
@@ -196,7 +197,6 @@
     "Redes/Recursos/Pasted image 20250411201906.png",
     "Redes/Recursos/Pasted image 20250411201506.png",
     "Redes/Recursos/Pasted image 20250411200805.png",
-    "Redes/Recursos/Pasted image 20250409201930.png",
     "Redes/Teorema de Nyquist.md",
     "Analisis de Datos/p1.md",
     "Redes/Teorema de Shannon.md",
