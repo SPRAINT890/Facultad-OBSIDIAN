@@ -9,3 +9,8 @@ Direccionamiento y Control de errores, control de flujo, multiplexion, ruteo, co
 
 ## 2
 cantidad de capas, el modelo osi se creo antes que los protocolos correspondientes mientras que tcp ip fue al revez, servicios orientados y no orientados a la conexion en la capa de red y udp y utp en la capa de transporte, criticas del modelo osi
+
+## 3
+Transmision de bits puros a traves de un canal de comunicacion el cual no garantiza que este fuera de errores, aspecto de diseño del medio, con problemas mecanicos (cuantos pines tiene, mecanismo de conexion etc), electricos (), temporizacion (cada cuanto tiempo puedo mandar un informacion, cuando recibir y cuando mandar), problemas como ruido interferencia, ancho de banda, etc
+
+## 4
