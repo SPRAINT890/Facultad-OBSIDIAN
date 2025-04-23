@@ -226,3 +226,20 @@ T(X) Frame transmitido:11010110111110
 Frame original + suma de verificación
 
 ![[Pasted image 20250411205051.png]]
+
+#### Ejemplo de bits en polinomios
+
+**M(x)**
+1001 -> $1X^3 + 0X^2 + 0X^1 + 0X^0$ -> $x^3 +1$
+11011 -> $X^4 + X^3 + X + 1$
+111111 -> $X^5 + X^4 + X^3 + X^2 + X + 1$
+
+#### Ejemplo de como aplicar esta funcion
+M(x)  = 1101011011 -> $X^9 + X^8 + X^6 + X^4+X^3+X+1$ -> $X^4 . M(x)$
+M'(x) = $X^13+X^12+X^10+X^8+X^7+X^5+X^4$
+M'(x) / G(x)
+**G(x)** = 10011 -> $X^4 + X + 1$
+
+# Foto del 11/04
+
+
