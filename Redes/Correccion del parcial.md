@@ -14,3 +14,8 @@ cantidad de capas, el modelo osi se creo antes que los protocolos correspondient
 Transmision de bits puros a traves de un canal de comunicacion el cual no garantiza que este fuera de errores, aspecto de diseño del medio, con problemas mecanicos (cuantos pines tiene, mecanismo de conexion etc), electricos (), temporizacion (cada cuanto tiempo puedo mandar un informacion, cuando recibir y cuando mandar), problemas como ruido interferencia, ancho de banda, etc
 
 ## 4
+A) m=8
+$2^n=M$
+n=3 bits/simbolo
+
+B)
