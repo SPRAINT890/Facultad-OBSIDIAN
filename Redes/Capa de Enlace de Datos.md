@@ -242,4 +242,6 @@ M'(x) / G(x)
 
 # Foto del 11/04
 
+### Protocolo Simplex para un canal con ruido
+
 
