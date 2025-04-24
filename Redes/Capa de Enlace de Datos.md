@@ -266,3 +266,10 @@ N° de sec de la tramas enviadas pero no confirmadas
 N° de sec de las tramas que puede aceptar o se espera recibir
 
 ns = 0 - $2^n - 1$ -> 3 bits -> ns = 0 - 7
+
+Protocolo de ventana corrediza de 1 bit
+- parada y espera (numeros de sec 0 y 1)
+- Duplex (Control y datos siempre disponibles)
+- Ventana de tamaño uno
+- ACK = ultimo n° de sec recibido bien
+- Si los dos lados envian
