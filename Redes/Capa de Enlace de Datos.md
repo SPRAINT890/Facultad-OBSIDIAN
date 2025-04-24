@@ -254,7 +254,7 @@ M'(x) / G(x)
 - Si llega la trama esperada, la pasa a la capa de red, aumenta el numero de secuencia y confirma la recepcion
 - Si llega otra trama, la descarta y envia confirmacion de la ultima trama recibida correctamente
 
-### Protocolo de ventana corrediza
+## Protocolo de ventana corrediza
 - Bidireccionales intercalando datos y tramas de control (kind)
 - Piggybacking o superposicion (ack)
 	- es un ack bidireccional, osea emisor y receptor
@@ -272,4 +272,12 @@ Protocolo de ventana corrediza de 1 bit
 - Duplex (Control y datos siempre disponibles)
 - Ventana de tamaño uno
 - ACK = ultimo n° de sec recibido bien
-- Si los dos lados envian
+- Si los dos lados envian de manera simultanea una trama inicial, tenemos una situacion particular
+
+![[Pasted image 20250423211050.png | 300]]
+
+#### Retardo de propagacion
+- Afecta a la eficiencia
+- Utilizacion L/(L+bR)
+- Canalizacion
+- Manejo de errores
