@@ -300,3 +300,27 @@ el 96% (500/520) del tiempo el emisor estuvo bloqueado
 
 # Foto del 25/04
 
+En general
+
+b - velocidad (bits/seg)
+L - tamaño de la trama (bits)
+R - retardo de ida y vuelta
+
+utilización de la línea =      L / (L + bR)  (parada y espera)
+
+Solución: canalización (pipelining)
+Permitir que el emisor mande w tramas antes de bloquearse (en lugar de que sólo envíe una.
+
+Problema: canal no confiable
+
+¿Cómo manejar los errores?
+
+Retroceso N y repetición selectiva
+
+![[Pasted image 20250425202953.png |450]]
+#### Protocolo con repetición selectiva
+- Ventana del emisor comienza en cero y puede crecer hasta un máximo predefinido.
+- Ventana de recepción mayor que uno (fija)
+- Confirmación de recepción negativa (NAK)
+- La recepción no secuencial introduce un nuevo problema
+	- A medida que avanza la ventana del receptor la misma no puede solaparse con la ventana anterior
