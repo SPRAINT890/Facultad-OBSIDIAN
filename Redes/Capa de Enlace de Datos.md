@@ -1,4 +1,3 @@
-
 ## Objetivo
 - Estudiar algoritmos para lograr una comunicacion confiable y eficiente entre dos maquinas adyacentes
 
@@ -282,3 +281,9 @@ Protocolo de ventana corrediza de 1 bit
 - Canalizacion
 - Manejo de errores
 
+## Herramienta de eficiencia de la capa
+![[Pasted image 20250425200051.png | 450]]
+![[Pasted image 20250425200120.png]]
+
+Tf = $Tframe + 2Tprop$
+Eficiencia del canal = $\dfrac{Tframe}{Tf}$
