@@ -287,3 +287,16 @@ Protocolo de ventana corrediza de 1 bit
 
 Tf = $Tframe + 2Tprop$
 Eficiencia del canal = $\dfrac{Tframe}{Tf}$
+
+Ejemplo
+Canal satelital 50kbps
+En un canal satelital, hay un retardo de  500ms de ida y vuelta
+Tramas de 1000 bits
+
+Retardo de Tx (o Tframe) es 20miliseg = 1kb/50kbps
+el ack llega 500miliseg despues.
+
+el 96% (500/520) del tiempo el emisor estuvo bloqueado
+
+# Foto del 25/04
+
