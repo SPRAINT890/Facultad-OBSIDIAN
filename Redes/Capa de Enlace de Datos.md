@@ -324,3 +324,13 @@ Retroceso N y repetición selectiva
 - Confirmación de recepción negativa (NAK)
 - La recepción no secuencial introduce un nuevo problema
 	- A medida que avanza la ventana del receptor la misma no puede solaparse con la ventana anterior
+
+#### Protocolo con retroceso N
+- Ventana del emisor mayor que uno
+- Ventana de recepción de tamaño uno
+- Las tramas no esperadas se descartan
+- Las tramas no confirmadas se retransmiten
+- Si la tasa de errores es alta se desperdicia ancho de banda
+
+Si tenemos n bits para los números de secuencia
+¿Cuál es el valor máximo de la ventana?
