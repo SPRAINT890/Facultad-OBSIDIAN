@@ -281,3 +281,4 @@ Protocolo de ventana corrediza de 1 bit
 - Utilizacion L/(L+bR)
 - Canalizacion
 - Manejo de errores
+
