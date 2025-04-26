@@ -334,3 +334,6 @@ Retroceso N y repetición selectiva
 
 Si tenemos n bits para los números de secuencia
 ¿Cuál es el valor máximo de la ventana?
+
+![[Pasted image 20250425205912.png |450]]
+$MaxSeq = 2^M -1$
