@@ -16,3 +16,5 @@ Permite dividir una red clase A, B o C en subredes
 
 ### Mascara
 Permite el subnetting, indica como esta subdividido la ip,
+
+[[Practico de mascaras de red|Practico]]
