@@ -21,7 +21,7 @@ k means normalizacion
 - clasificacion, supervisado, regresion, etc
 - pam
 ## Grafico de Codos
-Se puede usar para pca o para clustering, en pc se grafica abajo el componente principal, y a la derecha la varianza aplicada, se utiliza por que en pca se quiere reducir el volumen de columnas o variables, para eso necesito una buena varianza aplicada, la suma de todos los componentes da 100% la cantidad de componentes maximos es la cantidad de variables del dataset.
+Se puede usar para pca o para clustering, en pc se grafica abajo el componente principal, y a la derecha la varianza aplicada, se utiliza por que en pca se quiere reducir el volumen, para eso necesito una buena varianza aplicada, la suma de todos los componentes da 100% la cantidad de componentes maximos es la cantidad de variables del dataset.
 
 las filas son combinaciones lineales de,
 
@@ -73,8 +73,48 @@ tipo de desbalance
 
 Recall sirve para ver que tan errado esta en los positivos, que en los negativos
 Precision 
+#### Como se evalua un metodos de clasificacion y como se utilizan
+La mismas que la matriz de confusion en clasificacion.
 
-#### Matriz de confusion de varias columnas
+desde que se crea el modelo, se crea una parte para validacion o de testeo, y se compara con el valor predicho con el real.
+
+en regresion, se evalua que tan cerca esta el predicho del real.
+MCE (Penaliza los outliners), MAE (Valor absoluto), MRC(Penaliza los outliners al cuadrado), MAPE()
+
+#### Biplot
+1- Varianza expl total
+2- Relacion entre variables, si son cercanos a 90 son independientes
+3- 
+4-
+5-
+6-
+
+##### Analizis de covarianza
+Para ver dependencias
+##### Matriz de confusion de varias columnas
 precision fila
 recall columna
 
+Para A
+
+|     | A   | B   | C   |
+| --- | --- | --- | --- |
+| A   | VP  | FP  | FP  |
+| B   | FN  |     |     |
+| C   | FN  |     |     |
+
+Para B
+
+|     | A   | B   | C   |
+| --- | --- | --- | --- |
+| A   |     | FN  |     |
+| B   | FP  | VP  | FP  |
+| C   |     | FN  |     |
+
+Para C
+
+|     | A   | B   | C   |
+| --- | --- | --- | --- |
+| A   |     |     | FN  |
+| B   |     |     | FN  |
+| C   | FP  | FP  | VP  |
