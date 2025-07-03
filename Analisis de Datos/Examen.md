@@ -93,10 +93,32 @@ pca, analisis no supervisado
 6- Tendencia
 7- Datos promedio 
 
-#### K-Means
+#### K-Means (No supervisado)
 - Eleccion de los centroides, pueden ser aleatorios,  seleccion, forzado.
 - Se asignan todos los puntos al centroide mas cercano, hablando de la distancia, de cada punto a cada centroide, y se asigna ese punto al cluster mas cercano, hay distintas medidas de distancias
-- cada punto al cluster mas cercano, se recalcula los centroides,  
+- cada punto al cluster mas cercano, se recalcula los centroides, cuando el centroide se mueve hay que reasignar todos los puntos devuelta, fijandose los puntos del centroide, y asi sucesivamente hasta que los centroides se dejen de mover, significa que no se estan reasignando.
+
+#### Pam (No supervisado)
+se utilizan medoides, los cuales son puntos reales
+se asignan los medoides de forma aleatoria, agrupado o forzoso,
+se asigna un punto al medoide
+se calcula el costo total de cambiar el medoide actual por cada punto del cluster.
+se vuelve a reclasificar los puntos, se vuelve a comparar las distancias entre los puntos y se selecciona como medoide al menor, asi hasta que se deje de mover los medoides o hasta que terminen los ciclos
+
+#### Arbol de decision Entropia y ganancia
+Entropia medida de desorden, cuando es 0 no hay desorden y cuando es 1 es el maximo
+
+ganancia, mayor orden de la variable objetivo,
+
+Utilizan la entropia para calcular la ganancia de cada columna, la col con mayor gan, significa que tiene mayor orden a la hora de seleccionar el atributo raiz, segun la opcion que haya en esa columna. si la entropia es cero, todo dato que vaya a esa columna va a ser clasificado en una hoja, si no es cero es utilizado en otra columna, viendo los datos con mayor ganancia. repitiendo asi el proceso hasta que formar el arbol.
+
+#### Bayesiano
+Clasificador probabilistico, siendo que el que tenga mayor probabilidad, se elige como clase.
+
+
+##### Supervisado y no sup
+Los supervisados no predicen si no que muestran patrones de comportamiento mientras que no supervisado predicen.
+
 
 
 ##### Analizis de covarianza
