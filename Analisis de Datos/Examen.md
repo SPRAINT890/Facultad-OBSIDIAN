@@ -57,8 +57,24 @@ indice = -1 si b = 0
 #### Matriz de confusion
 
 
-|               | 155 | 35  |
-| ------------- | --- | --- |
-| Pos Predichos | 155 | 35  |
-| Neg Predicho  | 10  | 50  |
+|               | Pos Real | Neg Real |
+| ------------- | -------- | -------- |
+| Pos Predichos | 155      | 35       |
+| Neg Predicho  | 10       | 50       |
+
+
+| VP     | FP     |
+| ------ | ------ |
+| **FN** | **VN** |
+Accuracy (FP)
+que se acierta mas, los positivos o los negativos
+tipo de desbalance 
+
+
+Recall sirve para ver que tan errado esta en los positivos, que en los negativos
+Precision 
+
+#### Matriz de confusion de varias columnas
+precision fila
+recall columna
 
