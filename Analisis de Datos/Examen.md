@@ -38,8 +38,27 @@ un codo es un punto en el cual a partir de agregar un valor mas, no cambia mucho
 ## Indice de Silueta
 Objetivo, Medir que tan similar es la distancia entre puntos de un cluster en comparacion con los puntos de otro cluster
 
-Intra
+
+Intra (a): distancia promedio entre un cluster
+(b): distancia entre ese punto y los puntos del cluster mas cercano, se calcula la distancia promedio de un cluster y el de otro, tomando el valor mas cercano
+
+que tan separados estan los clusters
+
+1 significa que todos los valores del mismo cluster esten en el mismo punto de medicion
+0 
+-1 solapacion de clusters
 
 para llegar a 1, a tiene que ser cero
 Indice = 1 si a = 0
 indice = -1 si b = 0
+
+
+## Correccion del primer parcial
+#### Matriz de confusion
+
+
+|               | 155 | 35  |
+| ------------- | --- | --- |
+| Pos Predichos | 155 | 35  |
+| Neg Predicho  | 10  | 50  |
+
