@@ -82,12 +82,22 @@ en regresion, se evalua que tan cerca esta el predicho del real.
 MCE (Penaliza los outliners), MAE (Valor absoluto), MRC(Penaliza los outliners al cuadrado), MAPE()
 
 #### Biplot
+pca, analisis no supervisado
 1- Varianza expl total
 2- Relacion entre variables, si son cercanos a 90 son independientes
-3- 
-4-
-5-
-6-
+3- importancia de cada variable en los componentes de cada variables
+	- vector horizontal, no aporta al componente principal vertical
+	- vector vertical, no aporta al componente principal horizontal
+4- Tamaño de la flecha
+5- Outliers
+6- Tendencia
+7- Datos promedio 
+
+#### K-Means
+- Eleccion de los centroides, pueden ser aleatorios,  seleccion, forzado.
+- Se asignan todos los puntos al centroide mas cercano, hablando de la distancia, de cada punto a cada centroide, y se asigna ese punto al cluster mas cercano, hay distintas medidas de distancias
+- cada punto al cluster mas cercano, se recalcula los centroides,  
+
 
 ##### Analizis de covarianza
 Para ver dependencias
