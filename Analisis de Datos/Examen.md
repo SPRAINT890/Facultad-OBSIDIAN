@@ -150,3 +150,81 @@ Para C
 | A   |     |     | FN  |
 | B   |     |     | FN  |
 | C   | FP  | FP  | VP  |
+
+
+#### Dendrograma
+Un **dendrograma** es un **diagrama en forma de árbol** que se utiliza para representar cómo se agrupan los elementos en un proceso de **clustering jerárquico** sin la necesidad de elegir un numero de clusters, existe dos formas Bottom-Up y Top-Down.
+
+##### Bottom-Up
+Empieza tomando cada fila como un cluster y los va agrupando segun su distancia, hasta formar un cluster general
+Ventajas:
+- Simple y ampliamente usado. 
+- No necesitas definir el número de clusters desde el inicio
+
+desventajas:
+- Costoso computacionalmente para grandes datasets.
+- No permite deshacer fusiones (es _greedy_).
+##### Top-Down
+Parte de un cluster general, y lo va dividiendo segun la distancia hasta llegar a un cluster por fila
+Ventajas:
+- Puede producir particiones más globalmente óptimas si se implementa bien. 
+- Útil si los datos tienen una estructura jerárquica clara desde el inicio.
+
+Desventajas:
+- Más difícil de implementar correctamente.
+- Menos común en bibliotecas estándar.
+- Requiere criterios más sofisticados para dividir los clusters.
+
+#### ¿por que es necesario utilizar un conjunto de validacion y uno de testeo?
+
+Supongamos que tienes un dataset completo. Se suele dividir en tres partes:
+
+| Conjunto                    | ¿Para qué se usa?                                              |
+| --------------------------- | -------------------------------------------------------------- |
+| **Entrenamiento** (train)   | Para entrenar el modelo (ajustar sus parámetros)               |
+| **Validación** (validation) | Para ajustar hiperparámetros y elegir el mejor modelo          |
+| **Prueba/Testeo** (test)    | Para evaluar el rendimiento final, **como si fuera un examen** |
+###### **Entrenamiento**
+- Aquí el modelo aprende directamente de los datos.
+- Se ajustan los pesos, coeficientes, etc.
+
+###### **Validación**
+- Aquí el modelo **no aprende**, solo se evalúa.
+- Se usa para: 
+    - Comparar diferentes arquitecturas o modelos.
+    - Elegir valores de **hiperparámetros** (número de árboles, regularización, etc.).
+    - Evitar sobreajuste al conjunto de entrenamiento.
+> Sin validación, puedes terminar **eligiendo un modelo que funciona bien solo en los datos que vio**.
+
+###### **Testeo (prueba final)**
+- Este conjunto **no debe usarse hasta el final**.
+- Se reserva para una **evaluación honesta del modelo final**.
+- Simula el comportamiento del modelo con **datos nuevos del mundo real**.
+> Si pruebas muchas veces en el set de test, **empiezas a sobreajustar inconscientemente a él**, y deja de ser una medición confiable.
+
+#### ¿Que tipo de enlace hay en la clasificacion jerarquica?
+###### **Single Linkage** (Enlace simple)
+- Usa la **distancia más corta** entre cualquier par de puntos de dos clusters.
+🟢 detecta estructuras largas como cadenas.  
+🔴 **efecto cadena** (puede unir clusters mal conectados por un punto).
+
+###### **Complete Linkage** (Enlace completo)
+- Usa la **distancia más lejana** entre puntos de dos clusters.
+🟢 produce clusters compactos.  
+🔴 sensible a _outliers_.
+
+###### **Average Linkage** (Enlace promedio)
+- Usa el **promedio de todas las distancias** entre puntos de ambos clusters.
+🟢 Buen equilibrio entre single y complete.  
+🔴 Puede ser más costoso computacionalmente.
+
+###### **Centroid Linkage** (Enlace de centroide)
+
+- Usa la **distancia entre los centroides** (medias) de los clusters.
+🟢 Intuitivo y útil cuando los clusters tienen forma esférica.  
+🔴 Puede producir resultados **no jerárquicos** (los clusters pueden separarse después de unirse, lo cual es problemático).
+
+###### **Ward Linkage** (Enlace de Ward)
+- Busca **minimizar el aumento de la varianza intra-cluster** al fusionar dos clusters.
+🟢 Muy bueno para crear clusters **compactos y bien separados**.  
+🔴 Supone que los datos son numéricos y usan distancia euclidiana.
