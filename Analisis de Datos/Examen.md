@@ -116,6 +116,7 @@ Utilizan la entropia para calcular la ganancia de cada columna, la col con mayor
 Clasificador probabilistico, siendo que el que tenga mayor probabilidad, se elige como clase.
 
 
+
 ##### Supervisado y no sup
 Los supervisados no predicen si no que muestran patrones de comportamiento mientras que no supervisado predicen.
 
