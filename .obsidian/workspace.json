@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisis de Datos/Examen.md",
+                "file": "Redes/Capas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Examen"
+              "title": "Capas"
             }
           }
         ],
@@ -199,11 +199,17 @@
   },
   "active": "92e21bd2cbae8b99",
   "lastOpenFiles": [
-    "Redes/Practico de mascaras de red.md",
-    "Analisis de Datos/Examen.md",
-    "Redes/Capa de red.md",
     "Redes/Capa de Enlace de Datos.md",
+    "Redes/Modems.md",
+    "Redes/Codec.md",
+    "Redes/Tecnica FDM.md",
+    "Redes/Multiplexion por Division de tiempo.md",
+    "Redes/Tecnicas de conmutacion.md",
+    "Redes/Correccion del parcial.md",
     "Redes/Protocolos de Acceso multiple.md",
+    "Redes/Capa de red.md",
+    "Analisis de Datos/Examen.md",
+    "Redes/Practico de mascaras de red.md",
     "Pasted image 20250430193144.png",
     "Redes/Recursos/Pasted image 20250430193058.png",
     "Redes/Capas.md",
@@ -216,16 +222,10 @@
     "Redes/Recursos/Pasted image 20250423211050.png",
     "Redes/Teorema de Shannon.md",
     "Redes/Medios de Transmision.md",
-    "Redes/Correccion del parcial.md",
     "Redes/Recursos/Pasted image 20250411205051.png",
     "Redes/Capa Fisica.md",
     "Redes/Teorema de Nyquist.md",
     "Analisis de Datos/p1.md",
-    "Redes/Modems.md",
-    "Redes/Codec.md",
-    "Redes/Tecnica FDM.md",
-    "Redes/Multiplexion por Division de tiempo.md",
-    "Redes/Tecnicas de conmutacion.md",
     "Analisis de Datos/Operaciones con tablas.md",
     "Analisis de Datos/Visualizacion de Datos.md",
     "base de datos 2/Recuperacion.md",
