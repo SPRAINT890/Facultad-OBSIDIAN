@@ -11,12 +11,14 @@
             "id": "b5919b19dd1ed035",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Teoria de la computacion/Recursos/Pasted image 20250812203035.png"
+                "file": "Finanzas y proyectos/Sin título.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250812203035"
+              "icon": "lucide-file",
+              "title": "Sin título"
             }
           }
         ]
@@ -180,13 +182,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c8483d1ef244f85",
+  "active": "b5919b19dd1ed035",
   "lastOpenFiles": [
+    "Teoria de la computacion/Recursos/Pasted image 20250812203035.png",
+    "Finanzas y proyectos/Sin título.md",
     "Finanzas y proyectos",
     "Teoria de la computacion/Recursos",
     "Redes/Recursos/Pasted image 20250430193144.png",
     "Teoria de la computacion/Sin título.md",
-    "Teoria de la computacion/Recursos/Pasted image 20250812203035.png",
     "Proyecto TIC/Introduccion.md",
     "Teoria de la computacion",
     "Proyecto TIC",
@@ -227,8 +230,6 @@
     "Analisis de Datos",
     "Redes",
     "Ing Software II",
-    "base de datos 2/Transacciones.md",
-    "Ing software/Trabajos",
-    "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp"
+    "Ing software/Trabajos"
   ]
 }
