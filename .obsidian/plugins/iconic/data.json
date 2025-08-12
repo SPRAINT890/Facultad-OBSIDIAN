@@ -22,24 +22,6 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "Clei": {
-      "icon": "lucide-bus",
-      "unsynced": [
-        "11c18ae72c1198b8"
-      ]
-    },
-    "Ing software": {
-      "icon": "lucide-person-standing",
-      "unsynced": [
-        "11c18ae72c1198b8"
-      ]
-    },
-    "Investigacion Operativa": {
-      "icon": "lucide-file-search",
-      "unsynced": [
-        "11c18ae72c1198b8"
-      ]
-    },
     "Proyecto TIC": {
       "icon": "lucide-tickets",
       "color": "green",
@@ -47,9 +29,9 @@
         "11c18ae72c1198b8"
       ]
     },
-    "base de datos 2": {
-      "icon": "lucide-database",
-      "color": "gray",
+    "Teoria de la computacion": {
+      "icon": "lucide-laptop",
+      "color": "red",
       "unsynced": [
         "11c18ae72c1198b8"
       ]

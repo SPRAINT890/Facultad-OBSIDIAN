@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto TIC/Introduccion.md",
+                "file": "Teoria de la computacion/Sin título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduccion"
+              "title": "Sin título"
             }
           }
         ]
@@ -182,10 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c8483d1ef244f85",
+  "active": "b5919b19dd1ed035",
   "lastOpenFiles": [
-    "Sin nombre",
     "Proyecto TIC/Introduccion.md",
+    "Teoria de la computacion/Sin título.md",
+    "Teoria de la computacion",
     "Proyecto TIC",
     "Redes/Capa de red.md",
     "Redes/Capa Fisica.md",
@@ -230,7 +231,6 @@
     "base de datos 2/Optimizacion.md",
     "Ing software/Trabajos",
     "base de datos 2/Imagen/Pasted image 20240829201956.png.~tmp",
-    "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp",
-    "base de datos 2/Practico"
+    "base de datos 2/Imagen/Pasted image 20240829201844.png.~tmp"
   ]
 }
