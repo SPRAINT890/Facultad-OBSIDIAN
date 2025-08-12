@@ -7,7 +7,8 @@
     "Investigacion Operativa",
     "Analisis de Datos",
     "Ing Software II",
-    "Redes"
+    "Redes",
+    "Proyecto TIC"
   ],
   "Analisis de Datos": [
     "Analisis de Datos/Examen.md",
@@ -182,6 +183,9 @@
     "Investigacion Operativa/Temas/Problema del viajero.md",
     "Investigacion Operativa/Temas/Programación Entera.md",
     "Investigacion Operativa/Temas/Programación lineal.md"
+  ],
+  "Proyecto TIC": [
+    "Proyecto TIC/Introduccion.md"
   ],
   "Redes": [
     "Redes/Practico de mascaras de red.md",

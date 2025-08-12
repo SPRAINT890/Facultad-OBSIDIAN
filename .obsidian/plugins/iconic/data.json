@@ -22,22 +22,8 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "Analisis de Datos": {
-      "icon": "lucide-chart-column-decreasing",
-      "color": "red",
-      "unsynced": [
-        "11c18ae72c1198b8"
-      ]
-    },
     "Clei": {
       "icon": "lucide-bus",
-      "unsynced": [
-        "11c18ae72c1198b8"
-      ]
-    },
-    "Ing Software II": {
-      "icon": "lucide-person-standing",
-      "color": "green",
       "unsynced": [
         "11c18ae72c1198b8"
       ]
@@ -54,9 +40,9 @@
         "11c18ae72c1198b8"
       ]
     },
-    "Redes": {
-      "icon": "lucide-network",
-      "color": "blue",
+    "Proyecto TIC": {
+      "icon": "lucide-tickets",
+      "color": "green",
       "unsynced": [
         "11c18ae72c1198b8"
       ]
