@@ -22,6 +22,13 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "Finanzas y proyectos": {
+      "icon": "lucide-percent",
+      "color": "blue",
+      "unsynced": [
+        "11c18ae72c1198b8"
+      ]
+    },
     "Proyecto TIC": {
       "icon": "lucide-tickets",
       "color": "green",

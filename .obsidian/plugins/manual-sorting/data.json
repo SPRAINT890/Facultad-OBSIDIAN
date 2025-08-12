@@ -1,6 +1,5 @@
 {
   "/": [
-    "Pasted image 20250430193144.png",
     "base de datos 2",
     "Clei",
     "Ing software",
@@ -9,7 +8,8 @@
     "Ing Software II",
     "Redes",
     "Teoria de la computacion",
-    "Proyecto TIC"
+    "Proyecto TIC",
+    "Finanzas y proyectos"
   ],
   "Analisis de Datos": [
     "Analisis de Datos/Examen.md",
@@ -104,6 +104,7 @@
     "Clei/Curso 5/Practico 1.md",
     "Clei/Curso 5/Tipo de Malware y Ataques.md"
   ],
+  "Finanzas y proyectos": [],
   "Ing software": [
     "Ing software/Recursos",
     "Ing software/Trabajos",
@@ -207,6 +208,8 @@
     "Redes/Capas.md"
   ],
   "Redes/Recursos": [
+    "Redes/Recursos/Pasted image 20250430193144.png",
+    "Redes/Recursos/Pasted image 20250430193144.png",
     "Redes/Recursos/Pasted image 20250430193058.png",
     "Redes/Recursos/Pasted image 20250425202953.png",
     "Redes/Recursos/Pasted image 20250425205912.png",
@@ -267,6 +270,10 @@
     "Redes/Recursos/Pasted image 20250326201334.png"
   ],
   "Teoria de la computacion": [
+    "Teoria de la computacion/Recursos",
     "Teoria de la computacion/Sin título.md"
+  ],
+  "Teoria de la computacion/Recursos": [
+    "Teoria de la computacion/Recursos/Pasted image 20250812203035.png"
   ]
 }
