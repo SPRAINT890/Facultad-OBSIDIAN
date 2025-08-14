@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finanzas y proyectos/Ejemplos.md",
+                "file": "Finanzas y proyectos/BCG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejemplos"
+              "title": "BCG"
             }
           }
         ]
@@ -184,8 +184,10 @@
   },
   "active": "b5919b19dd1ed035",
   "lastOpenFiles": [
-    "Teoria de la computacion/Recursos/Pasted image 20250812203035.png",
+    "Finanzas y proyectos/Bicicross.md",
+    "Finanzas y proyectos/BCG.md",
     "Finanzas y proyectos/Ejemplos.md",
+    "Teoria de la computacion/Recursos/Pasted image 20250812203035.png",
     "Finanzas y proyectos",
     "Teoria de la computacion/Recursos",
     "Redes/Recursos/Pasted image 20250430193144.png",
@@ -226,7 +228,6 @@
     "Redes/Untitled.canvas",
     "Redes/Recursos",
     "Ing software/Arquitecturas.md",
-    "base de datos 2/Valor Nulo o NULL.md",
     "Analisis de Datos",
     "Redes",
     "Ing Software II",
