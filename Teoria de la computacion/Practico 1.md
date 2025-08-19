@@ -11,8 +11,26 @@ $L^2$ = {aa, bb, ab, ba}
 $L^3$ = {aaa, aab, aba, abb, bbb, bba, baa, bab}
 $L^*$ = 
 
-# Practico 2
+## parte 2
 Sea $\epsilon$ = {a, b}
 Describa en palabras los Lenguajes
 a) $L3 =$ {$W \in \epsilon^*$ | w no contiene "bb"}
 Todos las cadenas o palabras que no contienen la subcadena bb
+
+## parte 3
+Sea 
+- $L1$ = {a, b}
+- $L2$ = {c}
+
+Calcular:
+- $L1$ . $L2$
+- $L2$ . $L1$
+
+$L1$ . $L2$ = {ac, bc}
+$L2$ . $L1$ = {ca, cb}
+
+Son iguales?
+no
+
+por que?
+por que la propiedad no es conmutativa
