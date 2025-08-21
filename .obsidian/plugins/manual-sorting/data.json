@@ -1,9 +1,5 @@
 {
   "/": [
-    "Pasted image 20250821194155.png",
-    "Pasted image 20250821194124.png",
-    "Pasted image 20250821194019.png",
-    "Pasted image 20250821193856.png",
     "base de datos 2",
     "Clei",
     "Ing software",
@@ -109,6 +105,7 @@
     "Clei/Curso 5/Tipo de Malware y Ataques.md"
   ],
   "Finanzas y proyectos": [
+    "Finanzas y proyectos/Park and Go.md",
     "Finanzas y proyectos/FODA.md",
     "Finanzas y proyectos/BCG.md",
     "Finanzas y proyectos/Bicicross.md",
@@ -286,6 +283,10 @@
     "Teoria de la computacion/Recursos"
   ],
   "Teoria de la computacion/Recursos": [
+    "Teoria de la computacion/Recursos/Pasted image 20250821193856.png",
+    "Teoria de la computacion/Recursos/Pasted image 20250821194019.png",
+    "Teoria de la computacion/Recursos/Pasted image 20250821194124.png",
+    "Teoria de la computacion/Recursos/Pasted image 20250821194155.png",
     "Teoria de la computacion/Recursos/Pasted image 20250819195936.png",
     "Teoria de la computacion/Recursos/Pasted image 20250819200753.png",
     "Teoria de la computacion/Recursos/Pasted image 20250812203035.png"
