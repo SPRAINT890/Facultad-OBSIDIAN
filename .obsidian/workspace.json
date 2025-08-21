@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Practico 1"
             }
+          },
+          {
+            "id": "20e64e0adb2fadd7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Teoria de la computacion/Recursos/Pasted image 20250819195936.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250819195936"
+            }
           }
         ]
       }
@@ -185,15 +197,17 @@
   },
   "active": "b5919b19dd1ed035",
   "lastOpenFiles": [
-    "Teoria de la computacion/Ejercicio 1.md",
+    "Teoria de la computacion/Recursos/Pasted image 20250819200753.png",
+    "Teoria de la computacion/Recursos/Pasted image 20250819195936.png",
+    "Pasted image 20250821193246.png",
     "Teoria de la computacion/Practico 1.md",
+    "Teoria de la computacion/Sin título.md",
+    "Teoria de la computacion/Ejercicio 1.md",
     "Teoria de la computacion/Gramatica.md",
     "Finanzas y proyectos/Ejemplos.md",
     "Finanzas y proyectos/Bicicross.md",
     "Finanzas y proyectos/FODA.md",
     "Finanzas y proyectos/BCG.md",
-    "Teoria de la computacion/Sin título.md",
-    "Pasted image 20250819200753.png",
     "Clei/Curso 3/Introduccion.md",
     "Clei/Curso 3/Inicio.md",
     "Clei/Curso 3/Mas Cosas.md",
@@ -202,7 +216,6 @@
     "Redes/Protocolos de Acceso multiple.md",
     "Redes/Capa de red.md",
     "Redes/Practico de mascaras de red.md",
-    "Pasted image 20250819195936.png",
     "Teoria de la computacion/Recursos/Pasted image 20250812203035.png",
     "Finanzas y proyectos",
     "Teoria de la computacion/Recursos",
@@ -218,13 +231,11 @@
     "Redes/Tecnica FDM.md",
     "Redes/Multiplexion por Division de tiempo.md",
     "Redes/Tecnicas de conmutacion.md",
-    "Analisis de Datos/Examen.md",
     "Redes/Recursos/Pasted image 20250430193058.png",
     "Redes/Recursos/Pasted image 20250425202953.png",
     "Pasted image 20250425205714.png",
     "Redes/Recursos/Pasted image 20250425205912.png",
     "Redes/Recursos/Pasted image 20250425200120.png",
-    "Redes/Recursos/Pasted image 20250425200051.png",
     "Untitled",
     "Untitled.canvas",
     "Redes/Untitled.canvas",
