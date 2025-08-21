@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Ejemplos"
             }
-          },
-          {
-            "id": "e7caa91b4b0a324b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.9.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7caa91b4b0a324b",
+  "active": "b5919b19dd1ed035",
   "lastOpenFiles": [
     "Finanzas y proyectos/Bicicross.md",
     "Finanzas y proyectos/FODA.md",
