@@ -1,6 +1,5 @@
 
-## 1
-Con los conocimientos actuales sobre Teoría de Conjuntos, máquinas de estado y autómatas finitos, comente con sus palabras qué utilización le encuentra a definición de conjunto, pertenencia de elementos y a las operaciones de unión, intersección y complemento? Si lo considera necesario, amplíe con otros conceptos vistos en el repaso de Teoría de Conjuntos.
+## 1 Con los conocimientos actuales sobre Teoría de Conjuntos, máquinas de estado y autómatas finitos, comente con sus palabras qué utilización le encuentra a definición de conjunto, pertenencia de elementos y a las operaciones de unión, intersección y complemento? Si lo considera necesario, amplíe con otros conceptos vistos en el repaso de Teoría de Conjuntos.
 
 ## 2 Indique si es verdad {1, {2,3}} = {{3,2},1}
 Es verdad ya que en teoria de conjuntos los conjuntos no estan ordenados, por ende la distribucion de los elementos del conjunto no perjudica
@@ -52,6 +51,6 @@ Son cadenas de 0 y 1 sin importar el orden de los valores solo que haya la misma
 $L^0$ = {$\epsilon$}
 $L^1$ = {ab, c}
 $L^2$ = {ab, c} {ab, c} = {abab, abc, cab, cc}
-$L^3$ = {ab, c} {ab, c} {ab, c} = {abab, abc, cab, cc} {ab, c} = {ababab, ababc, abcab, abcc, cabab, cabc, ccab, ccc}
+$L^3$ = {ab, c} {ab, c} $L^1$ = {abab, abc, cab, cc} {ab, c} = {ababab, ababc, abcab, abcc, cabab, cabc, ccab, ccc}
 
 ## 9 Qué significa L = {$W$ $\in$ {a,b}$^*$ | $W =$ $W^R$ } Qué gramática genera este lenguaje?
