@@ -42,4 +42,16 @@ Pertenecientes:
 No Pertenecientes
 7777018888, 1111111111, 1100
 
-## 7 Qué significa el lenguaje L = {w $\in$ {} | ceros (w) = unos (w)}
+## 7 Qué significa el lenguaje L = {w $\in$ {0, 1}$^*$ | ceros (w) = unos (w)}
+Son cadenas de 0 y 1 sin importar el orden de los valores solo que haya la misma cantidad de ceros que de unos, dando una suma de valores pares
+	Ejemplo
+		01, 10, 1010, 0101, 011100,
+
+## 8 Si L = {ab,c} es lenguaje sobre el alfabeto {a,b,c} De ejemplos de $L^0$ , $L^1$ , $L^2$ , $L^3$
+
+$L^0$ = {$\epsilon$}
+$L^1$ = {ab, c}
+$L^2$ = {ab, c} {ab, c} = {abab, abc, cab, cc}
+$L^3$ = {ab, c} {ab, c} {ab, c} = {abab, abc, cab, cc} {ab, c} = {ababab, ababc, abcab, abcc, cabab, cabc, ccab, ccc}
+
+## 9 Qué significa L = {$W$ $\in$ {a,b}$^*$ | $W =$ $W^R$ } Qué gramática genera este lenguaje?
