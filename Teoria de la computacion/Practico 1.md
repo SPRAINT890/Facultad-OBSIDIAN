@@ -66,4 +66,16 @@ P = S -> aSa | bSb | a | b | $\epsilon$
 `{programa} ::= [<cabecera>] begin <sentencia> end <sentencias> ::= <sentencia> {<sentencia>}`
 En un programa, con un nombre y puede tener una cabecera que es opcional, seguido de un begin con una o mas sentencias y finaliza con un end
 
+## 11
+
+## 12 ¿Cuál es el conjunto de símbolos para derivar frases en castellano?
+P = {[A-Z], [a-z], ' ', [?, !]}
+
 ## 13 Defina un lenguaje que considere las matrículas de auto en Uruguay
+`L = { W | W [A, B, C, D, ... S], [A-Z] [A-Z] [0-9] [0-9] [0-9] [0-9]}`
+
+## 14 Obtener los 5 elementos más breves de {b,aa}$^+$. Qué pasaría si fuese * en lugar de +?
+b, bb, aa, bba, aab.
+si fuera * en vez de + tendria que agregar el conjunto vacio.
+
+## 14
