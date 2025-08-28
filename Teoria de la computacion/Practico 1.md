@@ -69,7 +69,7 @@ En un programa, con un nombre y puede tener una cabecera que es opcional, seguid
 ## 11
 
 ## 12 ¿Cuál es el conjunto de símbolos para derivar frases en castellano?
-P = {[A-Z], [a-z], ' ', [?, !]}
+`P = {[A-Z], [a-z], ' ', [?, !]}`
 
 ## 13 Defina un lenguaje que considere las matrículas de auto en Uruguay
 `L = { W | W [A, B, C, D, ... S], [A-Z] [A-Z] [0-9] [0-9] [0-9] [0-9]}`
