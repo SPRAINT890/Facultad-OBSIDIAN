@@ -78,4 +78,21 @@ En un programa, con un nombre y puede tener una cabecera que es opcional, seguid
 b, bb, aa, bba, aab.
 si fuera * en vez de + tendria que agregar el conjunto vacio.
 
-## 14
+## 15 El lenguaje de todas las cadenas que constan de n ceros seguidos de n unos para cualquier n ≥ 0
+
+L = {W | W $\in$  $0^n 1^n$ $n \geq 0$}
+
+$\epsilon$, 01, 0011
+
+S -> 0S1 | $\epsilon$
+
+## 16 El conjunto de cadenas formadas por el mismo número de ceros que de unos
+
+L = {W | W $\in$ {0,1}* ceros (w) = unos (w)}
+
+## 17 De una gramática que genere números entre 0 y 128
+G = {}
+V = {S, A, B}
+T = {1, 2, 3, 4, 5, 6, 7, 8, 9, 0}
+P
+S
