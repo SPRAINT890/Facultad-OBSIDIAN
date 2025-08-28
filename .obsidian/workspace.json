@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "e430f6b9afa52540",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.12"
+            }
+          },
+          {
             "id": "20e64e0adb2fadd7",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Pasted image 20250819195936"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5919b19dd1ed035",
+  "active": "e430f6b9afa52540",
   "lastOpenFiles": [
     "Finanzas y proyectos/Park and Go.md",
     "Finanzas y proyectos/Ejemplos.md",
