@@ -54,3 +54,9 @@ $L^2$ = {ab, c} {ab, c} = {abab, abc, cab, cc}
 $L^3$ = {ab, c} {ab, c} $L^1$ = {abab, abc, cab, cc} {ab, c} = {ababab, ababc, abcab, abcc, cabab, cabc, ccab, ccc}
 
 ## 9 Qué significa L = {$W$ $\in$ {a,b}$^*$ | $W =$ $W^R$ } Qué gramática genera este lenguaje?
+
+L = 
+V = {S}
+T = {a, b}
+
+S -> aSa | bSb | a | b | $\epsilon$
