@@ -42,7 +42,7 @@ No Pertenecientes
 7777018888, 1111111111, 1100
 
 ## 7 Qué significa el lenguaje L = {w $\in$ {0, 1}$^*$ | ceros (w) = unos (w)}
-Son cadenas de 0 y 1 sin importar el orden de los valores solo que haya la misma cantidad de ceros que de unos, dando una suma de valores pares
+Son cadenas de 0 y 1 sin importar el orden de los valores solo que haya la misma cantidad de ceros que de unos, dando una suma de valores pares, incluyendo el conjunto vacio
 	Ejemplo
 		01, 10, 1010, 0101, 011100,
 
@@ -55,8 +55,15 @@ $L^3$ = {ab, c} {ab, c} $L^1$ = {abab, abc, cab, cc} {ab, c} = {ababab, ababc, a
 
 ## 9 Qué significa L = {$W$ $\in$ {a,b}$^*$ | $W =$ $W^R$ } Qué gramática genera este lenguaje?
 
-L = 
+Significa que el leguaje L contiene a, b y conjunto vacio tal que las combinaciones de de estas letras generen palabras palindromes
+
+$G_l$ = (V, T, P, S)
 V = {S}
 T = {a, b}
+P = S -> aSa | bSb | a | b | $\epsilon$
 
-S -> aSa | bSb | a | b | $\epsilon$
+## 10 Lo que sigue son reglas de producción de un lenguaje. ¿Cómo se lee? 
+`{programa} ::= [<cabecera>] begin <sentencia> end <sentencias> ::= <sentencia> {<sentencia>}`
+En un programa, con un nombre y puede tener una cabecera que es opcional, seguido de un begin con una o mas sentencias y finaliza con un end
+
+## 13 Defina un lenguaje que considere las matrículas de auto en Uruguay
