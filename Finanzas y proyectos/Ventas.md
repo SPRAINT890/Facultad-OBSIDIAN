@@ -25,11 +25,37 @@ Efecto Mix
 Mix = total variacion - Volumen - precio
 490 - 450 - 40 = 0
 
-## Otro
+## Precio de las cocas
 250ml
 250ml - 35
 1000ml - x 140
 
 600ml
 600ml - 70
-1000ml - x
+1000ml - x 116,6
+
+1.5l
+1500ml - 145
+1000 - x 96,6
+
+2.25l
+sin promo
+2250ml - 185
+1000ml - x 82,2
+
+con promo
+4500 - 299
+1000 - x 66,4
+
+3l
+sin promo
+3000 - 220
+1000 - x 73
+
+con promo
+12000 - 660
+1000 - x 55
+
+se debe a por una competencia sobre ese producto
+
+compraria la de 2,25l por que no tomamos mucha coca
