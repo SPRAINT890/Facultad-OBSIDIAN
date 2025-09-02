@@ -100,3 +100,19 @@ S
 S -> 0 | 10X | 11X | 12Z
 X -> 0-9
 Z -> 0-8
+
+## 18 Obtener derivaciones de 002 y 0001 a partir de la GR ({0,1,2}, {A,B}, A, {A -> 2 | 0B, B ->1 | 0A}) ¿Qué lenguaje genera?
+
+GR = ({A, B}, {0, 1, 2}, {P, A})
+
+![[Pasted image 20250902190838.png]]
+L = { $0^n 2$ | $n\geq$ 0} $\cup$ {$0^m1$ | m > 0}
+
+## 19
+
+G = (V, T, P, S)
+
+S -> aH
+H -> bH
+H -> c
+
