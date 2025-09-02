@@ -104,15 +104,37 @@ Z -> 0-8
 ## 18 Obtener derivaciones de 002 y 0001 a partir de la GR ({0,1,2}, {A,B}, A, {A -> 2 | 0B, B ->1 | 0A}) ¿Qué lenguaje genera?
 
 GR = ({A, B}, {0, 1, 2}, {P, A})
+A -> 2 | 0B 
+B ->1 | 0A
 
 ![[Pasted image 20250902190838.png]]
-L = { $0^n 2$ | $n\geq$ 0} $\cup$ {$0^m1$ | m > 0}
+L = { $0^n 2$ | n par $\geq$ 0} $\cup$ {$0^m1$ | m > 0}
 
 ## 19
+ac, abc, abbc, ...
 
 G = (V, T, P, S)
 
+tipo 3
 S -> aH
 H -> bH
 H -> c
 
+otra
+
+tipo 2
+S -> ac | aXc
+X -> b | bX
+
+## 20 Dada la gramática ({a,b}, {I,X,V,Y}, I, P) con P dada por $I ->$ VXY | XV, X -> VI|YIV | $\lambda$ , VY -> YV, YV -> VY, V -> a, Y -> b | $\lambda$ Indique tipo, derive ababa e indique que lenguaje genera
+
+I -> VXY | XV
+X -> VI | YIV | $\lambda$ 
+VY -> YV
+YV -> VY
+V -> a
+Y -> b | $\lambda$
+
+I -> V 
+
+Son palabras que contienen
