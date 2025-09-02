@@ -66,7 +66,8 @@ P = S -> aSa | bSb | a | b | $\epsilon$
 `{programa} ::= [<cabecera>] begin <sentencia> end <sentencias> ::= <sentencia> {<sentencia>}`
 En un programa, con un nombre y puede tener una cabecera que es opcional, seguido de un begin con una o mas sentencias y finaliza con un end
 
-## 11
+## 11 Si v = $\lambda$ qué se obtiene de la concatenación de u con v?
+
 
 ## 12 ¿Cuál es el conjunto de símbolos para derivar frases en castellano?
 `P = {[A-Z], [a-z], ' ', [?, !]}`
@@ -110,7 +111,7 @@ B ->1 | 0A
 ![[Pasted image 20250902190838.png]]
 L = { $0^n 2$ | n par $\geq$ 0} $\cup$ {$0^m1$ | m > 0}
 
-## 19
+## 19 Dar una GR que genere todas las secuencias que comiencen por a, terminen con c, y tengan cualquier cantidad (0 o más) de b’s en el medio.
 ac, abc, abbc, ...
 
 G = (V, T, P, S)
