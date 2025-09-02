@@ -135,6 +135,29 @@ YV -> VY
 V -> a
 Y -> b | $\lambda$
 
-I -> V 
+I -> VXY -> VYIVY -> VYXVYV  -> VYVYV -> ababa
 
-Son palabras que contienen
+Son palabras que contienen cadenas de a y b intercambiados donde, empieza con a y la cantidad de b tiene que ser menor que a 
+
+## 21 Definir reglas para sustituir símbolos que generen la frase “Estamos en Teoría de la Computación”
+
+G = ({Estamos, en, teoria, de, la, computacion}, {S, B, C, D, E, F, G}, S, P)
+P = S -> Estamos B
+	B -> en C
+	C -> teoria D
+	D -> de E
+	E -> la F
+	F -> computacion G
+	G -> $\epsilon$
+
+## 22 Dadas las siguientes reglas de producción:
+![[Pasted image 20250902193704.png]]
+
+¿Qué lenguaje genera?
+
+S -> aA ->aab -> aaaA -> aaabA -> aaabbA -> aaabba
+S -> bA -> ba
+S -> aA -> aa
+S -> aA -> aaB -> aaaA -> aaaa
+
+L = {W $\in$ {a, b}$^+$ | w $\geq$ 2, W par y termina con a}
