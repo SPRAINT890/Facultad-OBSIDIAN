@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81eb60e50a5f41f7",
+        "id": "305629e7537977a1",
         "type": "tabs",
         "children": [
           {
-            "id": "b5919b19dd1ed035",
+            "id": "27eac3a5f0feda83",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,10 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5919b19dd1ed035",
+  "active": "27eac3a5f0feda83",
   "lastOpenFiles": [
-    "Teoria de la computacion/Practico 1.md",
+    "Investigacion Operativa/Temas/Programación lineal.md",
     "Teoria de la computacion/Ejercicio de parcial.md",
+    "Teoria de la computacion/Practico 1.md",
     "Pasted image 20250902193704.png",
     "Pasted image 20250902190838.png",
     "Pasted image 20250902190642.png",
@@ -224,7 +225,6 @@
     "Redes/Capa de Enlace de Datos.md",
     "Redes/Modems.md",
     "Redes/Codec.md",
-    "Redes/Tecnica FDM.md",
     "Untitled",
     "Untitled.canvas",
     "Redes/Untitled.canvas",
