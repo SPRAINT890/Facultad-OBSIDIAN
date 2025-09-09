@@ -1,6 +1,8 @@
 
 ## 1 Con los conocimientos actuales sobre Teoría de Conjuntos, máquinas de estado y autómatas finitos, comente con sus palabras qué utilización le encuentra a definición de conjunto, pertenencia de elementos y a las operaciones de unión, intersección y complemento? Si lo considera necesario, amplíe con otros conceptos vistos en el repaso de Teoría de Conjuntos.
 
+Los conjuntos nos sirven para agrupar los simbolos que forman el alfabeto mientras que el de pertenencia nos dice si un simbolo pertenece al alfabeto o si una cadena pertenece al lenguaje que el automata reconoce, por otro lado la union combina dos conjuntos de cadenas, la interesccion selecciona solo lo que ambos conjuntos coinciden en comun y el complemento sirve para definir todos los conjuntos que no reconoce el automata
+
 ## 2 Indique si es verdad {1, {2,3}} = {{3,2},1}
 Es verdad ya que en teoria de conjuntos los conjuntos no estan ordenados, por ende la distribucion de los elementos del conjunto no perjudica
 
@@ -67,6 +69,7 @@ P = S -> aSa | bSb | a | b | $\epsilon$
 En un programa, con un nombre y puede tener una cabecera que es opcional, seguido de un begin con una o mas sentencias y finaliza con un end
 
 ## 11 Si v = $\lambda$ qué se obtiene de la concatenación de u con v?
+se obtine la misma cadena
 
 
 ## 12 ¿Cuál es el conjunto de símbolos para derivar frases en castellano?
