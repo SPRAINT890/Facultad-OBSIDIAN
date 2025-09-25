@@ -87,4 +87,7 @@ S -> $\lambda$
 
 B -> Bb | Aa
 A -> Ab | Sa
-S -
+S -> $\lambda$
+
+## 10 Verifica retornandola a GRD
+
