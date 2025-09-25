@@ -72,3 +72,19 @@ S = aA + bC + $\lambda$
 
 ab* (ab* a(a+b)* + $\lambda$) + b(a+b)* + $\lambda$
 
+## 8 a partir de la ER del punto 4) genere mediante Thompson el AF correspondiente
+
+ER ab* ab*
+
+## 9 Convierta a GRI la GR del ejercicio 2
+S ->aA
+A -> bA | aB
+B -> bB |  $\lambda$
+
+B -> bB | aA
+A -> bA | aS
+S -> $\lambda$
+
+B -> Bb | Aa
+A -> Ab | Sa
+S -
