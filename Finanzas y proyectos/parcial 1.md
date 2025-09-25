@@ -40,7 +40,35 @@ A=(b)* (ab*)
 ### Sustituir en 1
 S = ab* ab*
 
-## 5
+## 5 Si es AFN conviertalo a AFD
 Ya es AFD
 
-## 6
+## 6  Halle el complemento
+![[Imagen de WhatsApp 2025-09-25 a las 18.49.14_1da1cf11.jpg | 500]]
+
+## 7 obtenga una ER del automata del complemento
+
+#### A
+S -> aA | bC | $\lambda$
+A -> bA | aB | $\lambda$
+B -> bB |  aC
+C -> aC | bC | $\lambda$
+
+#### B
+C = aC + bC + $\lambda$
+C = (a+b)C + $\lambda$
+C = (a+b)* $\lambda$ = (a+b)* => C = (a+b)*
+
+#### C aplico arden
+B = b* a (a+b)*
+
+#### D
+A = bA + ab* a(a+b)* + $\lambda$
+
+#### E aplico arden
+A = b* (ab* a (a+b)* + $\lambda$)
+
+S = aA + bC + $\lambda$
+
+ab* (ab* a(a+b)* + $\lambda$) + b(a+b)* + $\lambda$
+
