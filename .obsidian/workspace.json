@@ -25,12 +25,14 @@
             "id": "1fee60e0e1da21d5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Teoria de la computacion/Practico 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.9.14"
+              "icon": "lucide-file",
+              "title": "Practico 3"
             }
           }
         ],
@@ -198,6 +200,7 @@
   },
   "active": "1fee60e0e1da21d5",
   "lastOpenFiles": [
+    "Teoria de la computacion/Practico 3.md",
     "Teoria de la computacion/Gramatica.md",
     "Teoria de la computacion/Practico 1.md",
     "Teoria de la computacion/Ejercicio de parcial.md",
