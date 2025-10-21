@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Ejercicio 1"
             }
+          },
+          {
+            "id": "1fee60e0e1da21d5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27eac3a5f0feda83",
+  "active": "1fee60e0e1da21d5",
   "lastOpenFiles": [
     "Teoria de la computacion/Gramatica.md",
     "Teoria de la computacion/Practico 1.md",
