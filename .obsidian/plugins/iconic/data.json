@@ -22,23 +22,9 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "Finanzas y proyectos": {
-      "icon": "lucide-percent",
-      "color": "blue",
-      "unsynced": [
-        "11c18ae72c1198b8"
-      ]
-    },
-    "Proyecto TIC": {
-      "icon": "lucide-tickets",
+    "ADP": {
+      "icon": "lucide-computer",
       "color": "green",
-      "unsynced": [
-        "11c18ae72c1198b8"
-      ]
-    },
-    "Teoria de la computacion": {
-      "icon": "lucide-laptop",
-      "color": "red",
       "unsynced": [
         "11c18ae72c1198b8"
       ]

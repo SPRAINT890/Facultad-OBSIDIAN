@@ -1,11 +1,5 @@
 {
   "/": [
-    "Pasted image 20251023192343.png",
-    "Pasted image 20251023192322.png",
-    "Pasted image 20251023192301.png",
-    "Pasted image 20250902193704.png",
-    "Pasted image 20250902190838.png",
-    "Pasted image 20250902190642.png",
     "base de datos 2",
     "Clei",
     "Ing software",
@@ -15,7 +9,11 @@
     "Redes",
     "Teoria de la computacion",
     "Proyecto TIC",
-    "Finanzas y proyectos"
+    "Finanzas y proyectos",
+    "ADP"
+  ],
+  "ADP": [
+    "ADP/introduccion.md"
   ],
   "Analisis de Datos": [
     "Analisis de Datos/Examen.md",
@@ -294,6 +292,12 @@
     "Teoria de la computacion/Recursos"
   ],
   "Teoria de la computacion/Recursos": [
+    "Teoria de la computacion/Recursos/Pasted image 20250902190642.png",
+    "Teoria de la computacion/Recursos/Pasted image 20250902190838.png",
+    "Teoria de la computacion/Recursos/Pasted image 20250902193704.png",
+    "Teoria de la computacion/Recursos/Pasted image 20251023192301.png",
+    "Teoria de la computacion/Recursos/Pasted image 20251023192322.png",
+    "Teoria de la computacion/Recursos/Pasted image 20251023192343.png",
     "Teoria de la computacion/Recursos/Imagen de WhatsApp 2025-09-25 a las 18.49.14_1da1cf11.jpg",
     "Teoria de la computacion/Recursos/Pasted image 20250821193856.png",
     "Teoria de la computacion/Recursos/Pasted image 20250821194019.png",

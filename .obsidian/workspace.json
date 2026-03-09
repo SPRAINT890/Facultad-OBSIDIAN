@@ -11,12 +11,14 @@
             "id": "d56d74a4f6eed747",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "ADP/introduccion.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.10.3"
+              "icon": "lucide-file",
+              "title": "introduccion"
             }
           }
         ]
@@ -183,6 +185,10 @@
   },
   "active": "d56d74a4f6eed747",
   "lastOpenFiles": [
+    "Teoria de la computacion/Recursos/Pasted image 20250902190642.png",
+    "ADP/introduccion.md",
+    "ADP",
+    "Teoria de la computacion/Recursos/Pasted image 20250902190838.png",
     "Teoria de la computacion/Ejercicio 1.md",
     "Investigacion Operativa/Investigación Operativa.md",
     "Investigacion Operativa/Temas/Problema del viajero.md",
@@ -193,17 +199,15 @@
     "Teoria de la computacion/Practico 2.md",
     "Teoria de la computacion/Practico 3.md",
     "Teoria de la computacion/Ejercicio de parcial.md",
-    "Pasted image 20251023192343.png",
-    "Pasted image 20251023192322.png",
-    "Pasted image 20251023192301.png",
+    "Teoria de la computacion/Recursos/Pasted image 20251023192343.png",
+    "Teoria de la computacion/Recursos/Pasted image 20251023192322.png",
+    "Teoria de la computacion/Recursos/Pasted image 20251023192301.png",
     "Teoria de la computacion/Gramatica.md",
     "Finanzas y proyectos/parcial 1.md",
     "Teoria de la computacion/Recursos/Imagen de WhatsApp 2025-09-25 a las 18.49.14_1da1cf11.jpg",
     "Teoria de la computacion/Sin título.md",
     "Investigacion Operativa/Temas/Programación lineal.md",
-    "Pasted image 20250902193704.png",
-    "Pasted image 20250902190838.png",
-    "Pasted image 20250902190642.png",
+    "Teoria de la computacion/Recursos/Pasted image 20250902193704.png",
     "Finanzas y proyectos/Ventas.md",
     "Finanzas y proyectos/Park and Go.md",
     "Finanzas y proyectos/Ejemplos.md",
@@ -217,8 +221,6 @@
     "Clei/Curso 3/Mas Cosas.md",
     "Redes/Correccion del parcial.md",
     "Redes/Protocolos de Acceso multiple.md",
-    "Redes/Capa de red.md",
-    "Redes/Practico de mascaras de red.md",
     "Finanzas y proyectos",
     "Teoria de la computacion/Recursos",
     "Teoria de la computacion",
@@ -229,7 +231,6 @@
     "Redes/Recursos",
     "Analisis de Datos",
     "Redes",
-    "Ing Software II",
-    "Ing software/Trabajos"
+    "Ing Software II"
   ]
 }
