@@ -114,6 +114,7 @@ B ->1 | 0A
 ![[Pasted image 20250902190838.png]]
 L = { $0^n 2$ | n par $\geq$ 0} $\cup$ {$0^m1$ | m > 0}
 
+
 ## 19 Dar una GR que genere todas las secuencias que comiencen por a, terminen con c, y tengan cualquier cantidad (0 o más) de b’s en el medio.
 ac, abc, abbc, ...
 
