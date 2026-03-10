@@ -6,4 +6,4 @@ La arquitectura de software es un conjunto de diagramas, donde se especifica com
 La importancia de la disciplina radica en cumplir de manera exitosa las necesidades del cliente y para poder llegar a entender como funciona el sistema para el desarrollo de la aplicacion y su posterior mantenimiento y modificaciones 
 
 ### Que hace un arquitecto de software
-Realiza el diseño de la aplicacion utilizando diagramas (UML, de flujo, de usuario), tambien define los requisitos no funcionales necesarios para la aplicacion, desglosa macro componentes, en funciones mas chicas 
+Realiza la arquitectura de la aplicacion utilizando diagramas (UML, de flujo, de usuario), tambien define los requisitos no funcionales necesarios para la aplicacion, 
