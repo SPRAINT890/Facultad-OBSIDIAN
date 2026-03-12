@@ -10,6 +10,7 @@
     "Teoria de la computacion",
     "Proyecto TIC",
     "Finanzas y proyectos",
+    "csi",
     "ADA",
     "ADP"
   ],
@@ -114,6 +115,9 @@
     "Clei/Curso 5/Laboratorio 1.md",
     "Clei/Curso 5/Practico 1.md",
     "Clei/Curso 5/Tipo de Malware y Ataques.md"
+  ],
+  "csi": [
+    "csi/Que espero del curso.md"
   ],
   "Finanzas y proyectos": [
     "Finanzas y proyectos/parcial 1.md",
