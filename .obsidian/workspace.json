@@ -25,12 +25,14 @@
             "id": "4e538e44df6f842f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "ADA/Parciales.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.12.4"
+              "icon": "lucide-file",
+              "title": "Parciales"
             }
           }
         ],
@@ -196,8 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e538e44df6f842f",
+  "active": "9c8483d1ef244f85",
   "lastOpenFiles": [
+    "ADA",
+    "ADA/Parciales.md",
     "ADP/introduccion.md",
     "ADP/Ejercicio 1.md",
     "Teoria de la computacion/Recursos/Pasted image 20250902190642.png",
@@ -233,8 +237,6 @@
     "Teoria de la computacion/Recursos/Pasted image 20250821194124.png",
     "Clei/Curso 3/Introduccion.md",
     "Clei/Curso 3/Mas Cosas.md",
-    "Redes/Correccion del parcial.md",
-    "Redes/Protocolos de Acceso multiple.md",
     "Finanzas y proyectos",
     "Teoria de la computacion/Recursos",
     "Teoria de la computacion",
