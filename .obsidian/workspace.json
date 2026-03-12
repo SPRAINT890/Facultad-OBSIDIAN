@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Ejercicio 1"
             }
+          },
+          {
+            "id": "4e538e44df6f842f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d56d74a4f6eed747",
+  "active": "4e538e44df6f842f",
   "lastOpenFiles": [
     "ADP/introduccion.md",
     "ADP/Ejercicio 1.md",
