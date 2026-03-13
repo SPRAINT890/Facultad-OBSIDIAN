@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csi/Que espero del curso.md",
+                "file": "ADA/Primeros algoritmos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Que espero del curso"
+              "title": "Primeros algoritmos"
             }
           }
         ],
@@ -200,15 +200,15 @@
   },
   "active": "4e538e44df6f842f",
   "lastOpenFiles": [
-    "Sin título.md",
-    "csi/Que espero del curso.md",
-    "csi",
-    "ADA/Primeros algoritmos.md",
     "ADA/introduccion.md",
     "ADA/Parciales.md",
-    "ADA",
     "ADP/introduccion.md",
     "ADP/Ejercicio 1.md",
+    "csi/Que espero del curso.md",
+    "Sin título.md",
+    "csi",
+    "ADA/Primeros algoritmos.md",
+    "ADA",
     "Teoria de la computacion/Recursos/Pasted image 20250902190642.png",
     "ADP",
     "Teoria de la computacion/Recursos/Pasted image 20250902190838.png",
