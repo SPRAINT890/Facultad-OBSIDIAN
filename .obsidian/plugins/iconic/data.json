@@ -15,8 +15,8 @@
   "uncolorQuick": false,
   "rememberDeletedItems": false,
   "dialogState": {
-    "iconMode": true,
-    "emojiMode": false,
+    "iconMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
@@ -32,6 +32,13 @@
     "ADP": {
       "icon": "lucide-computer",
       "color": "green",
+      "unsynced": [
+        "11c18ae72c1198b8"
+      ]
+    },
+    "csi": {
+      "icon": "🎨",
+      "color": "pink",
       "unsynced": [
         "11c18ae72c1198b8"
       ]
