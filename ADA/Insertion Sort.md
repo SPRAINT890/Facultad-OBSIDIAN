@@ -11,3 +11,8 @@ Insertion_Sort(A)
 			i=i--
 		A[i+1] = key
 ```
+
+Tj = la cantidad de veces que itera el while
+
+peor caso TJj = J
+mejor caso Tj = 1
