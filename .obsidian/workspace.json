@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADA/Primeros algoritmos.md",
+                "file": "ADA/Insertion Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primeros algoritmos"
+              "title": "Insertion Sort"
             }
           }
         ],
@@ -200,6 +200,9 @@
   },
   "active": "4e538e44df6f842f",
   "lastOpenFiles": [
+    "ADA/Merge Sort.md",
+    "ADA/Insertion Sort.md",
+    "ADA/Primeros algoritmos.md",
     "ADA/introduccion.md",
     "ADA/Parciales.md",
     "ADP/introduccion.md",
@@ -207,7 +210,6 @@
     "csi/Que espero del curso.md",
     "Sin título.md",
     "csi",
-    "ADA/Primeros algoritmos.md",
     "ADA",
     "Teoria de la computacion/Recursos/Pasted image 20250902190642.png",
     "ADP",
@@ -234,8 +236,6 @@
     "Finanzas y proyectos/Ventas.md",
     "Finanzas y proyectos/Park and Go.md",
     "Finanzas y proyectos/Ejemplos.md",
-    "Finanzas y proyectos/Bicicross.md",
-    "Finanzas y proyectos/BCG.md",
     "Teoria de la computacion/Recursos/Pasted image 20250821193856.png",
     "Teoria de la computacion/Recursos/Pasted image 20250821194155.png",
     "Teoria de la computacion/Recursos/Pasted image 20250821194124.png",
