@@ -1,3 +1,4 @@
+#### El tiempo de ejecucion depende del tamaño del array = n
 
 ```Python
 ## A es un array de 2 elementos
@@ -8,4 +9,5 @@ Insertion_Sort(A)
 		while(i>0 and A[i]>key)
 			A[i+1] = A[i]
 			i=i--
+		A[i+1] = key
 ```
