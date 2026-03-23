@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADA/Merge Sort.md",
+                "file": "ADP/Ejercicio 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge Sort"
+              "title": "Ejercicio 1"
             }
           }
         ],
@@ -200,13 +200,13 @@
   },
   "active": "23060b5e093c60c8",
   "lastOpenFiles": [
+    "ADP/introduccion.md",
+    "ADA/Merge Sort.md",
     "ADA/Insertion Sort.md",
     "Pasted image 20260319191436.png",
-    "ADA/Merge Sort.md",
     "ADA/Primeros algoritmos.md",
     "ADA/introduccion.md",
     "ADA/Parciales.md",
-    "ADP/introduccion.md",
     "ADP/Ejercicio 1.md",
     "csi/Que espero del curso.md",
     "Sin título.md",
