@@ -36,4 +36,8 @@ A(p .... k-1)
 A(p, p-1) array vacio por ende ordenado y L(i) Y R(i) ya estan apuntando por defecto a los valores mas chicos sin copiar
 
 #### Mantenimiento
-Suponemos 
+Suponemos sin perder generalidad que L(i) $\leq$ R(i) el array A(p, k-1) contiene los elementos mas chicos ordenados en A y L(i) y R(i) son los mas chicos en copiar en A. Al correr dado el * los valores de P a K copiados en A y el puntero L(i) se incrementa al nuevo valor mas chico se copian en A.
+Por lo tanto en la iteracion siguiente (K + 1) se cumple la invariante
+
+#### Finalizacion
+Al finalizar k=r+1 por lo tanto los valores A(P ... K-) ya estan ordenados en A y estos son los valores de A(p ... r)
