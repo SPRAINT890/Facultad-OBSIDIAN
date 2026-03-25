@@ -27,3 +27,13 @@ Merge_Sort(A, p, r)
 merge(A, p, q, r)
 
 ```
+
+#### Invariante
+Al principio de cada iteracion del loop el subarray A (p . . . k-1) contiene los k - p elementos mas chicos de L y R ordenados y a su vez L (I) y R(i) son los elementos mas pequeños no copiados en A
+
+#### Iniciacion
+A(p .... k-1)
+A(p, p-1) array vacio por ende ordenado y L(i) Y R(i) ya estan apuntando por defecto a los valores mas chicos sin copiar
+
+#### Mantenimiento
+Suponemos 
