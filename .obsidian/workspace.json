@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csi/capturar descubrimiento.md",
+                "file": "ADA/Merge Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "capturar descubrimiento"
+              "title": "Merge Sort"
             }
           }
         ],
@@ -214,16 +214,16 @@
   },
   "active": "51c944fc33270d42",
   "lastOpenFiles": [
-    "Pasted image 20260324200425.png",
     "ADA/Insertion Sort.md",
+    "ADA/Merge Sort.md",
+    "csi/capturar descubrimiento.md",
+    "Pasted image 20260324200425.png",
     "ADP/Ejercicio 1.md",
     "ADP/introduccion.md",
-    "ADA/Merge Sort.md",
     "Pasted image 20260319191436.png",
     "ADA/Primeros algoritmos.md",
     "ADA/introduccion.md",
     "ADA/Parciales.md",
-    "csi/capturar descubrimiento.md",
     "Sin título.md",
     "csi",
     "ADA",
@@ -252,7 +252,6 @@
     "Finanzas y proyectos/Ventas.md",
     "Finanzas y proyectos/Park and Go.md",
     "Teoria de la computacion/Recursos/Pasted image 20250821193856.png",
-    "Teoria de la computacion/Recursos/Pasted image 20250821194155.png",
     "Finanzas y proyectos",
     "Teoria de la computacion/Recursos",
     "Teoria de la computacion",
