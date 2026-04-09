@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADP/Ejercicio 2.md",
+                "file": "ADA/Metodo del arbol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicio 2"
+              "title": "Metodo del arbol"
             }
           }
         ],
@@ -214,8 +214,9 @@
   },
   "active": "51c944fc33270d42",
   "lastOpenFiles": [
-    "ADP/Ejercicio 1.md",
     "ADP/Ejercicio 2.md",
+    "ADA/Metodo del arbol.md",
+    "ADP/Ejercicio 1.md",
     "ADA/Merge Sort.md",
     "ADA/Insertion Sort.md",
     "csi/capturar descubrimiento.md",
@@ -251,7 +252,6 @@
     "Investigacion Operativa/Temas/Programación lineal.md",
     "Teoria de la computacion/Recursos/Pasted image 20250902193704.png",
     "Finanzas y proyectos/Ventas.md",
-    "Finanzas y proyectos/Park and Go.md",
     "Teoria de la computacion/Recursos/Pasted image 20250821193856.png",
     "Finanzas y proyectos",
     "Teoria de la computacion/Recursos",
