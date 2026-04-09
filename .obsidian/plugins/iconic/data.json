@@ -15,7 +15,7 @@
   "uncolorQuick": false,
   "rememberDeletedItems": false,
   "dialogState": {
-    "iconMode": false,
+    "iconMode": true,
     "emojiMode": true,
     "rulePage": "file"
   },

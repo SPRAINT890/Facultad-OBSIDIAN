@@ -23,4 +23,4 @@ $i = \log_{\frac{2}{3}}{n}$
 esto da un aproximado, para saber el valor exacto debo utilizar sustitucion
 
 $Cn(\log_{\frac{2}{3}}{n+1}) =$ O(        )
-$Cn(\log_{\frac{2}{3}}{n+1}) = Cn \log_{\frac{2}{3}}n+Cn =$ O ($n\logn$)
+$Cn(\log_{\frac{2}{3}}{n+1}) = Cn \log_{\frac{2}{3}}n+Cn =$ O ($n\log n$)
