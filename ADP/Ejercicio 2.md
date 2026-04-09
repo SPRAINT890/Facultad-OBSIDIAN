@@ -4,6 +4,7 @@
 	2. Agregar
 	3. Eliminar
 	4. Modificar
+	5. oferta
 2. Carrito
 	1. ver
 	2. agregar
@@ -14,8 +15,8 @@
 	2. estado
 	3. generar
 	4. cancelar
-4. pagos
-	1. pasarela de pagos
+4. pago
+	1. pasarela de pagos api
 	2. paypal
 5. tracking de camiones
 	1. api de tracking de camiones propio
@@ -40,3 +41,14 @@
 	2. pago
 	3. registro
 	4. servicio de mensajeria
+11. facturacion
+	1. ver
+	2. generar
+12. fidelizacion
+	1. ver
+	2. agregar
+	3. quitar
+13. Soporte
+	1. Chat bot
+	2. Chat persona
+	3. tickets
