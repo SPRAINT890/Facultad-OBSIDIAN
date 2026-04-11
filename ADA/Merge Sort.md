@@ -42,6 +42,21 @@ merge(A, p, q, r)
 		else if A[k] = R[j]
 			j = j + 1
 		k = k + 1
+	while i < L and j < R
+		if L[i] <= R[j]
+			A[k] = L[i]
+			i = i + 1
+		else A[k] = R[j]
+			j = j + 1
+		k = k + 1
+	while i<L
+		A[k] = l[i]
+		i = i + 1
+		k = k + 1
+	while j<R
+		A[k] = R[j]
+		j = j + 1
+		k = k + 1
 ```
 
 #### Invariante
