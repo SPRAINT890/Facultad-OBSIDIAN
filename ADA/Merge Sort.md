@@ -25,7 +25,23 @@ Merge_Sort(A, p, r)
 
 ```python
 merge(A, p, q, r)
-
+	L = q-p+1
+	R = r - q
+	let L[0:L - 1] and R[0: R - 1] #be new arrays
+	for i = 0 to L - 1
+		L[i] = A[p + i]
+	for j = 0 to R - 1
+		R[j] = A[q + j + 1]
+	i=0
+	j=0
+	k=p
+	while i<L and j<R
+		if L[i] <+ R[j]
+			A[k] = L[i]
+			i = i+1
+		else if A[k] = R[j]
+			j = j + 1
+		k = k + 1
 ```
 
 #### Invariante
