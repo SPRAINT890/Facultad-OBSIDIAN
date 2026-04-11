@@ -4,12 +4,13 @@
 ## A es un array de 2 elementos
 Insertion_Sort(A)
 	for i=2  to A.length ## c1(n-1)
-		key = A[j] ##c2(n-1)
-		i=j-- ##c3(n-1)
-		while(i>0 and A[i]>key) ##c4 sum tj
-			A[i+1] = A[i] ##c5 sum j-1
-			i=i-- ##c6 sum j-1
-		A[i+1] = key ##c7 (n-1)
+		
+		key = A[i] ##c2(n-1)
+		j=i-- ##c3(n-1)
+		while(j>0 and A[j]>key) ##c4 sum tj
+			A[j+1] = A[j] ##c5 sum j-1
+			j=j-- ##c6 sum j-1
+		A[j+1] = key ##c7 (n-1)
 ```
 
 
