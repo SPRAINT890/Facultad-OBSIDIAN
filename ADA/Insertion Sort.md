@@ -4,7 +4,6 @@
 ## A es un array de 2 elementos
 Insertion_Sort(A)
 	for i=2  to A.length ## c1(n-1)
-		
 		key = A[i] ##c2(n-1)
 		j=i-- ##c3(n-1)
 		while(j>0 and A[j]>key) ##c4 sum tj
