@@ -9,3 +9,19 @@ array length es el tamaño del array del heap
 Array Heap Size es hasta donde va el heap 
 
 la mitad del heap son hojas la otra son nodos
+
+```python
+A[Parent(i)] >= A(i) -> Max_heap para todo i
+A[Parent(i)] <= A(i) -> Min_heap para todo i
+```
+
+```python
+Max_heapify(A, i)
+	l = left(i) #posicion del hijo izquierdo
+	r = right(i) #posicion del hijo derecho
+	if l <= A.heap_size and A[l] >= A[i]
+		target = l
+	else 
+		target = i 
+		
+```
