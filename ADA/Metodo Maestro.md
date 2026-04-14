@@ -10,6 +10,8 @@ Si $f(n)$ = $\Omega$ $(n^{(\log_ba) + \in})$ para algun $\in$  > 0 y si a $f$ n/
 						entonces t(n)=O(f(n))
 						
 
+$\theta$ es por arriba
+$\Omega$ es por abajo
 
 ## caso 1
 T(n)= 9T$(\frac{n}{3})+n$
@@ -60,3 +62,18 @@ $n^{0,793+\in}$ = n log n
 $\in = 0,2$ -> $n^1$ 
 
 $\Omega(n^1)$ de n log n
+
+## Caso 4 Metodo del arbol
+$2T(\frac{n}{2}) + n \log n$
+a) 2
+b) 2
+$f(n) = n \log n$
+
+##### Calculo de $2T(\frac{n}{2})$
+$log_2 2 = 1$
+$n^{\log_b a}$
+n con $n \log n$
+$n^{1+\in}$ sigue siendo menor $n \log n$
+
+$\frac{n^{1,1}}{n\log n} = \frac{n^{0,1}}{\log n}$
+
