@@ -26,8 +26,31 @@ Max_heapify(A, i)
 	if r <= A.heap_size and A[r] >= A[target]
 		target = r
 	
-	nm if target =! i
+	if target =! i
 		exchange A[i] con A[target]
 		Max_heapify(A, largest)
 		
+```
+
+Altura del arbol = h
+Altura del arbol izq = h-1
+Altura del arbol der = h-2
+
+Total: 1 + nodos izq + nodos der
+
+$1 + 2.2^{h-1}-1 + 2^{h-1} -1$
+$3.2^{h-1}-1$ cantidad de nodso en el peor caso
+
+T(n) = T($\frac{2}{3}n$) + O(1)
+
+A = 1
+B = $\frac{3}{2}$
+$f(n) = O(1)$
+$n^{\log_{\frac{2}{3}1}}$ $n^0$ = O()1
+Caso 2 -> $n^0 \log{n} = \log n$
+
+### Build_max_heap
+
+```python
+
 ```
