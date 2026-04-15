@@ -22,6 +22,12 @@ Max_heapify(A, i)
 	if l <= A.heap_size and A[l] >= A[i]
 		target = l
 	else 
-		target = i 
+		target = i
+	if r <= A.heap_size and A[r] >= A[target]
+		target = r
+	
+	nm if target =! i
+		exchange A[i] con A[target]
+		Max_heapify(A, largest)
 		
 ```
