@@ -52,5 +52,8 @@ Caso 2 -> $n^0 \log{n} = \log n$
 ### Build_max_heap
 
 ```python
-
+Build_max_heap(A)
+	A.heap_size = A.lenght
+	for i = ⌊A.lenght/2⌋ down to 1
+		max_heapify(A,i )
 ```
