@@ -20,3 +20,9 @@ partition(A, p, r)
 	swap A[i+1] with A[r]
 	return i+1
 ```
+
+#### Invariante
+Al principio de cada iteracion, para cada indice del array k y/o x
+	Si k esta entre p e i $A[k]$ <= x
+	Si k esta entre i e j $A[k]$ > x
+	Si k esta en r $A[k]$ = x
