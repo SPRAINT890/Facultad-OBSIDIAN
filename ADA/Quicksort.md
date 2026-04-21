@@ -14,4 +14,9 @@ partition(A, p, r)
 	x = A[r]
 	i = p-1
 	for j = p to r-1
+		if A[j] <= x
+			i = i+1
+			swap A[j] with A[i]
+	swap A[i+1] with A[r]
+	return i+1
 ```
