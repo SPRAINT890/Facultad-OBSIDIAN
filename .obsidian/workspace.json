@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADA/Metodo Maestro.md",
+                "file": "ADA/Quicksort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metodo Maestro"
+              "title": "Quicksort"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "4e538e44df6f842f",
   "lastOpenFiles": [
-    "ADA/Metodo del arbol.md",
     "ADA/Metodo Maestro.md",
+    "ADA/Quicksort.md",
+    "ADA/Metodo del arbol.md",
     "ADA/Heap Sort.md",
     "Pasted image 20260414203408.png",
     "Pasted image 20260414202824.png",
