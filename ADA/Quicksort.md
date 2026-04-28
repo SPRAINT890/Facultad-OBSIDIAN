@@ -19,6 +19,11 @@ partition(A, p, r)
 			swap A[j] with A[i] #1
 	swap A[i+1] with A[r] #1
 	return i+1 #1
+
+Randomized_partition
+	i = Random(p, r)
+	swap A[j] with A[i]
+	return partition (A, p, r)
 ```
 
 #### Invariante
