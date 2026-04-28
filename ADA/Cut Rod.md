@@ -16,3 +16,7 @@ P(4) + S(2)
 P(5) + S(1)
 
 S(n) = Max($P_i$ + S(n - i))
+
+```python
+Cut_ro
+```
