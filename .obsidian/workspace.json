@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADA/Quicksort.md",
+                "file": "ADA/Cut Rod.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quicksort"
+              "title": "Cut Rod"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "4e538e44df6f842f",
   "lastOpenFiles": [
-    "ADA/Metodo Maestro.md",
     "ADA/Quicksort.md",
+    "ADA/Cut Rod.md",
+    "ADA/Programacion Dinamica.md",
+    "ADA/LCS.md",
+    "ADA/Insertion Sort.md",
+    "ADA/parcial 1.md",
+    "ADA/Metodo Maestro.md",
     "ADA/Metodo del arbol.md",
     "ADA/Heap Sort.md",
     "Pasted image 20260414203408.png",
@@ -198,7 +203,6 @@
     "ADA/introduccion.md",
     "ADA/Parciales.md",
     "ADA/Primeros algoritmos.md",
-    "ADA/Insertion Sort.md",
     "Pasted image 20260409190839.png",
     "Pasted image 20260409185629.png",
     "Pasted image 20260409183011.png",
@@ -219,11 +223,7 @@
     "Clei/Curso 3/Bibliografia C3.md",
     "Teoria de la computacion/Practico 1.md",
     "Teoria de la computacion/Practico 2.md",
-    "Teoria de la computacion/Practico 3.md",
-    "Teoria de la computacion/Ejercicio de parcial.md",
     "Teoria de la computacion/Recursos/Pasted image 20251023192343.png",
-    "Teoria de la computacion/Gramatica.md",
-    "Finanzas y proyectos/parcial 1.md",
     "Finanzas y proyectos",
     "Teoria de la computacion/Recursos",
     "Teoria de la computacion",

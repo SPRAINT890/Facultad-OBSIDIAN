@@ -1,0 +1,1 @@
+Lineal sort, cut rod, lcs, 
