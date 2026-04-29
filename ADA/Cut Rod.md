@@ -1,5 +1,7 @@
 Mayor ingreso posible a partir de la varilla?
 
+#### Sin programacion dinamica
+
 |        | 1   | 2   | 3   | ... | n   |
 | ------ | --- | --- | --- | --- | --- |
 | precio |     |     | 10  |     | 25  |
@@ -17,6 +19,22 @@ P(5) + S(1)
 
 S(n) = Max($P_i$ + S(n - i))
 
+P[] es una tabla de precions
 ```python
-Cut_ro
+Cut_rod(p, n)
+	if n == 0
+		return 0
+	q = -inf
+	for i = 1 to n
+		q = max(q, P[i] + cut_rod(p, n-i))
+	return q
+```
+
+#### Con programacion Dinamica
+##### Top_Down
+```python
+memorized_cut_rod(p, n)
+	let r[0, ..., n]
+		for i = 0 to
+
 ```
