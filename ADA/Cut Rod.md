@@ -35,6 +35,19 @@ Cut_rod(p, n)
 ```python
 memorized_cut_rod(p, n)
 	let r[0, ..., n]
-		for i = 0 to
+	for i = 0 to n
+		r[i] = -inf
+	return recursive_cut_rod(p, n, r)
+
+recursive_cut_rod(p, n, r)
+	if r[n] >= 0
+		return r[n]
+	if n == 0
+		q = 0
+	else q = -inf
+		for i = 1 to n
+			q = max(q, p[i] + recursive_cut_rod(p, n-i, r))
+		r[n]=q
+		return q
 
 ```
