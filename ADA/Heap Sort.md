@@ -28,7 +28,7 @@ Max_heapify(A, i)
 	
 	if target =! i
 		exchange A[i] con A[target]
-		Max_heapify(A, largest)
+		Max_heapify(A, target)
 		
 ```
 
