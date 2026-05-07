@@ -18,7 +18,7 @@ pero uno de las fracciones llega antes a O(1), por ende decimo que todos los niv
 
 $(\frac{2}{3})^in=1$
 $n = (\frac{3}{2})^i$
-$i = \log_{\frac{2}{3}}{n}$
+$i = \log_{\frac{3}{2}}{n}$
 
 esto da un aproximado, para saber el valor exacto debo utilizar sustitucion
 
