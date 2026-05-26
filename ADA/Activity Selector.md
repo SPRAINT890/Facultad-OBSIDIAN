@@ -13,3 +13,5 @@ AS $[ij]$
 ## Greedy
 PG + SO = Spgrande
 ``ya ordenados tomar el que finaliza antes compatible con las actividades ya elegidas``
+
+soulucion de problema -> si $a_1$ $\in$ As
