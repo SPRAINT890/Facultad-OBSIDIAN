@@ -27,4 +27,15 @@ Activity_Selector_Recursive(s, f, k, n)
 		return [m] + Activity_Selector_Recursive(s, f, m, n)
 	else
 		return []
+
+Greedy_Activity_Selector(s, f)
+	n = s.length
+	a = []
+	k = 1 #apuntamos a la actividad selecionada
+	for m = 2 to n
+		if s[m] >= f[k]
+			a.append(m)
+			k = m
+		m++
+	return a
 ```
