@@ -18,6 +18,13 @@ soulucion de problema -> si $a_1$ $\in$ As
 
 ``` python
 Activity_Selector_Recursive(s, f, 0, n)
-	Activity_Selector_Recursive(s, f, k, n)
-	
+
+Activity_Selector_Recursive(s, f, k, n)
+	m = k + 1
+	while m <= n and s[m] < f[k]
+		m = m + 1
+	if m<n
+		return [m] + Activity_Selector_Recursive(s, f, m, n)
+	else
+		return []
 ```
