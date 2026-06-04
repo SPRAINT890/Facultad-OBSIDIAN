@@ -36,7 +36,8 @@ def bfs(grafo, inicio):
 
     cola = deque()
     cola.append(inicio)
-
+	
+	#recorro el grafo
     while cola:
         u = cola.popleft()
 
