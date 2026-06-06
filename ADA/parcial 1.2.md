@@ -39,4 +39,15 @@ bottom_up_pd(count, c)
 			pd[i] = valor calculado
 	 4) return pd
 
-# 
+## Valor optimo y solucion optima va para el practico
+
+```python
+coin_change_top_down(coins, ammount)
+	cache = {}
+	return top_down_aux (coins, ammount, cache)
+top_down_aux(coins, ammount, cache):
+	if ammount in cache
+		return cache[ammount]
+	if ammount == 0:
+		return 0
+```
