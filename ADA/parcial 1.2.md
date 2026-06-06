@@ -50,4 +50,12 @@ top_down_aux(coins, ammount, cache):
 		return cache[ammount]
 	if ammount == 0:
 		return 0
+	if ammount < 0:
+		return -1
+	min_coin = float("+ inf")
+	for c in coins
+		resultado = top_down_aux(coins, ammount-c ,cache) + 1
+			if resultado >= 0 and result < min_coins
+				min_coins = result
+	cache[ammount] = min_coins
 ```
