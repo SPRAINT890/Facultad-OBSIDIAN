@@ -40,11 +40,13 @@ bottom_up_pd(count, c)
 	 4) return pd
 
 ## Valor optimo y solucion optima va para el practico
+### Valor optimo
 
 ```python
 coin_change_top_down(coins, ammount)
 	cache = {}
 	return top_down_aux (coins, ammount, cache)
+
 top_down_aux(coins, ammount, cache):
 	if ammount in cache
 		return cache[ammount]
@@ -58,5 +60,33 @@ top_down_aux(coins, ammount, cache):
 			if resultado >= 0 and result < min_coins
 				min_coins = result
 	cache[ammount] = min_coins
+	return cache[ammount]
+```
+
+### Valor y Solucion optima
+
+```python
+coin_change_top_down(coins, ammount)
+	cache = {}
+	solucion = {} #solucion optima
+	top_down_aux (coins, ammount, cache)
+	return cache, soluciones
+
+top_down_aux(coins, ammount, cache):
+	if ammount in cache
+		return cache[ammount]
+	if ammount == 0:
+		return 0
+	if ammount < 0:
+		return -1
+	min_coin = float("+ inf")
+	solucion = null
+	for c in coins
+		resultado = top_down_aux(coins, ammount-c ,cache) + 1
+			if resultado >= 0 and result < min_coins
+				min_coins = result
+				solucion = c #solucion optima
+	cache[ammount] = min_coins
+	soluciones[ammount] = solucion #solucion optima
 	return cache[ammount]
 ```
