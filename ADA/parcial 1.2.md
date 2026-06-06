@@ -58,4 +58,5 @@ top_down_aux(coins, ammount, cache):
 			if resultado >= 0 and result < min_coins
 				min_coins = result
 	cache[ammount] = min_coins
+	return cache[ammount]
 ```
