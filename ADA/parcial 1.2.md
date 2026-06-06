@@ -27,7 +27,7 @@ funcion_aux(i, c)
 	observo el cache
 	if i = 0
 		valor = 0
-
+### Valor optimo
 ```python
 coin_change_bottom_up(coins, ammount)
 	dp = [+inf] x ammount+1
@@ -35,7 +35,21 @@ coin_change_bottom_up(coins, ammount)
 	for i in range (1, ammount+1) #for del bottom up
 		for c in coins if i-c >0
 			dp[i] = min(dp[i], dp[i-c] + 1)
-
+	return dp[ammount]
+```
+### Valor optimo y solucion optima
+```python
+coin_change_bottom_up(coins, ammount)
+	dp = [+inf] x ammount+1
+	solucion = [0] x ammount+1
+	dp[0] = 0
+	for i in range (1, ammount+1) #for del bottom up
+		min_coins = +inf
+		for c in coins if i-c >0
+			if dp[i-c]+1 < dp[i]
+				dp[i]=dp[i-c]+1
+				solucion[i]=c
+	return dp[ammount]
 ```
 #### Bottom Up
 bottom_up_pd(count, c)
