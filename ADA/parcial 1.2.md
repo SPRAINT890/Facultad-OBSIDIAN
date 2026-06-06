@@ -17,16 +17,26 @@ funcion_aux(i, c)
 	if i = 0
 		return 0
 	observo cache
-	si hay cache mis
+	si hay cache mios
 		calculo
 	y guardo en el cache
 	retorno bucle
 
 ##### Con cero en el cache
 funcion_aux(i, c)
+	observo el cache
 	if i = 0
 		valor = 0
 
 #### Bottom Up
-funcion_bottom_up
-	dp = inicializar
+bottom_up_pd(count, c)
+	1) pd: [ ] x 21 (o tamaño de los problemas)
+	2) caso base
+	3) For de bottom_up -> resuelve todos los problemas mas chicos (puede ser mas de uno
+		a = -inf
+		for c in coins:
+			var as min (a, pd (i-c))
+			pd[i] = valor calculado
+	 4) return pd
+
+# 
