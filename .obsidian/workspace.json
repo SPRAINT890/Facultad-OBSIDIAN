@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADA/Breadth First Search.md",
+                "file": "ADA/Deepth First Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Breadth First Search"
+              "title": "Deepth First Search"
             }
           }
         ]
@@ -186,7 +186,7 @@
   "active": "4e538e44df6f842f",
   "lastOpenFiles": [
     "ADP/Caso de Estudio.md",
-    "ADA/Breadth First Search.md",
+    "ADA/Deepth First Search.md",
     "Caso de estudio.drawio.png",
     "ADA/parcial 1.2.md",
     "ADA/Grafos.md",
