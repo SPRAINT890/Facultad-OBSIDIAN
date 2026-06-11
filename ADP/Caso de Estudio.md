@@ -17,3 +17,5 @@
 - Flexibilidad
 
 ## Diagrama
+![[Caso de estudio.drawio.png | 500]]
+
