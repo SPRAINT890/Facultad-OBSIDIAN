@@ -1,13 +1,5 @@
 {
   "/": [
-    "Caso de estudio.drawio.png",
-    "Pasted image 20260414203408.png",
-    "Pasted image 20260414202824.png",
-    "Pasted image 20260409190839.png",
-    "Pasted image 20260409185629.png",
-    "Pasted image 20260409183011.png",
-    "Pasted image 20260324200425.png",
-    "Pasted image 20260319191436.png",
     "base de datos 2",
     "Clei",
     "Ing software",
@@ -20,7 +12,8 @@
     "Finanzas y proyectos",
     "csi",
     "ADA",
-    "ADP"
+    "ADP",
+    "IP"
   ],
   "ADA": [
     "ADA/MST Minimum Spanning Tree.md",
@@ -173,6 +166,14 @@
     "Ing software/Virtualizacion.md"
   ],
   "Ing software/Recursos": [
+    "Ing software/Recursos/Pasted image 20260319191436.png",
+    "Ing software/Recursos/Pasted image 20260324200425.png",
+    "Ing software/Recursos/Pasted image 20260409183011.png",
+    "Ing software/Recursos/Pasted image 20260409185629.png",
+    "Ing software/Recursos/Pasted image 20260409190839.png",
+    "Ing software/Recursos/Pasted image 20260414202824.png",
+    "Ing software/Recursos/Caso de estudio.drawio.png",
+    "Ing software/Recursos/Pasted image 20260414203408.png",
     "Ing software/Recursos/Pasted image 20240820184142.png",
     "Ing software/Recursos/Pasted image 20240820185447.png",
     "Ing software/Recursos/Pasted image 20240820185849.png",
@@ -236,6 +237,11 @@
     "Investigacion Operativa/Temas/Programación Entera.md",
     "Investigacion Operativa/Temas/Programación lineal.md"
   ],
+  "IP": [
+    "IP/recursos",
+    "IP/Conteo.md"
+  ],
+  "IP/recursos": [],
   "Proyecto TIC": [
     "Proyecto TIC/Introduccion.md"
   ],

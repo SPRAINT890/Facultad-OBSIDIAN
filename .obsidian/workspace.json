@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADA/MST Minimum Spanning Tree.md",
+                "file": "IP/Conteo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MST Minimum Spanning Tree"
+              "title": "Conteo"
             }
           }
         ]
@@ -185,10 +185,13 @@
   },
   "active": "4e538e44df6f842f",
   "lastOpenFiles": [
-    "ADA/Deepth First Search.md",
+    "IP/recursos",
+    "IP",
+    "Ing software/Recursos/Caso de estudio.drawio.png",
+    "IP/Conteo.md",
     "ADA/MST Minimum Spanning Tree.md",
+    "ADA/Deepth First Search.md",
     "ADP/Caso de Estudio.md",
-    "Caso de estudio.drawio.png",
     "ADA/parcial 1.2.md",
     "ADA/Grafos.md",
     "ADA/Activity Selector.md",
@@ -204,21 +207,19 @@
     "ADA/Cut Rod.md",
     "ADA/LCS.md",
     "ADA/Metodo Maestro.md",
-    "Pasted image 20260414203408.png",
-    "Pasted image 20260414202824.png",
+    "Ing software/Recursos/Pasted image 20260414203408.png",
+    "Ing software/Recursos/Pasted image 20260414202824.png",
     "ADP/Ejercicio 2.md",
     "ADP/introduccion.md",
     "csi/capturar descubrimiento.md",
     "ADA/introduccion.md",
     "ADA/Parciales.md",
     "ADA/Primeros algoritmos.md",
-    "Pasted image 20260409190839.png",
-    "Pasted image 20260409185629.png",
-    "Pasted image 20260409183011.png",
-    "ADP/Ejercicio 1.md",
-    "Pasted image 20260324200425.png",
-    "Pasted image 20260319191436.png",
-    "Sin título.md",
+    "Ing software/Recursos/Pasted image 20260409190839.png",
+    "Ing software/Recursos/Pasted image 20260409185629.png",
+    "Ing software/Recursos/Pasted image 20260409183011.png",
+    "Ing software/Recursos/Pasted image 20260324200425.png",
+    "Ing software/Recursos/Pasted image 20260319191436.png",
     "csi",
     "ADA",
     "Teoria de la computacion/Recursos/Pasted image 20250902190642.png",
@@ -231,7 +232,6 @@
     "Untitled",
     "Untitled.canvas",
     "Redes/Untitled.canvas",
-    "Redes/Recursos",
-    "Analisis de Datos"
+    "Redes/Recursos"
   ]
 }

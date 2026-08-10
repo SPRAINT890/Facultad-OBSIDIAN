@@ -22,26 +22,12 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
-    "ADA": {
-      "icon": "lucide-codesandbox",
-      "color": "red",
+    "IP": {
+      "icon": "lucide-graduation-cap",
       "unsynced": [
         "11c18ae72c1198b8"
-      ]
-    },
-    "ADP": {
-      "icon": "lucide-computer",
-      "color": "green",
-      "unsynced": [
-        "11c18ae72c1198b8"
-      ]
-    },
-    "csi": {
-      "icon": "🎨",
-      "color": "pink",
-      "unsynced": [
-        "11c18ae72c1198b8"
-      ]
+      ],
+      "color": "green"
     }
   },
   "bookmarkIcons": {},
