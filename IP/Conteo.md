@@ -32,4 +32,8 @@ $A_3^5 = \frac{7!}{3!} = \frac{7!}{(7-4)!}$
 ## Las Tres Formulas
 $A_n^m = \frac{m!}{(m-n)!}$
 $P_n = n!$
-$C_n^m = \frac{m!}{}$
+$C_n^m = \frac{m!}{(m-n)!n!}$
+
+## Arreglos con Repeticion
+$AR_n^m = m^n$
+
