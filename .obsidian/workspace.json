@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IP/Conteo.md",
+                "file": "Mate 2 La Resureccion/Primera clase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conteo"
+              "title": "Primera clase"
             }
           }
         ]
@@ -185,10 +185,12 @@
   },
   "active": "4e538e44df6f842f",
   "lastOpenFiles": [
+    "Mate 2 La Resureccion",
+    "IP/Conteo.md",
+    "Mate 2 La Resureccion/Primera clase.md",
     "IP/recursos",
     "IP",
     "Ing software/Recursos/Caso de estudio.drawio.png",
-    "IP/Conteo.md",
     "ADA/MST Minimum Spanning Tree.md",
     "ADA/Deepth First Search.md",
     "ADP/Caso de Estudio.md",
@@ -214,7 +216,6 @@
     "csi/capturar descubrimiento.md",
     "ADA/introduccion.md",
     "ADA/Parciales.md",
-    "ADA/Primeros algoritmos.md",
     "Ing software/Recursos/Pasted image 20260409190839.png",
     "Ing software/Recursos/Pasted image 20260409185629.png",
     "Ing software/Recursos/Pasted image 20260409183011.png",
@@ -231,7 +232,6 @@
     "Proyecto TIC",
     "Untitled",
     "Untitled.canvas",
-    "Redes/Untitled.canvas",
-    "Redes/Recursos"
+    "Redes/Untitled.canvas"
   ]
 }

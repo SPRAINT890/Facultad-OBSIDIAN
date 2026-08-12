@@ -13,6 +13,7 @@
     "csi",
     "ADA",
     "ADP",
+    "Mate 2 La Resureccion",
     "IP"
   ],
   "ADA": [
@@ -242,6 +243,9 @@
     "IP/Conteo.md"
   ],
   "IP/recursos": [],
+  "Mate 2 La Resureccion": [
+    "Mate 2 La Resureccion/Primera clase.md"
+  ],
   "Proyecto TIC": [
     "Proyecto TIC/Introduccion.md"
   ],
