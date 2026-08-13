@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Ecuaciones dif"
             }
+          },
+          {
+            "id": "8ddb5e17f483ac19",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -183,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e538e44df6f842f",
+  "active": "8ddb5e17f483ac19",
   "lastOpenFiles": [
     "Mate 2 La Resureccion",
     "IP/Conteo.md",
