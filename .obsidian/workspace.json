@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mate 2 La Resureccion/Ecuaciones dif.md",
+                "file": "IP/Conteo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ecuaciones dif"
+              "title": "Conteo"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "Registro de cambios 1.13.7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ddb5e17f483ac19",
+  "active": "4e538e44df6f842f",
   "lastOpenFiles": [
+    "Mate 2 La Resureccion/Ecuaciones dif.md",
     "Mate 2 La Resureccion",
     "IP/Conteo.md",
-    "Mate 2 La Resureccion/Ecuaciones dif.md",
     "IP/recursos",
     "IP",
     "Ing software/Recursos/Caso de estudio.drawio.png",
@@ -245,7 +244,6 @@
     "Teoria de la computacion/Recursos",
     "Teoria de la computacion",
     "Proyecto TIC",
-    "Untitled",
     "Untitled.canvas",
     "Redes/Untitled.canvas"
   ]
